@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794519596,
- "fecha_unix": 1794519596,
- "fecha": "2026-11-12T22:39:56+01:00",
+ "serie": 1794523158,
+ "fecha_unix": 1794523158,
+ "fecha": "2026-11-12T23:39:18+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -3269,29 +3269,29 @@
   {
    "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
    "tipo": "pdf",
-   "blob": "b/6ae35fb67764509b5d9641443ecc3afb.bin",
-   "bytes": 1004603,
-   "sha256": "ee1bfcdc632df931521c6f6771f02203cd994927dc15e9c9641524b4b0eba4f4",
-   "bytes_cifrado": 1004636,
-   "sha256_cifrado": "2700e7e6532098b2f714faa242747f1be5dba6b38aa9bab6687e33f039be8c01",
-   "origen_sha256": "d94877aa058afe8fe4d2135b9beaed34d6635ff34f7c054e58baac539bc6fa99",
+   "blob": "b/d2ff0e80f7dd6d4cc9f8d7583bb33e03.bin",
+   "bytes": 1081647,
+   "sha256": "72e7041ebb49ba0d84f4ca4765ec946fde8d3d54a8f77dc2527146b496f3eb99",
+   "bytes_cifrado": 1081680,
+   "sha256_cifrado": "1b7936ca9d59d491ec49ebbd46fd54c009845cddff8ced5babbf7faca0b16975",
+   "origen_sha256": "974b75cef06d0d2e6cf135c3789afd8e8274b2813bfff00a801e7a7689fcc180",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 998629,
-    "size": 290,
+    "xref": 1074912,
+    "size": 328,
     "raiz": "1 0 R",
-    "encrypt": "289 0 R",
-    "id": "[<028ab71f99d61041d4ef61614b9c0ddd><028ab71f99d61041d4ef61614b9c0ddd>]",
+    "encrypt": "327 0 R",
+    "id": "[<dba515d075690ce7365b2e6111da439c><dba515d075690ce7365b2e6111da439c>]",
     "formato": 1,
-    "clave": "3f402fce8a5207c1765ce0fcea57aa70e93648d8d688c9744bf53aa34caee7e2",
-    "paginas": 60,
+    "clave": "99cb72735c2cbb05b65d87f4ea22c3ed5ff56c8480b9205f944d917310611d1b",
+    "paginas": 69,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 75,
+      "obj": 86,
       "gen": 0,
       "caja": [
        0.0,
@@ -3300,38 +3300,38 @@
        841.91998
       ],
       "rot": 0,
-      "paginas": 60
+      "paginas": 69
      }
     ]
    },
-   "novedades": "Nueva versión: horas y curso del módulo verificados en la norma autonómica vigente y formación en empresa recalculada como parte proporcional del curso (un solo RA completo dualizado); descarga e imprime la nueva."
+   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
    "tipo": "pdf",
-   "blob": "b/0a64ba1b175965f3fb12a95c36834d44.bin",
-   "bytes": 1039243,
-   "sha256": "96094142c9aa7d06fd7596a68266a60e4d815b6cc6f07aa67682c546f83c5f6d",
-   "bytes_cifrado": 1039276,
-   "sha256_cifrado": "a9af8537771f696f5e23886ad5bcc1940accff406450a0b44b83aa0fca8e9c9d",
-   "origen_sha256": "aa5b873d3457994ab34019add44cfcc59104769e85e9554399e8fa5b38a5b2c3",
+   "blob": "b/89bc2c6127736cd6258a2fa5d9d57cfa.bin",
+   "bytes": 1144776,
+   "sha256": "31743a9900c974351c0712d59e552fbcf52d00ad5a2f269aaf152266532f9843",
+   "bytes_cifrado": 1144809,
+   "sha256_cifrado": "5fccee164c0fed4914d0eda82414e57765135005479a80dcddc29c9343683015",
+   "origen_sha256": "5dcc184be71a9177629a0198c2d0dcbe5b4276350a3ee099d0140e3ce4f416df",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1031768,
-    "size": 365,
+    "xref": 1136461,
+    "size": 407,
     "raiz": "1 0 R",
-    "encrypt": "364 0 R",
-    "id": "[<4e4f254ff8d4e5f964952678f75c9869><4e4f254ff8d4e5f964952678f75c9869>]",
+    "encrypt": "406 0 R",
+    "id": "[<b0c14e17ac3f27501ac8b82fe496d2af><b0c14e17ac3f27501ac8b82fe496d2af>]",
     "formato": 1,
-    "clave": "265ce13b5da30264892774cb73df7ec1fe7d37bb69fbeee009035cfb83b12a6e",
-    "paginas": 60,
+    "clave": "4b164a886321f3bc1437e5b37c9c873d5543149420c28b2f4c850e0618f7f7a4",
+    "paginas": 70,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 75,
+      "obj": 87,
       "gen": 0,
       "caja": [
        0.0,
@@ -3340,38 +3340,38 @@
        841.91998
       ],
       "rot": 0,
-      "paginas": 60
+      "paginas": 70
      }
     ]
    },
-   "novedades": "Nueva versión: horas y curso del módulo verificados en la norma autonómica vigente y formación en empresa recalculada como parte proporcional del curso (un solo RA completo dualizado); descarga e imprime la nueva."
+   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
    "tipo": "pdf",
-   "blob": "b/0d692e736fe3eb20727cc0305246ef8b.bin",
-   "bytes": 1071934,
-   "sha256": "5724c777cee12c1efa1bb7cc065c7341b49e82f8aa2b50021309502ded6bafad",
-   "bytes_cifrado": 1071967,
-   "sha256_cifrado": "2283ea383e0b1bf2fa1ba3a26d06606db5ab121aeafeb5b2f0d34d506fbfbc84",
-   "origen_sha256": "73eedc7a175434bb4c39845c3b59211e20d38fa4096216a50079021260ff5f52",
+   "blob": "b/4606addd8f7fffea92d7505c4d79a553.bin",
+   "bytes": 1224389,
+   "sha256": "f1711c7c4c86eafb40479eed4480a00c1bfffea66d4c2992aa32076cb0fa32d3",
+   "bytes_cifrado": 1224422,
+   "sha256_cifrado": "4c17389fc973b92142c1d4e15db3691e31e84d7d443779c0cbf046eb2184e157",
+   "origen_sha256": "0982e162cb4642cdaa42180850c95ec95de7450e698315d81d57b38440fa98d7",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1064899,
-    "size": 343,
+    "xref": 1216514,
+    "size": 385,
     "raiz": "1 0 R",
-    "encrypt": "342 0 R",
-    "id": "[<e1640d36721d9d0ae2478a10991f5310><e1640d36721d9d0ae2478a10991f5310>]",
+    "encrypt": "384 0 R",
+    "id": "[<46ab53d0ff92e33bac1542aa0dd1430b><46ab53d0ff92e33bac1542aa0dd1430b>]",
     "formato": 1,
-    "clave": "606d0af074d04a300d13c8cb330cd0e3a3e4ffebc15c75b9d319b183c0bc0720",
-    "paginas": 60,
+    "clave": "c43d67d52f5b4926c20959c70f8bd91dfd5467e55e6fb84e897e2959d3667267",
+    "paginas": 70,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 75,
+      "obj": 87,
       "gen": 0,
       "caja": [
        0.0,
@@ -3380,38 +3380,38 @@
        841.91998
       ],
       "rot": 0,
-      "paginas": 60
+      "paginas": 70
      }
     ]
    },
-   "novedades": "Nueva versión: horas y curso del módulo verificados en la norma autonómica vigente y formación en empresa recalculada como parte proporcional del curso (un solo RA completo dualizado); descarga e imprime la nueva."
+   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
    "tipo": "pdf",
-   "blob": "b/2cc65de82ef7b8ab31709290f0ffe486.bin",
-   "bytes": 1068446,
-   "sha256": "cd93f555c82918a88e3d93d54115c30abfb9ac06ebc4bdce97145aa85fa407de",
-   "bytes_cifrado": 1068479,
-   "sha256_cifrado": "d1993dc24b10df42fbadd2e91e4e2389359cd465db493bc0acc659730318b2ab",
-   "origen_sha256": "c3e18d63740ffc98d41fc26bf2a18fe37753ab8691d7706d212a21f70eb1e6e9",
+   "blob": "b/64e698dc95d564bfd47707d225659d2d.bin",
+   "bytes": 1207323,
+   "sha256": "43272f93fc6060b160b17a9ed057c5f5991ef91cede5c4968aabf7df48f48979",
+   "bytes_cifrado": 1207356,
+   "sha256_cifrado": "4ffe04da689b6fa24276969ac387dfa6ee27a6fc26a61d0e4ecf0f8d3ad8c179",
+   "origen_sha256": "8274eef10b99ec8e1392965d998acfa05039663a1d00543ff49ce0c55abf9dda",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1060491,
-    "size": 389,
+    "xref": 1198528,
+    "size": 431,
     "raiz": "1 0 R",
-    "encrypt": "388 0 R",
-    "id": "[<b6c55497bf1a3b2f93945f585dc10b57><b6c55497bf1a3b2f93945f585dc10b57>]",
+    "encrypt": "430 0 R",
+    "id": "[<a83de5c5af5cfce9fa8ab00a1ab3d883><a83de5c5af5cfce9fa8ab00a1ab3d883>]",
     "formato": 1,
-    "clave": "8cc147670b29f3197a1fbaddc38e33bd9d4a1b69322cf0229711fbdc01b72f84",
-    "paginas": 60,
+    "clave": "c1c2ee7c53e29558f6e816ac5a31f377398efe2342c6fcb989cb87584f9b7ca4",
+    "paginas": 70,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 75,
+      "obj": 87,
       "gen": 0,
       "caja": [
        0.0,
@@ -3420,38 +3420,38 @@
        841.91998
       ],
       "rot": 0,
-      "paginas": 60
+      "paginas": 70
      }
     ]
    },
-   "novedades": "Nueva versión: horas y curso del módulo verificados en la norma autonómica vigente y formación en empresa recalculada como parte proporcional del curso (un solo RA completo dualizado); descarga e imprime la nueva."
+   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
    "tipo": "pdf",
-   "blob": "b/bf8142d82c59a73fb3ef9ab7918f42d4.bin",
-   "bytes": 1011342,
-   "sha256": "0f8e7f50ac3d3133bd7f5a555dbec8a914ae1118e705d80de54a4193dd9bf005",
-   "bytes_cifrado": 1011375,
-   "sha256_cifrado": "b65b1bbdec04d1c84d9b364304ddf9c07c482b7235d860330a180699be5afc3e",
-   "origen_sha256": "71794ad56e9eaff9f34a6f62c31ce2d75ac29597dadb063953221ff4d7796b7e",
+   "blob": "b/89569cea290e368d7a78985dba549480.bin",
+   "bytes": 1154163,
+   "sha256": "ad356b2bf8f59ee23e80e9cac403f8e048e2392297efa4843a7acf1d50229118",
+   "bytes_cifrado": 1154196,
+   "sha256_cifrado": "cf2141f7ec880fa2b5fa8af68ee400a4eb67e5e01be540512ecf7cd17aafe8f3",
+   "origen_sha256": "526d010f55b628667badb5526ceccb3d51412614a94814d531e23534d337e791",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1004107,
-    "size": 353,
+    "xref": 1146408,
+    "size": 379,
     "raiz": "1 0 R",
-    "encrypt": "352 0 R",
-    "id": "[<a5d880a94c0dc1fce620405995a382c8><a5d880a94c0dc1fce620405995a382c8>]",
+    "encrypt": "378 0 R",
+    "id": "[<18c9ff7bd25b9cc2924978a893bd13b7><18c9ff7bd25b9cc2924978a893bd13b7>]",
     "formato": 1,
-    "clave": "d9e45f8b6ee954cae106bd5f3dce87ee84edfcdaf0d149d461040738ed9807f3",
-    "paginas": 60,
+    "clave": "7928f0e8a51100eafe8781ef3768348b8f623ab2506a68929be93e94d0389f2b",
+    "paginas": 69,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 75,
+      "obj": 76,
       "gen": 0,
       "caja": [
        0.0,
@@ -3460,38 +3460,38 @@
        841.91998
       ],
       "rot": 0,
-      "paginas": 60
+      "paginas": 69
      }
     ]
    },
-   "novedades": "Nueva versión: horas y curso del módulo verificados en la norma autonómica vigente y formación en empresa recalculada como parte proporcional del curso (un solo RA completo dualizado); descarga e imprime la nueva."
+   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
    "tipo": "pdf",
-   "blob": "b/5d5b170889b4143328e3ccb78a6c9c87.bin",
-   "bytes": 958065,
-   "sha256": "d582e96abee919e652647db76fdf7c78b477b2642db52f30c081702cd22a44a2",
-   "bytes_cifrado": 958098,
-   "sha256_cifrado": "fca8edf5b598d03baa8955bc49ad26886673e34294009aeee81cc6c6c2c088f2",
-   "origen_sha256": "8ea0d95a587a1629fe47d5072a35ac8519c4587b3d51b08735dff5f457239841",
+   "blob": "b/0b18429ec1663ea609130034aeacba0d.bin",
+   "bytes": 952696,
+   "sha256": "06e8ea93c7b8f044192cb8f2ce67b4ac2c53fcdc0d5db2f6360ab986c54f03e2",
+   "bytes_cifrado": 952729,
+   "sha256_cifrado": "4b99b768692021fe8251ccfc0367bbed7ce8c8449b07daf28217e00b8ca3fe54",
+   "origen_sha256": "5613ccc1d7c54e16b6e0f1feb762088d1e9857758808543812efcfe0dc17e276",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 950451,
-    "size": 372,
+    "xref": 944242,
+    "size": 414,
     "raiz": "1 0 R",
-    "encrypt": "371 0 R",
-    "id": "[<845ef484928913429b02918b00985466><845ef484928913429b02918b00985466>]",
+    "encrypt": "413 0 R",
+    "id": "[<fd6198cff888925a63dad2bcc342ced7><fd6198cff888925a63dad2bcc342ced7>]",
     "formato": 1,
-    "clave": "85e13aed68b10745ca0f64ca052674df808a1721a33ef635310a54ea5bc1740e",
-    "paginas": 60,
+    "clave": "5de24fbf9d8a8cebc72443498ace421112bbbe2a9823c82dae5bad09ab67183c",
+    "paginas": 70,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 75,
+      "obj": 87,
       "gen": 0,
       "caja": [
        0.0,
@@ -3500,23 +3500,23 @@
        841.91998
       ],
       "rot": 0,
-      "paginas": 60
+      "paginas": 70
      }
     ]
    },
-   "novedades": "Nueva versión: horas y curso del módulo verificados en la norma autonómica vigente y formación en empresa recalculada como parte proporcional del curso (un solo RA completo dualizado); descarga e imprime la nueva."
+   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
   }
  ],
  "muestras": [
   {
    "ruta": "muestras/MUESTRA_TEMA_01_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/ab354a52c7e12879a80c43a3d7aa4793.bin",
+   "blob": "b/4d08f20b245eb484db9b871193d75b2a.bin",
    "bytes": 587503,
-   "sha256": "c2b49c240484cc94774356e3d9a29ff2ce7c79ed151ead45c7a167108277e7e6",
+   "sha256": "acfdc00f7b6e4b8dee050684e741af301291d8770845aca4d4d1234a94aa0c81",
    "bytes_cifrado": 587536,
-   "sha256_cifrado": "cf009e1f3c7c694f0b693422453d8cfcbc103169a9b61a9d0775c6e16ba282ad",
-   "origen_sha256": "c2b49c240484cc94774356e3d9a29ff2ce7c79ed151ead45c7a167108277e7e6",
+   "sha256_cifrado": "b6a4ea4f91d17da9c68ec73380e805553ef8ca686090777d253d68f415c67e42",
+   "origen_sha256": "acfdc00f7b6e4b8dee050684e741af301291d8770845aca4d4d1234a94aa0c81",
    "actualizado": "2026-11-12",
    "titulo": "Muestra del Tema 1 (extracto)",
    "novedades": "Muestra resellada; sin cambios de contenido."
@@ -3524,12 +3524,12 @@
   {
    "ruta": "muestras/MUESTRA_PRACTICA_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/7e2c7ca45d47c1373034eafeeb4e7772.bin",
+   "blob": "b/314c2c5488bd78f360c009fd88241f0a.bin",
    "bytes": 133094,
-   "sha256": "ebee97564f51ae44f4d93671536c2ca650272fd8aa1f3aa14083b339e5f1c47f",
+   "sha256": "905b6f414c7bc0cddb9a4fb2d580ef12b6fc1d47a68749272a28a9a322762d09",
    "bytes_cifrado": 133127,
-   "sha256_cifrado": "7e6f4ef5d92db926ced885e5f856782b15e974dcfa9838cb55535108bdb7af48",
-   "origen_sha256": "ebee97564f51ae44f4d93671536c2ca650272fd8aa1f3aa14083b339e5f1c47f",
+   "sha256_cifrado": "aa131721f0a39dc5b6c859e9936b066984895648a7992f5b23fe01fd773662f5",
+   "origen_sha256": "905b6f414c7bc0cddb9a4fb2d580ef12b6fc1d47a68749272a28a9a322762d09",
    "actualizado": "2026-11-12",
    "titulo": "Muestra de supuesto práctico (ejercicio resuelto)",
    "novedades": "Muestra resellada; sin cambios de contenido."
@@ -3537,12 +3537,12 @@
   {
    "ruta": "muestras/MUESTRA_PRACTICA_ADUANAS_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/576c044c189d31412b47320c42178472.bin",
+   "blob": "b/507370b390ee26e3e77375f7cc9b1b91.bin",
    "bytes": 189546,
-   "sha256": "787a37bbecb0e3a13f8a7a523238dfb721e00238dc2b935a106acec45d295ae9",
+   "sha256": "5365215f917ac3e7b8e4f7ec9e447362736a6cfd7f81cf338b115c854983c6f3",
    "bytes_cifrado": 189579,
-   "sha256_cifrado": "a2e597969f6d057ace80d5764358b5778216878a4b2e4b9358e7574570558ef0",
-   "origen_sha256": "787a37bbecb0e3a13f8a7a523238dfb721e00238dc2b935a106acec45d295ae9",
+   "sha256_cifrado": "fb234c57e541ead6ed16fec59fb2ab36831e5608343f8e0cc90910368b47998f",
+   "origen_sha256": "5365215f917ac3e7b8e4f7ec9e447362736a6cfd7f81cf338b115c854983c6f3",
    "actualizado": "2026-11-12",
    "titulo": "Muestra de supuesto práctico de aduanas (valor en aduana y deuda aduanera)",
    "novedades": "Muestra resellada; sin cambios de contenido."
@@ -3550,15 +3550,15 @@
   {
    "ruta": "muestras/MUESTRA_PROGRAMACION_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/ff9b250cf138f84bcc1042a48f59d829.bin",
-   "bytes": 503329,
-   "sha256": "f16d56963d44ecd99a07de37bdc88095e9ae38cb1ee8de0a5939cbf67b3a1136",
-   "bytes_cifrado": 503362,
-   "sha256_cifrado": "d5b00a83407612074b77a4bd3cf55d6a9b29e2c6bc83a9106a5241d89fe57777",
-   "origen_sha256": "f16d56963d44ecd99a07de37bdc88095e9ae38cb1ee8de0a5939cbf67b3a1136",
+   "blob": "b/a9660fdc5a0410d20cbbad7599b0e038.bin",
+   "bytes": 504413,
+   "sha256": "23d8ac03afccad2fa0c31168c0de8f7cfb82f48bf1d8282b1ba5d72495f43668",
+   "bytes_cifrado": 504446,
+   "sha256_cifrado": "8c4d9b7f797170bc87193d93701bca814a99a1baccb303930204029fec521f01",
+   "origen_sha256": "23d8ac03afccad2fa0c31168c0de8f7cfb82f48bf1d8282b1ba5d72495f43668",
    "actualizado": "2026-11-12",
    "titulo": "Muestra de programación didáctica (extracto)",
-   "novedades": "Nueva muestra: portada, índice, competencias, objetivos y contenidos de la programación 0627 (Región de Murcia) y una página con lo que incluye la versión completa."
+   "novedades": "Muestra regenerada con la versión 5: misma selección (portada, índice, competencias, objetivos y contenidos de la 0627) y texto final actualizado (programación de 60 páginas + anexos de defensa)."
   }
  ],
  "novedades_semana": [
@@ -3966,6 +3966,146 @@
    "ubicacion": "Apartados 1.2 (carga lectiva), 5.4 (secuenciación), 6 (cuadros de unidad y de sesiones de las unidades del RA dualizado), 8.2 (verificación normativa de la formación en empresa) y Parte II",
    "antes": "Horas en la empresa fijadas por el centro y unidades del RA dualizado con otras horas de empresa.",
    "ahora": "Horas en la empresa = parte proporcional de las 100 h de primero (160 h en Murcia) o de las 400 h de segundo, con el cálculo y la norma en el apartado 8.2; resto de la programación recalculado (sesiones, fechas y evaluación).",
+   "alcance": "amplio"
+  },
+  {
+   "id": "5e041b718475d43c",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "muestras",
+   "tipo": "actualizacion",
+   "ruta": "muestras/MUESTRA_PRACTICA_ADUANAS_OGC.pdf",
+   "titulo": "Muestras",
+   "nota": "Muestra resellada; sin cambios de contenido.",
+   "ubicacion": "Todo el documento",
+   "antes": "Sello anterior.",
+   "ahora": "Sello nuevo.",
+   "alcance": "menor"
+  },
+  {
+   "id": "4b41b3bb41e81917",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "muestras",
+   "tipo": "actualizacion",
+   "ruta": "muestras/MUESTRA_PRACTICA_OGC.pdf",
+   "titulo": "Muestras",
+   "nota": "Muestra resellada; sin cambios de contenido.",
+   "ubicacion": "Todo el documento",
+   "antes": "Sello anterior.",
+   "ahora": "Sello nuevo.",
+   "alcance": "menor"
+  },
+  {
+   "id": "d8d7e9e188cb206d",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "muestras",
+   "tipo": "actualizacion",
+   "ruta": "muestras/MUESTRA_PROGRAMACION_OGC.pdf",
+   "titulo": "Muestra de programación didáctica",
+   "nota": "Muestra regenerada con la versión 5: misma selección (portada, índice, competencias, objetivos y contenidos de la 0627) y texto final actualizado (programación de 60 páginas + anexos de defensa).",
+   "ubicacion": "Índice y página final «Qué incluye la versión completa»",
+   "antes": "Índice de la versión 4 y «60 páginas en total».",
+   "ahora": "Índice de la versión 5 y «programación de 60 páginas + anexos de defensa».",
+   "alcance": "menor"
+  },
+  {
+   "id": "618049da5fb9a3fa",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "muestras",
+   "tipo": "actualizacion",
+   "ruta": "muestras/MUESTRA_TEMA_01_OGC.pdf",
+   "titulo": "Muestras",
+   "nota": "Muestra resellada; sin cambios de contenido.",
+   "ubicacion": "Todo el documento",
+   "antes": "Sello anterior.",
+   "ahora": "Sello nuevo.",
+   "alcance": "menor"
+  },
+  {
+   "id": "801c89d991243ffd",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
+   "titulo": "Programación didáctica (versión 5)",
+   "nota": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva.",
+   "ubicacion": "Todo el documento: apartados 1 (nota de personalización), 1.2, 5.4, 6 (unidades del RA dualizado), 8.2 a 8.4, anexos I a IV y anexos de defensa",
+   "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
+   "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "6fceb4f6a25385e6",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
+   "titulo": "Programación didáctica (versión 5)",
+   "nota": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva.",
+   "ubicacion": "Todo el documento: apartados 1 (nota de personalización), 1.2, 5.4, 6 (unidades del RA dualizado), 8.2 a 8.4, anexos I a IV y anexos de defensa",
+   "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
+   "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "5f283807fc93aaf0",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
+   "titulo": "Programación didáctica (versión 5)",
+   "nota": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva.",
+   "ubicacion": "Todo el documento: apartados 1 (nota de personalización), 1.2, 5.4, 6 (unidades del RA dualizado), 8.2 a 8.4, anexos I a IV y anexos de defensa",
+   "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
+   "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "13fcc7764f1fc96c",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
+   "titulo": "Programación didáctica (versión 5)",
+   "nota": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva.",
+   "ubicacion": "Todo el documento: apartados 1 (nota de personalización), 1.2, 5.4, 6 (unidades del RA dualizado), 8.2 a 8.4, anexos I a IV y anexos de defensa",
+   "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
+   "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "d5296b967569cb64",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
+   "titulo": "Programación didáctica (versión 5)",
+   "nota": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva.",
+   "ubicacion": "Todo el documento: apartados 1 (nota de personalización), 1.2, 5.4, 6 (unidades del RA dualizado), 8.2 a 8.4, anexos I a IV y anexos de defensa",
+   "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
+   "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "db063da29cdad3c5",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794523158,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
+   "titulo": "Programación didáctica (versión 5)",
+   "nota": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva.",
+   "ubicacion": "Todo el documento: apartados 1 (nota de personalización), 1.2, 5.4, 6 (unidades del RA dualizado), 8.2 a 8.4, anexos I a IV y anexos de defensa",
+   "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
+   "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
    "alcance": "amplio"
   }
  ],
