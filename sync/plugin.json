@@ -1,14 +1,14 @@
 {
  "tipo": "ogc-paginas-plugin",
  "plugin": "ogc-paginas",
- "version": "2.1.2",
- "zip": "ogc-paginas-2.1.2.zip",
- "sha256": "b13020bdb71514ae2017b60fc800fa634704a3efe1b5fe2ef46991738cb5e5c5",
- "bytes": 1891523,
- "fecha_unix": 1794477272,
- "fecha": "2026-11-12T10:54:32+01:00",
+ "version": "2.1.3",
+ "zip": "ogc-paginas-2.1.3.zip",
+ "sha256": "7a22b2b78fe945fabf11a364202a7cfe1f6377b1dca83ad3f96ebffb957553a5",
+ "bytes": 1896930,
+ "fecha_unix": 1794495494,
+ "fecha": "2026-11-12T15:58:14+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "OGC Páginas 2.1.2. Actualización firmada por Preparador OGC."
+ "notas": "OGC Páginas 2.1.3. Actualización firmada por Preparador OGC."
 }
