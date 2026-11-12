@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794471140,
- "fecha_unix": 1794471140,
- "fecha": "2026-11-12T09:12:20+01:00",
+ "serie": 1794495021,
+ "fecha_unix": 1794495021,
+ "fecha": "2026-11-12T15:50:21+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12a",
  "productos": {
@@ -3486,5 +3486,8 @@
    "titulo": "Muestra de programación didáctica (extracto)"
   }
  ],
- "novedades_semana": []
+ "novedades_semana": [],
+ "claves_envueltas": {
+  "75cf36c4a182f9d2": "cav9R8aAJRAp5dLGUOqNtYhKVxIxQ7ZjS3Kz6CTKjRxMMhUeIYWCZRtyydnB3c93tJqMOJbx0YBUqMi8Rhye5rWFYivylEkwUe6G3lnorUM="
+ }
 }
