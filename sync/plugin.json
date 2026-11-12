@@ -3,12 +3,12 @@
  "plugin": "ogc-paginas",
  "version": "2.1.1",
  "zip": "ogc-paginas-2.1.1.zip",
- "sha256": "2fe9524e0db945d7eaf88e17b6981afe3802d3ecf771d2a7cff2666b42ff8cf4",
- "bytes": 1840686,
- "fecha_unix": 1794452418,
- "fecha": "2026-11-12T04:00:18+01:00",
+ "sha256": "539ef14e7fce2124beb0bff9fdf8a83c64fc2a7a6d08cecf5515433abfa6dc66",
+ "bytes": 1890081,
+ "fecha_unix": 1794468949,
+ "fecha": "2026-11-12T08:35:49+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "OGC Páginas 2.1.1. Control de calidad 12/11/2026: promesas comerciales verificadas (sin factura automática, sin límite de dispositivos, supuestos en PDF + Excel, programación en PDF), condiciones de venta coherentes."
+ "notas": "OGC Páginas 2.1.1. Actualización firmada por Preparador OGC."
 }
