@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794496282,
- "fecha_unix": 1794496282,
- "fecha": "2026-11-12T16:11:22+01:00",
+ "serie": 1794507960,
+ "fecha_unix": 1794507960,
+ "fecha": "2026-11-12T19:26:00+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -101,10 +101,15 @@
    ]
   },
   "programacion": {
-   "nombre": "Programación didáctica OGC (5 programaciones modelo en PDF)",
+   "nombre": "Programación didáctica OGC (6 programaciones modelo en PDF: 6 módulos en 6 comunidades)",
    "carpeta_zip": "programacion",
    "archivos": [
-    "programacion/PROGRAMACION_OGC_*.pdf"
+    "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
+    "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
+    "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
+    "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
+    "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
+    "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf"
    ],
    "extras_sin_sellar": []
   },
@@ -125,7 +130,7 @@
    ]
   },
   "pack_programacion": {
-   "nombre": "Pack Programación OGC (5 programaciones modelo + 5 h: 4 h de corrección de la programación y 1 h de clase individual)",
+   "nombre": "Pack Programación OGC (6 programaciones modelo + 5 h: 4 h de corrección de la programación y 1 h de clase individual)",
    "incluye": [
     "programacion"
    ]
@@ -3260,40 +3265,40 @@
    "actualizado": "2026-11-12"
   },
   {
-   "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_CLM.pdf",
+   "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
    "tipo": "pdf",
-   "blob": "b/0e52689058432eea3967c5f57d5650c3.bin",
-   "bytes": 1543406,
-   "sha256": "eea3261a39913312e53377c971e8b5ec60366dc4e7a755ad139ce3d2ee05549c",
-   "bytes_cifrado": 1543439,
-   "sha256_cifrado": "2ff936be16efe589c9314fd39eb95faec24fa7a9e386c43f8022171444127ff1",
-   "origen_sha256": "de2e6c03a9cf583c90bdae3eb8afc5c46be652176b453821e75d40c702d649f8",
+   "blob": "b/35bb59af3381d0a354b59a9a4917d658.bin",
+   "bytes": 1004505,
+   "sha256": "c69aec65dcd0c2a104e6bff7c4aedd1d7c1c8dda8a9a3df4c7e08cf184d28e25",
+   "bytes_cifrado": 1004538,
+   "sha256_cifrado": "1ba932b8c7ec17404dbb7ba9dd07c9171c1bb8bca8c655f7828a8cf51707c509",
+   "origen_sha256": "2ecac390c75c6eda79470d1acd0b1c2f14b5249a529252c5d5adf469b9d1cf5c",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1436581,
-    "size": 5330,
+    "xref": 998511,
+    "size": 291,
     "raiz": "1 0 R",
-    "encrypt": "5329 0 R",
-    "id": "[<ea4c889a59fab4b3705fdd6be1dd4ba0><6f08df0449f0795183da8121e7b051d3>]",
+    "encrypt": "290 0 R",
+    "id": "[<cdac9376f416152ce74cb0f8c5f01115><cdac9376f416152ce74cb0f8c5f01115>]",
     "formato": 1,
-    "clave": "edd3aacb477d09cc777cf42c02098ae240a202e1080b7ee70d13b441d5a0cd29",
-    "paginas": 48,
+    "clave": "e4e8eaaeec70a347c5e38c9ac27ff771a71a361ca2294489da911d716504f57c",
+    "paginas": 60,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 10,
+      "obj": 75,
       "gen": 0,
       "caja": [
        0.0,
        0.0,
-       595.303937007874,
-       841.889763779528
+       594.95996,
+       841.91998
       ],
       "rot": 0,
-      "paginas": 48
+      "paginas": 60
      }
     ]
    }
@@ -3301,77 +3306,38 @@
   {
    "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
    "tipo": "pdf",
-   "blob": "b/1bb7145df7a43d8428635036d6cc8855.bin",
-   "bytes": 1529439,
-   "sha256": "c6a59bf1725cb569102e94775c40fe86c8482397c67173f2db0bd0afd87ef314",
-   "bytes_cifrado": 1529472,
-   "sha256_cifrado": "e3feaa8636dceaaf166dd630b0fc4de8cb35f8ec131b14f79aa19c67d305ffab",
-   "origen_sha256": "28157277a84fbb47e154e4d298db657f17ba8f0153afdc478598d2123c22cd76",
+   "blob": "b/5837486ca0301cccb0e88298d42b7ea1.bin",
+   "bytes": 1012175,
+   "sha256": "9e6cf8ae1bb5d2d7ebe2dcb3106984ddba9406741ae8dbc88f4fcf15a71ebf8c",
+   "bytes_cifrado": 1012208,
+   "sha256_cifrado": "4e10b6853a4c4b2afaadaa668d64f731ffdcfa016a00d5fe92bfb5feaf35ec31",
+   "origen_sha256": "a8b41dad2477da9d48c74da49253e9a5e9d01766bf07eb65d0e0768bfbf8d565",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1422854,
-    "size": 5318,
+    "xref": 1004700,
+    "size": 365,
     "raiz": "1 0 R",
-    "encrypt": "5317 0 R",
-    "id": "[<b264f73345885b6e7751aef67f9c68eb><6f08df0449f0795183da8121e7b051d3>]",
+    "encrypt": "364 0 R",
+    "id": "[<5267b25477b5a8e895dae31205162fd7><5267b25477b5a8e895dae31205162fd7>]",
     "formato": 1,
-    "clave": "1e47914e0f514450c810bac0d34987bce2db89a7562b621bb1745a67ba5133d3",
-    "paginas": 47,
+    "clave": "1fdd107cba16f6c3735ef2361d65e9edfc9bbdcf71ee4f87b7311de8f82ab144",
+    "paginas": 60,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 10,
+      "obj": 75,
       "gen": 0,
       "caja": [
        0.0,
        0.0,
-       595.303937007874,
-       841.889763779528
+       594.95996,
+       841.91998
       ],
       "rot": 0,
-      "paginas": 47
-     }
-    ]
-   }
-  },
-  {
-   "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
-   "tipo": "pdf",
-   "blob": "b/ddf615bb4bbd5ae7aa628051dc2a748f.bin",
-   "bytes": 1327615,
-   "sha256": "c3c363d98821fbfef6accb00cce0482d4808241e73e42126aa402dcf1bc2abe3",
-   "bytes_cifrado": 1327648,
-   "sha256_cifrado": "2e7c493345f96013cf4c90b12072d14dd6da2ca2b440c4c26c25f0f8774f71b5",
-   "origen_sha256": "3fb58557916939fc9dffbf6f192636934fff915b60be329f7fdeaf88c71ad42d",
-   "actualizado": "2026-11-12",
-   "mapa": {
-    "xref": 1236770,
-    "size": 4531,
-    "raiz": "1 0 R",
-    "encrypt": "4530 0 R",
-    "id": "[<d4cc2f55e6d1afd2d1f3fdca935fa4af><f1f4e83c682a300c41d9ee9ebc110ec6>]",
-    "formato": 1,
-    "clave": "0a7dd94390a7114046e3dac3699f9c8b635ab95a96b0d1ccdbe0501be63fc3b9",
-    "paginas": 44,
-    "logo": [
-     600,
-     306
-    ],
-    "sellos": [
-     {
-      "obj": 10,
-      "gen": 0,
-      "caja": [
-       0.0,
-       0.0,
-       595.303937007874,
-       841.889763779528
-      ],
-      "rot": 0,
-      "paginas": 44
+      "paginas": 60
      }
     ]
    }
@@ -3379,38 +3345,38 @@
   {
    "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
    "tipo": "pdf",
-   "blob": "b/71f70ed51eb927cb0975561b22120278.bin",
-   "bytes": 1398364,
-   "sha256": "feb009aa2082ed7f909e4426cd75b055526a97799d939d10639dcdc98ddba766",
-   "bytes_cifrado": 1398397,
-   "sha256_cifrado": "94a30856fabbdaf6ebf1a0741c01883043d50f5e5ab932751fc9baa780687e04",
-   "origen_sha256": "5367bc4df4b5f3d5e69fc6db4ca6acea1a0d511852d597ec21e12410f836888c",
+   "blob": "b/f576203a6ac2cab9c5fe620da64a19ca.bin",
+   "bytes": 1075729,
+   "sha256": "a6416e09931873bb676a37e7ebf1a49e8e4883a7f94dbe26ab6d761fcb46fa4e",
+   "bytes_cifrado": 1075762,
+   "sha256_cifrado": "53c0d9624f22342302a71ec3b5ea6b5f727424de5c64198aacb23760777976c7",
+   "origen_sha256": "647748f18870153531ae3e9af33dbeead69c4cfd3c8802ecb2cffa17b33ceb61",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1298999,
-    "size": 4957,
+    "xref": 1068694,
+    "size": 343,
     "raiz": "1 0 R",
-    "encrypt": "4956 0 R",
-    "id": "[<611f54d4aa583571a9d2455e3cec0dd3><f1f4e83c682a300c41d9ee9ebc110ec6>]",
+    "encrypt": "342 0 R",
+    "id": "[<20d57e312e88e196bd0f74ae28e99112><20d57e312e88e196bd0f74ae28e99112>]",
     "formato": 1,
-    "clave": "896189557459e2b3e2b30cacc92f20d126a83be14c4126fff1dd3f8b4d5fb302",
-    "paginas": 43,
+    "clave": "f759bcd8dcac91036e8a27b7f40968374b55470fb97852d95d309399641fd753",
+    "paginas": 60,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 10,
+      "obj": 75,
       "gen": 0,
       "caja": [
        0.0,
        0.0,
-       595.303937007874,
-       841.889763779528
+       594.95996,
+       841.91998
       ],
       "rot": 0,
-      "paginas": 43
+      "paginas": 60
      }
     ]
    }
@@ -3418,82 +3384,183 @@
   {
    "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
    "tipo": "pdf",
-   "blob": "b/ce63df3e36a3e8c9c25e84b40e568f4b.bin",
-   "bytes": 1429333,
-   "sha256": "643df1851cfe9f9e5a7d0441f2469168140b4a1adc6e3979b5992e4d17089752",
-   "bytes_cifrado": 1429366,
-   "sha256_cifrado": "f073968db7160abb0942263a83face6fa465c9738b4cef6ddc4ef45c8d51c1f8",
-   "origen_sha256": "872843005bc7f203a8998f090e7c8862460757b52d2ed0f98ae2db8815b16396",
+   "blob": "b/6dcdd713a474d6cc6991a2740cc53613.bin",
+   "bytes": 1065533,
+   "sha256": "c9710ea13493040da3d13e8eec79562937d3de34ea732aaf1b6fa16c3b28a241",
+   "bytes_cifrado": 1065566,
+   "sha256_cifrado": "3e8d42f52f5ab4b96fb45b919cec3ba8e243f29d8771c81705331867e141efa4",
+   "origen_sha256": "848d83eb27ad582f55d8fd378570df767ece26223ae60b339bd631a4e369e6a7",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1328168,
-    "size": 5047,
+    "xref": 1057578,
+    "size": 389,
     "raiz": "1 0 R",
-    "encrypt": "5046 0 R",
-    "id": "[<6e751b95c2a0d29d0c43e220dbecf2ea><f1f4e83c682a300c41d9ee9ebc110ec6>]",
+    "encrypt": "388 0 R",
+    "id": "[<e6d500a1512569d8c99dcf05c2d8e805><e6d500a1512569d8c99dcf05c2d8e805>]",
     "formato": 1,
-    "clave": "3a020d9457b3d16e820b644c1caa2bde253c22caee2ef2edcc1e6dffb28cc020",
-    "paginas": 46,
+    "clave": "b5d8357fe96a4f404adeae8197bc6cd1ce0702f358f6453921623d42f434750d",
+    "paginas": 60,
     "logo": [
      600,
      306
     ],
     "sellos": [
      {
-      "obj": 10,
+      "obj": 75,
       "gen": 0,
       "caja": [
        0.0,
        0.0,
-       595.303937007874,
-       841.889763779528
+       594.95996,
+       841.91998
       ],
       "rot": 0,
-      "paginas": 46
+      "paginas": 60
      }
     ]
    }
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
+   "tipo": "pdf",
+   "blob": "b/4056dfc2839137a606ce287fdacd3107.bin",
+   "bytes": 987783,
+   "sha256": "ff7d6decd6978c6e9305bd273f720000505b243c8fb95a7e67de2ff04c7b66eb",
+   "bytes_cifrado": 987816,
+   "sha256_cifrado": "8c61356babeaa5729a51873e72d436567cbb09278945fd5f585952490dfbbc63",
+   "origen_sha256": "90da9fe4cafc80d49504bacaf217193ec1d9c2ffd85603bd66c7fa09e6eed7ce",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 980549,
+    "size": 353,
+    "raiz": "1 0 R",
+    "encrypt": "352 0 R",
+    "id": "[<e3d5b25a2bdd6e43ad900864d736629d><e3d5b25a2bdd6e43ad900864d736629d>]",
+    "formato": 1,
+    "clave": "6c773db6f4b2cac401c22bf40cd81b8b43b9fda48f01b06e174e58fa0f7b4f5f",
+    "paginas": 60,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 75,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       594.95996,
+       841.91998
+      ],
+      "rot": 0,
+      "paginas": 60
+     }
+    ]
+   },
+   "novedades": "Documento nuevo."
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
+   "tipo": "pdf",
+   "blob": "b/c656a261454c778f2a2c7520d41de750.bin",
+   "bytes": 947970,
+   "sha256": "55d0f2914bbb72712924f78a8abd04e4e88fbada07356e46ab4f1c9353e7405b",
+   "bytes_cifrado": 948003,
+   "sha256_cifrado": "ac14ec3697b728dcac3ec9a4870a566ae4e75311c3ae1e1f4484c5f56be2ae58",
+   "origen_sha256": "bbab9111de607e4062b0739124b25b2807a71f6d8e6eb4b1c4d2827c7bd424b8",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 940356,
+    "size": 372,
+    "raiz": "1 0 R",
+    "encrypt": "371 0 R",
+    "id": "[<b1eedac17e31a6e3455646794d549a39><b1eedac17e31a6e3455646794d549a39>]",
+    "formato": 1,
+    "clave": "705b5912cb6fab9e53fb10efcc57f2e5451f7c9020725ba570d5d5e3bce65f82",
+    "paginas": 60,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 75,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       594.95996,
+       841.91998
+      ],
+      "rot": 0,
+      "paginas": 60
+     }
+    ]
+   },
+   "novedades": "Documento nuevo."
   }
  ],
  "muestras": [
   {
    "ruta": "muestras/MUESTRA_TEMA_01_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/0f0a2d898bbc15e4a9e8d30f34bbec3b.bin",
+   "blob": "b/17e6a9d640b335983e9381928438fdc6.bin",
    "bytes": 587503,
-   "sha256": "051d96b8ea6088d8ad61393e04981dea4f9cd3d3439960353757b0fedde9ab0f",
+   "sha256": "ef8587025dc7ea59895450ac255c4affee9c0048ca9034ace84e5b150bf47256",
    "bytes_cifrado": 587536,
-   "sha256_cifrado": "b417bc4560b359cea818590f44d61d5a0ea0ebf1a629d1e3c657235724344fa0",
-   "origen_sha256": "051d96b8ea6088d8ad61393e04981dea4f9cd3d3439960353757b0fedde9ab0f",
+   "sha256_cifrado": "28724ea7fb627048fdef6f8959a999ea24d06b9a226b6a5a60aaac812cdfc4f3",
+   "origen_sha256": "ef8587025dc7ea59895450ac255c4affee9c0048ca9034ace84e5b150bf47256",
    "actualizado": "2026-11-12",
    "titulo": "Muestra del Tema 1 (extracto)"
   },
   {
    "ruta": "muestras/MUESTRA_PRACTICA_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/670671a9dc1e2874fda4c0950c3ace34.bin",
+   "blob": "b/93e8638008260bf9dde8f905bac63091.bin",
    "bytes": 133094,
-   "sha256": "9273ecef494f243c09ada8313559206b5d303005f4008dda66a4cdf70b1d4dc7",
+   "sha256": "762cdb772b89e2ad029622366bfcfbaff6368eee3275d5ca742ff42bbaeefe30",
    "bytes_cifrado": 133127,
-   "sha256_cifrado": "ae49df1a686c04751d25c83522110f42b3005569d3f1f85e20b923b8afb1512e",
-   "origen_sha256": "9273ecef494f243c09ada8313559206b5d303005f4008dda66a4cdf70b1d4dc7",
+   "sha256_cifrado": "6910dba0b5f6a565859e1797266811990f2451e1899880ebc1de32065a4b2040",
+   "origen_sha256": "762cdb772b89e2ad029622366bfcfbaff6368eee3275d5ca742ff42bbaeefe30",
    "actualizado": "2026-11-12",
    "titulo": "Muestra de supuesto práctico (ejercicio resuelto)"
   },
   {
+   "ruta": "muestras/MUESTRA_PRACTICA_ADUANAS_OGC.pdf",
+   "tipo": "pdf",
+   "blob": "b/6360e3479542d583dad932d16cd70d43.bin",
+   "bytes": 189562,
+   "sha256": "d3b8be5f9888a05d554b309e4466b1bccf80171f11a22b8f05be6edb494dbf8d",
+   "bytes_cifrado": 189595,
+   "sha256_cifrado": "a3bbfd077b1248679396153846e8968af1643126ba239922d4ed3761a4d304ad",
+   "origen_sha256": "d3b8be5f9888a05d554b309e4466b1bccf80171f11a22b8f05be6edb494dbf8d",
+   "actualizado": "2026-11-12",
+   "titulo": "Muestra de supuesto práctico de aduanas (valor en aduana y deuda aduanera)"
+  },
+  {
    "ruta": "muestras/MUESTRA_PROGRAMACION_OGC.pdf",
    "tipo": "pdf",
-   "blob": "b/93f48ea6c2d14c02bd3c50c185101166.bin",
-   "bytes": 440540,
-   "sha256": "eaef14b713c1b3421e8b5c8bd210f4656f8b471e85ad0e022ce9be5b54f5fe05",
-   "bytes_cifrado": 440573,
-   "sha256_cifrado": "a6d1d213256177b774261d850e227c37d4c109b28635a7545d64a3cadc5b190c",
-   "origen_sha256": "eaef14b713c1b3421e8b5c8bd210f4656f8b471e85ad0e022ce9be5b54f5fe05",
+   "blob": "b/be4c1e5030e7cb2fb698ee6e663f53da.bin",
+   "bytes": 423017,
+   "sha256": "56c3cf86abfaa0c6b4779ddc15b283cd7f0fdd7706ab49044df99418ab2ae186",
+   "bytes_cifrado": 423050,
+   "sha256_cifrado": "ee4472313f4e7f3c9e773e15bb8797697b6e0c323acf9457f675ed8ddd9df203",
+   "origen_sha256": "56c3cf86abfaa0c6b4779ddc15b283cd7f0fdd7706ab49044df99418ab2ae186",
    "actualizado": "2026-11-12",
    "titulo": "Muestra de programación didáctica (extracto)"
   }
  ],
- "novedades_semana": [],
+ "novedades_semana": [
+  {
+   "fecha": "2026-11-12",
+   "texto": "Programaciones didácticas renovadas: seis módulos en seis comunidades, 60 páginas con guion de defensa; nueva muestra de supuesto de aduanas"
+  },
+  {
+   "fecha": "2026-11-12",
+   "texto": "Programaciones didácticas renovadas: seis módulos en seis comunidades (Murcia, Madrid, Castilla-La Mancha, Comunitat Valenciana, Navarra y Andalucía), 60 páginas con guion de defensa; nueva muestra de supuesto de aduanas"
+  }
+ ],
  "claves_envueltas": {
   "75cf36c4a182f9d2": "cav9R8aAJRAp5dLGUOqNtYhKVxIxQ7ZjS3Kz6CTKjRxMMhUeIYWCZRtyydnB3c93tJqMOJbx0YBUqMi8Rhye5rWFYivylEkwUe6G3lnorUM="
  }
