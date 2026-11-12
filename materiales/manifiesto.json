@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794510929,
- "fecha_unix": 1794510929,
- "fecha": "2026-11-12T20:15:29+01:00",
+ "serie": 1794516017,
+ "fecha_unix": 1794516017,
+ "fecha": "2026-11-12T21:40:17+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -2952,7 +2952,7 @@
      }
     ]
    },
-   "novedades": "Terminología aduanera actualizada: declaración aduanera H1 en lugar del antiguo DUA (tipos de tributo A00 y B00), Reglamento (UE) 2026/2108 (nuevo Código Aduanero, aplicable desde el 21-9-2027) y novedades de 2026 sobre envíos de escaso valor. Las cifras no cambian."
+   "novedades": "Terminología aduanera puesta al día: el antiguo DUA y su casilla 47 pasan a ser la declaración aduanera H1 (tipo de tributo A00 para los derechos de aduana y B00 para el IVA); se cita el Reglamento (UE) 2026/2108 (nuevo Código Aduanero, aplicable desde el 21-9-2027) y se rehace la caja «Novedades 2026» (envíos de escaso valor: derecho fijo de 3 € solo para IOSS y envíos postales, tasa de gestión de 2 € y centro de datos aduaneros). Ninguna cifra ni solución cambia."
   },
   {
    "ruta": "practica/PRACTICA_02_OGC_Investigacion_mercados_estadistica_marketing.pdf",
@@ -3198,7 +3198,7 @@
    "sha256_cifrado": "e95e04c4989e13eff7a64a93084fa1b3f0728aa6e6c4f4c815805bc02a45cee1",
    "origen_sha256": "bc5844385af133356dab5eb6eb289e6d3c72120f68377aa2b41c88a67c80a886",
    "actualizado": "2026-11-12",
-   "novedades": "Etiquetas actualizadas a la declaración aduanera H1 (A00 y B00). Las cifras no cambian."
+   "novedades": "Etiquetas actualizadas a la declaración aduanera H1 (A00 y B00). Las fórmulas y las cifras no cambian."
   },
   {
    "ruta": "practica/excel/PRACTICA_02_OGC_Soluciones.xlsx",
@@ -3303,7 +3303,8 @@
       "paginas": 60
      }
     ]
-   }
+   },
+   "novedades": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en la Región de Murcia. Sustituye por completo a la versión anterior de esta programación."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
@@ -3342,7 +3343,8 @@
       "paginas": 60
      }
     ]
-   }
+   },
+   "novedades": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en la Comunidad de Madrid. Sustituye por completo a la versión anterior de esta programación."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
@@ -3381,7 +3383,8 @@
       "paginas": 60
      }
     ]
-   }
+   },
+   "novedades": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en Castilla-La Mancha. Sustituye por completo a la versión anterior de esta programación."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
@@ -3420,7 +3423,8 @@
       "paginas": 60
      }
     ]
-   }
+   },
+   "novedades": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en la Comunitat Valenciana. Sustituye por completo a la versión anterior de esta programación."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
@@ -3460,7 +3464,7 @@
      }
     ]
    },
-   "novedades": "Documento nuevo."
+   "novedades": "Programación nueva (no estaba en el material): 60 páginas con guion de defensa y el currículo vigente en Navarra, para el curso 2026-2027."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
@@ -3500,7 +3504,7 @@
      }
     ]
    },
-   "novedades": "Documento nuevo."
+   "novedades": "Programación nueva (no estaba en el material): 60 páginas con guion de defensa y el currículo vigente en Andalucía, para el curso 2026-2027."
   }
  ],
  "muestras": [
@@ -3538,7 +3542,8 @@
    "sha256_cifrado": "a3bbfd077b1248679396153846e8968af1643126ba239922d4ed3761a4d304ad",
    "origen_sha256": "d3b8be5f9888a05d554b309e4466b1bccf80171f11a22b8f05be6edb494dbf8d",
    "actualizado": "2026-11-12",
-   "titulo": "Muestra de supuesto práctico de aduanas (valor en aduana y deuda aduanera)"
+   "titulo": "Muestra de supuesto práctico de aduanas (valor en aduana y deuda aduanera)",
+   "novedades": "Muestra nueva: supuesto práctico de aduanas resuelto (valor en aduana y deuda aduanera con la declaración H1), 3 páginas."
   },
   {
    "ruta": "muestras/MUESTRA_PROGRAMACION_OGC.pdf",
@@ -3550,7 +3555,8 @@
    "sha256_cifrado": "ee4472313f4e7f3c9e773e15bb8797697b6e0c323acf9457f675ed8ddd9df203",
    "origen_sha256": "56c3cf86abfaa0c6b4779ddc15b283cd7f0fdd7706ab49044df99418ab2ae186",
    "actualizado": "2026-11-12",
-   "titulo": "Muestra de programación didáctica (extracto)"
+   "titulo": "Muestra de programación didáctica (extracto)",
+   "novedades": "Muestra nueva de programación didáctica: 9 páginas de la programación 0627 (Región de Murcia) en su versión nueva de 60 páginas. Sustituye a la muestra de programación anterior."
   }
  ],
  "novedades_semana": [
@@ -3561,6 +3567,124 @@
   {
    "fecha": "2026-11-12",
    "texto": "Programaciones didácticas renovadas: seis módulos en seis comunidades (Murcia, Madrid, Castilla-La Mancha, Comunitat Valenciana, Navarra y Andalucía), 60 páginas con guion de defensa; nueva muestra de supuesto de aduanas"
+  }
+ ],
+ "avisos": [
+  {
+   "id": "36c2ae3b950c7ae6",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "muestras",
+   "tipo": "nuevo",
+   "ruta": "muestras/MUESTRA_PRACTICA_ADUANAS_OGC.pdf",
+   "titulo": "Muestra de supuesto práctico de aduanas (valor en aduana y deuda aduanera)",
+   "nota": "Muestra nueva: supuesto práctico de aduanas resuelto (valor en aduana y deuda aduanera con la declaración H1), 3 páginas.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "83ec238fa6f02e6e",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "muestras",
+   "tipo": "nuevo",
+   "ruta": "muestras/MUESTRA_PROGRAMACION_OGC.pdf",
+   "titulo": "Muestra de programación didáctica (extracto)",
+   "nota": "Muestra nueva de programación didáctica: 9 páginas de la programación 0627 (Región de Murcia) en su versión nueva de 60 páginas. Sustituye a la muestra de programación anterior.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "ce595bb4d4a6a52b",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "practica/PRACTICA_01_OGC_Comercio_internacional_finanzas_transporte.pdf",
+   "titulo": "Dossier práctico 1 · Comercio internacional, finanzas y transporte",
+   "nota": "Terminología aduanera puesta al día: el antiguo DUA y su casilla 47 pasan a ser la declaración aduanera H1 (tipo de tributo A00 para los derechos de aduana y B00 para el IVA); se cita el Reglamento (UE) 2026/2108 (nuevo Código Aduanero, aplicable desde el 21-9-2027) y se rehace la caja «Novedades 2026» (envíos de escaso valor: derecho fijo de 3 € solo para IOSS y envíos postales, tasa de gestión de 2 € y centro de datos aduaneros). Ninguna cifra ni solución cambia.",
+   "ubicacion": "Portada (normativa de referencia); marco teórico, págs. 3-4 (CAU 2026/2108, declaración H1 y caja «Novedades 2026»); Ejercicio 1, págs. 7-9 (apartados b y c del enunciado, nacimiento de la deuda y liquidación); caso final, págs. 24-25 (pregunta 2 y tabla 17); normativa y fuentes, págs. 30-31.",
+   "antes": "«En el Documento Único Administrativo (DUA), la casilla 47 recoge el cálculo de los tributos»; «El DUA liquida 2.509,10 € de derechos y 11.887,91 € de IVA»; «Total liquidado en el DUA (A00 + B00)».",
+   "ahora": "«las importaciones se declaran con la declaración aduanera H1… tipo de tributo A00 para los derechos de aduana y B00 para el IVA»; «La declaración H1 liquida 2.509,10 € de derechos y 11.887,91 € de IVA»; «Total liquidado con la declaración H1 (A00 + B00)».",
+   "alcance": "menor"
+  },
+  {
+   "id": "5c4447364fc20552",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "practica/excel/PRACTICA_01_OGC_Soluciones.xlsx",
+   "titulo": "Hoja Excel de soluciones del dossier práctico 1",
+   "nota": "Etiquetas actualizadas a la declaración aduanera H1 (A00 y B00). Las fórmulas y las cifras no cambian.",
+   "ubicacion": "Hoja «Ej1 Valor aduana», celdas B3 y B30; hoja «Caso Urbantex», celda B45.",
+   "antes": "«… derechos A00 e IVA B00 del DUA»; «Total liquidado en el DUA (A00 + B00)»; «Total del DUA (A00 + B00)».",
+   "ahora": "«… derechos A00 e IVA B00 de la declaración aduanera H1»; «Total liquidado con la declaración H1 (A00 + B00)»; «Total de la declaración H1 (A00 + B00)».",
+   "alcance": "menor"
+  },
+  {
+   "id": "f56bf70be8166a8c",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "nuevo",
+   "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
+   "titulo": "Programación didáctica 0623 Gestión económica y financiera de la empresa (Comunidad de Madrid)",
+   "nota": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en la Comunidad de Madrid. Sustituye por completo a la versión anterior de esta programación.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "0b04d23e974a3209",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "nuevo",
+   "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
+   "titulo": "Programación didáctica 0627 Gestión administrativa del comercio internacional (Región de Murcia)",
+   "nota": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en la Región de Murcia. Sustituye por completo a la versión anterior de esta programación.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "21343899d232bc48",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "nuevo",
+   "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
+   "titulo": "Programación didáctica 0629 Organización del transporte de mercancías (Andalucía)",
+   "nota": "Programación nueva (no estaba en el material): 60 páginas con guion de defensa y el currículo vigente en Andalucía, para el curso 2026-2027.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "c5a4fb32ad43f5d0",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "nuevo",
+   "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
+   "titulo": "Programación didáctica 0826 Medios de pago internacionales (Navarra)",
+   "nota": "Programación nueva (no estaba en el material): 60 páginas con guion de defensa y el currículo vigente en Navarra, para el curso 2026-2027.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "a474192273805a65",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "nuevo",
+   "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
+   "titulo": "Programación didáctica 0930 Políticas de marketing (Castilla-La Mancha)",
+   "nota": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en Castilla-La Mancha. Sustituye por completo a la versión anterior de esta programación.",
+   "alcance": "amplio"
+  },
+  {
+   "id": "e906ea8b6fe75af2",
+   "fecha": "2026-11-12",
+   "fecha_unix": 1794516017,
+   "grupo": "archivos",
+   "tipo": "nuevo",
+   "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
+   "titulo": "Programación didáctica 1010 Investigación comercial (Comunitat Valenciana)",
+   "nota": "Programación nueva para el curso 2026-2027: 60 páginas con guion de defensa y el currículo vigente en la Comunitat Valenciana. Sustituye por completo a la versión anterior de esta programación.",
+   "alcance": "amplio"
   }
  ],
  "claves_envueltas": {
