@@ -1,14 +1,14 @@
 {
  "tipo": "ogc-paginas-plugin",
  "plugin": "ogc-paginas",
- "version": "2.1.0",
- "zip": "ogc-paginas-2.1.0.zip",
- "sha256": "8928263a7425fd525c93260fd2798cacefea7abe329995eea0688c4bafa8d962",
- "bytes": 1840448,
- "fecha_unix": 1794450760,
- "fecha": "2026-11-12T03:32:40+01:00",
+ "version": "2.1.1",
+ "zip": "ogc-paginas-2.1.1.zip",
+ "sha256": "2fe9524e0db945d7eaf88e17b6981afe3802d3ecf771d2a7cff2666b42ff8cf4",
+ "bytes": 1840686,
+ "fecha_unix": 1794452418,
+ "fecha": "2026-11-12T04:00:18+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "OGC Páginas 2.1.0: entradas del blog firmadas (programadas), dirección /blog/ con 301, robots.txt, llms.txt, IndexNow y autoactualización del plugin."
+ "notas": "OGC Páginas 2.1.1. Control de calidad 12/11/2026: promesas comerciales verificadas (sin factura automática, sin límite de dispositivos, supuestos en PDF + Excel, programación en PDF), condiciones de venta coherentes."
 }
