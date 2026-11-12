@@ -1,0 +1,2 @@
+# La firma es de los bytes exactos: sin conversión de finales de línea.
+sync/** -text
