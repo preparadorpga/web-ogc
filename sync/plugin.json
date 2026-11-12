@@ -1,14 +1,14 @@
 {
  "tipo": "ogc-paginas-plugin",
  "plugin": "ogc-paginas",
- "version": "2.1.1",
- "zip": "ogc-paginas-2.1.1.zip",
- "sha256": "539ef14e7fce2124beb0bff9fdf8a83c64fc2a7a6d08cecf5515433abfa6dc66",
- "bytes": 1890081,
- "fecha_unix": 1794468949,
- "fecha": "2026-11-12T08:35:49+01:00",
+ "version": "2.1.2",
+ "zip": "ogc-paginas-2.1.2.zip",
+ "sha256": "12a140997e1718f77a601cf82bacf73e4deafbea0da885492c9e3428313cd1d4",
+ "bytes": 1891489,
+ "fecha_unix": 1794471943,
+ "fecha": "2026-11-12T09:25:43+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "OGC Páginas 2.1.1. Actualización firmada por Preparador OGC."
+ "notas": "OGC Páginas 2.1.2: sin Payment Link, «Comprar» abre un correo (no WhatsApp); WhatsApp solo como pago alternativo de packs en oferta y clases; formulario de muestras de OGC Ventas 1.1; condiciones, privacidad y cookies con la entrega Online + PDF (2 dispositivos)."
 }

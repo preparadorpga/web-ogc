@@ -1,0 +1,3490 @@
+{
+ "tipo": "ogc-materiales",
+ "formato": 1,
+ "serie": 1794471140,
+ "fecha_unix": 1794471140,
+ "fecha": "2026-11-12T09:12:20+01:00",
+ "clave_id": "a3d210574e6a6c7c",
+ "version_productos": "2026-11-12a",
+ "productos": {
+  "temario": {
+   "nombre": "Temario completo OGC (71 temas, PDF)",
+   "carpeta_zip": "temario",
+   "archivos": [
+    "temas/TEMA_01_OGC_Economia.pdf",
+    "temas/TEMA_02_OGC_Microeconomia.pdf",
+    "temas/TEMA_03_OGC_Macroeconomia_Balanza_de_Pagos.pdf",
+    "temas/TEMA_04_OGC_Sectores_economicos_comercio_transporte.pdf",
+    "temas/TEMA_05_OGC_Analisis_mercado_segmentacion.pdf",
+    "temas/TEMA_06_OGC_Investigacion_de_mercados.pdf",
+    "temas/TEMA_07_OGC_Analisis_estadistico_y_muestreo.pdf",
+    "temas/TEMA_08_OGC_Estadistica_descriptiva_y_numeros_indices.pdf",
+    "temas/TEMA_09_OGC_Marketing_en_la_empresa.pdf",
+    "temas/TEMA_10_OGC_Politica_de_producto.pdf",
+    "temas/TEMA_11_OGC_Politica_de_precios.pdf",
+    "temas/TEMA_12_OGC_Politica_de_distribucion.pdf",
+    "temas/TEMA_13_OGC_Politica_de_comunicacion.pdf",
+    "temas/TEMA_14_OGC_Planificacion_control_marketing.pdf",
+    "temas/TEMA_15_OGC_Sistemas_gestion_informacion.pdf",
+    "temas/TEMA_16_OGC_Proceso_de_compra_proveedores.pdf",
+    "temas/TEMA_17_OGC_Contrato_de_compraventa.pdf",
+    "temas/TEMA_18_OGC_Planificacion_sistema_de_ventas.pdf",
+    "temas/TEMA_19_OGC_Terminal_punto_de_venta_medios_de_pago.pdf",
+    "temas/TEMA_20_OGC_Proceso_de_comunicacion.pdf",
+    "temas/TEMA_21_OGC_Negociacion_y_tecnicas_de_venta.pdf",
+    "temas/TEMA_22_OGC_Atencion_cliente_postventa_reclamaciones.pdf",
+    "temas/TEMA_23_OGC_Empresa_empresario_formas_juridicas.pdf",
+    "temas/TEMA_24_OGC_Proyecto_empresarial_viabilidad_constitucion.pdf",
+    "temas/TEMA_25_OGC_Gestion_recursos_humanos.pdf",
+    "temas/TEMA_26_OGC_Impuestos_indirectos_IVA.pdf",
+    "temas/TEMA_27_OGC_Impuestos_directos_empresa.pdf",
+    "temas/TEMA_28_OGC_Contabilidad_Plan_General_Contable.pdf",
+    "temas/TEMA_29_OGC_Analisis_economico_financiero.pdf",
+    "temas/TEMA_30_OGC_Legislacion_laboral_contrato_trabajo.pdf",
+    "temas/TEMA_31_OGC_Sistema_Seguridad_Social.pdf",
+    "temas/TEMA_32_OGC_Recibo_salario_cotizacion_IRPF.pdf",
+    "temas/TEMA_33_OGC_Inspeccion_de_consumo_toma_de_muestras.pdf",
+    "temas/TEMA_34_OGC_Legislacion_consumo_sectores_inspeccion.pdf",
+    "temas/TEMA_35_OGC_Entidades_organismos_proteccion_consumidor.pdf",
+    "temas/TEMA_36_OGC_Tecnicas_inspeccion_consumo_actas.pdf",
+    "temas/TEMA_37_OGC_Infracciones_sanciones_fraudes_consumo.pdf",
+    "temas/TEMA_38_OGC_Atencion_reclamaciones_mediacion_arbitraje.pdf",
+    "temas/TEMA_39_OGC_Planes_formativos_campanas_consumo.pdf",
+    "temas/TEMA_40_OGC_Entorno_internacional_competencia.pdf",
+    "temas/TEMA_41_OGC_Organizaciones_internacionales_politica_comercial_UE.pdf",
+    "temas/TEMA_42_OGC_Investigacion_mercados_internacionales.pdf",
+    "temas/TEMA_43_OGC_Formas_de_entrada_mercados_internacionales.pdf",
+    "temas/TEMA_44_OGC_Contratacion_internacional_Incoterms.pdf",
+    "temas/TEMA_45_OGC_Regimenes_comerciales_importacion_exportacion.pdf",
+    "temas/TEMA_46_OGC_Arancel_y_nomenclaturas.pdf",
+    "temas/TEMA_47_OGC_Origen_de_las_mercancias.pdf",
+    "temas/TEMA_48_OGC_Valor_en_aduana.pdf",
+    "temas/TEMA_49_OGC_Regimenes_aduaneros_DUA.pdf",
+    "temas/TEMA_50_OGC_Seguro_transporte_mercancias.pdf",
+    "temas/TEMA_51_OGC_Sistema_financiero_nacional_internacional.pdf",
+    "temas/TEMA_52_OGC_Capitalizacion_actualizacion_simple.pdf",
+    "temas/TEMA_53_OGC_Capitalizacion_compuesta_rentas.pdf",
+    "temas/TEMA_54_OGC_Prestamo_sistemas_amortizacion.pdf",
+    "temas/TEMA_55_OGC_Emprestitos.pdf",
+    "temas/TEMA_56_OGC_Mercado_de_divisas.pdf",
+    "temas/TEMA_57_OGC_Cobertura_de_riesgos.pdf",
+    "temas/TEMA_58_OGC_Financiacion_comercio_internacional.pdf",
+    "temas/TEMA_59_OGC_Seguro_credito_exportacion.pdf",
+    "temas/TEMA_60_OGC_Financiacion_licitaciones_internacionales.pdf",
+    "temas/TEMA_61_OGC_Credito_documentario.pdf",
+    "temas/TEMA_62_OGC_Cheque_transferencia_orden_pago.pdf",
+    "temas/TEMA_63_OGC_Remesa_simple_documentaria.pdf",
+    "temas/TEMA_64_OGC_Garantias_bancarias.pdf",
+    "temas/TEMA_65_OGC_Medios_de_transporte.pdf",
+    "temas/TEMA_66_OGC_Optimizacion_de_rutas.pdf",
+    "temas/TEMA_67_OGC_Departamento_de_explotacion.pdf",
+    "temas/TEMA_68_OGC_Centros_de_distribucion_de_cargas.pdf",
+    "temas/TEMA_69_OGC_Infraestructura_transporte_terrestre.pdf",
+    "temas/TEMA_70_OGC_Precio_transporte_tarifas.pdf",
+    "temas/TEMA_71_OGC_Gestion_servicios_transporte_terrestre.pdf"
+   ]
+  },
+  "supuestos": {
+   "nombre": "Supuestos prácticos OGC (PDF + hojas Excel de soluciones)",
+   "carpeta_zip": "supuestos",
+   "archivos": [
+    "practica/PRACTICA_01_OGC_Comercio_internacional_finanzas_transporte.pdf",
+    "practica/PRACTICA_02_OGC_Investigacion_mercados_estadistica_marketing.pdf",
+    "practica/PRACTICA_03_OGC_Empresa_fiscalidad_contabilidad_RRHH.pdf",
+    "practica/PRACTICA_04_OGC_Transporte_logistica_almacen.pdf",
+    "practica/PRACTICA_05_OGC_Comercio_internacional_avanzado.pdf",
+    "practica/PRACTICA_06_OGC_Consumo_atencion_cliente_venta.pdf",
+    "practica/PRACTICA_07_OGC_Marketing_estadistica_avanzada.pdf"
+   ],
+   "extras_sin_sellar": [
+    "practica/excel/PRACTICA_0*_OGC_Soluciones.xlsx"
+   ]
+  },
+  "programacion": {
+   "nombre": "Programación didáctica OGC (5 programaciones modelo en PDF)",
+   "carpeta_zip": "programacion",
+   "archivos": [
+    "programacion/PROGRAMACION_OGC_*.pdf"
+   ],
+   "extras_sin_sellar": []
+  },
+  "pack": {
+   "nombre": "Pack completo OGC (temario + supuestos + programación)",
+   "incluye": [
+    "temario",
+    "supuestos",
+    "programacion"
+   ]
+  },
+  "pack_clases": {
+   "nombre": "Pack completo OGC + 10 h de clases individuales",
+   "incluye": [
+    "temario",
+    "supuestos",
+    "programacion"
+   ]
+  }
+ },
+ "stripe_payment_links": {
+  "plink_PENDIENTE_TEMARIO": "temario",
+  "plink_PENDIENTE_SUPUESTOS": "supuestos",
+  "plink_PENDIENTE_PROGRAMACION": "programacion",
+  "plink_PENDIENTE_PACK": "pack",
+  "plink_PENDIENTE_PACK_10H": "pack_clases"
+ },
+ "archivos": [
+  {
+   "ruta": "temas/TEMA_01_OGC_Economia.pdf",
+   "tipo": "pdf",
+   "blob": "b/657e577b66b3a9ed33120a4180052b0c.bin",
+   "bytes": 821253,
+   "sha256": "35a09ba381f1ae7d3fe73b0e07f615eb57c078b04e1c52ce12452c0558058074",
+   "bytes_cifrado": 821286,
+   "sha256_cifrado": "cb557cd5544088cc9a4519d98443b9fb14f5694d00b55fa0c26aad6804b17e0f",
+   "origen_sha256": "171e2d377d66568b86a6899163e263d6b2f30eb9418322d82a658fa72af13236",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 791489,
+    "size": 1477,
+    "raiz": "1 0 R",
+    "encrypt": "1476 0 R",
+    "id": "[<aee5153f3c46d930a206ba8c6b5eb651><3a4aa98dcace1747d414a913cab2dba1>]",
+    "formato": 1,
+    "clave": "ca8cf10fbeab8e6572b6aca8905b4bf6a66c699d14859218604beeeef2b97f7a",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_02_OGC_Microeconomia.pdf",
+   "tipo": "pdf",
+   "blob": "b/a97144dc0ce514392293fad68bb998ff.bin",
+   "bytes": 931250,
+   "sha256": "d2c0aac7471e07ba1c2f27600cf5cf9504dbbb8da8987643ed4368006c324229",
+   "bytes_cifrado": 931283,
+   "sha256_cifrado": "173bf29f46bd948cb2aa965cd7cf769cf69b118882cb77db404f84e0d79cc3b9",
+   "origen_sha256": "90de7e47a47ae7a8d25e8d404b27ff0e01e05352ea1e58d4e3d6b29fc7dfd16e",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 901546,
+    "size": 1474,
+    "raiz": "1 0 R",
+    "encrypt": "1473 0 R",
+    "id": "[<6161df426303cba93af54e4c6e90ad77><af408f8d4dc8bd7ab97f8af2eae0058b>]",
+    "formato": 1,
+    "clave": "c6a7ab97e2225a3fdb83451d63a29a34a64339122d66abba4e5abf86d7017d52",
+    "paginas": 24,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 24
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_03_OGC_Macroeconomia_Balanza_de_Pagos.pdf",
+   "tipo": "pdf",
+   "blob": "b/8853e50295948e7d9e1a7f94619b52b0.bin",
+   "bytes": 812547,
+   "sha256": "7b5d30918fc1d886f92433200f6d705952020b304e5b85cc7d52a713d3123175",
+   "bytes_cifrado": 812580,
+   "sha256_cifrado": "fdc57f2347fcb2e25de6e968f61abcd639a301c96445c10fba26d3963ce2dfff",
+   "origen_sha256": "32a155753329e2253f457f700dd42489a21002b077ee8827be6c6ee6d9bd9723",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 785543,
+    "size": 1339,
+    "raiz": "1 0 R",
+    "encrypt": "1338 0 R",
+    "id": "[<abf36322dc1104564381e5e30502bdd8><af408f8d4dc8bd7ab97f8af2eae0058b>]",
+    "formato": 1,
+    "clave": "40374e90272fa5999d5485336980863b1f4141b00a47f4b4bff0fa58e53d54a3",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_04_OGC_Sectores_economicos_comercio_transporte.pdf",
+   "tipo": "pdf",
+   "blob": "b/fb0dda267f303c213032204ac699df6e.bin",
+   "bytes": 876553,
+   "sha256": "8d32d7f0db2f97855e0ab2220256e0cf0b0a7c4a709311de0b22dad5e88a3378",
+   "bytes_cifrado": 876586,
+   "sha256_cifrado": "50a7c932edb1a4a6e7c723aaf444c337bdb0c96f382988e2d8539c8eb5f0b3ba",
+   "origen_sha256": "959a95b08eec531010df2ca08c3d1f1e65fd08239ec36c6d3da15a3202107a39",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 843549,
+    "size": 1639,
+    "raiz": "1 0 R",
+    "encrypt": "1638 0 R",
+    "id": "[<465ed7df2452a6b08753ef0a993d2825><af408f8d4dc8bd7ab97f8af2eae0058b>]",
+    "formato": 1,
+    "clave": "6480ee51150148abbb6848e3b9844a009800654a6c64cc884e280129f5fbdba3",
+    "paginas": 24,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 24
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_05_OGC_Analisis_mercado_segmentacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/280cb20cdc67ade6f8e1e9691f2728c3.bin",
+   "bytes": 755090,
+   "sha256": "3f918835b7f93425f4349b192226e1a9c411b7d57a1c73f4b7fdf3f9db7fd59f",
+   "bytes_cifrado": 755123,
+   "sha256_cifrado": "6182c10966dcfd9ee517f4b68ffa02b77e4bd00876fc343bee3d489a25be5ad6",
+   "origen_sha256": "bfc88ef6b7a974c4d3718a604ce6c8b9d3036ea8b3655d80efa0005c0b59ffb3",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 725466,
+    "size": 1470,
+    "raiz": "1 0 R",
+    "encrypt": "1469 0 R",
+    "id": "[<21a7e99b339503adabe4e281b0738386><7a03cf33e27a6a4df02f3e3694f2ec5b>]",
+    "formato": 1,
+    "clave": "2c2c7bd6f0de348c7fdb510e983ce1f822cd7c4514b0d4615511944f7837dc80",
+    "paginas": 24,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 24
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_06_OGC_Investigacion_de_mercados.pdf",
+   "tipo": "pdf",
+   "blob": "b/387e520ab47159320d38855bb868fe67.bin",
+   "bytes": 853968,
+   "sha256": "da0a46d246be3d054673c5318de894e061938dc575e49cf34209d9d9a69de8da",
+   "bytes_cifrado": 854001,
+   "sha256_cifrado": "02fcddd4faf1a8de6b120cd4f4310d22806f27bb1a119344c0582f6b7069ad29",
+   "origen_sha256": "4cc45b6d56d08b4c77ef4cf29788d15ace878876e3dc1ac9c1dc61e9efb6e11a",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 825584,
+    "size": 1408,
+    "raiz": "1 0 R",
+    "encrypt": "1407 0 R",
+    "id": "[<ea535f84e8db679f4f47b16a2ceb7a6e><7a03cf33e27a6a4df02f3e3694f2ec5b>]",
+    "formato": 1,
+    "clave": "5637e2d9782adc3aed0a419366e23851fb4127eaef802b56011082077439220a",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_07_OGC_Analisis_estadistico_y_muestreo.pdf",
+   "tipo": "pdf",
+   "blob": "b/91448906eb4ad3cf5d146b2721dfd5a0.bin",
+   "bytes": 799102,
+   "sha256": "4724528ca6ccee24bd86135ab81c573aa4b8800616285a02fb84916315452c0f",
+   "bytes_cifrado": 799135,
+   "sha256_cifrado": "6ef5a40b1723110f31c3a21d1409467a367ff3a2ff6f972a682cd3cbb07e2dd4",
+   "origen_sha256": "7a639ff6bdc68a18b8ddc87fadcb4b92a7b2384eaf3fb8cf4a65ec1514472556",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 770938,
+    "size": 1397,
+    "raiz": "1 0 R",
+    "encrypt": "1396 0 R",
+    "id": "[<18f3b0a5529751c508e12993482736ce><7a03cf33e27a6a4df02f3e3694f2ec5b>]",
+    "formato": 1,
+    "clave": "6171b5dc600c91e7b7802cde8ee5f203d99b54bd79085a2c72f5b376b3c91b3b",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_08_OGC_Estadistica_descriptiva_y_numeros_indices.pdf",
+   "tipo": "pdf",
+   "blob": "b/a0896b931445f7c77f2ab298d1d31e9d.bin",
+   "bytes": 873665,
+   "sha256": "88a0e239deb9ab0ce91189ba6c1c7c039c2f21964f20cd996e0405c3363c8874",
+   "bytes_cifrado": 873698,
+   "sha256_cifrado": "ea69727b99e44d5b002b096d57bead388163dae37c4bdf5a88695a1613127146",
+   "origen_sha256": "83809238c5d7e87e0a17c87f5e12304a970aceb801fbe203f18e02fca8106a97",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 840001,
+    "size": 1672,
+    "raiz": "1 0 R",
+    "encrypt": "1671 0 R",
+    "id": "[<d9903fa6af8af4f19f264fc7e4336f25><7a03cf33e27a6a4df02f3e3694f2ec5b>]",
+    "formato": 1,
+    "clave": "b1861d26211df5a51b14a5bd01ee322e3c82d56ee346e5e8d104e4d77ec1fc94",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_09_OGC_Marketing_en_la_empresa.pdf",
+   "tipo": "pdf",
+   "blob": "b/dfeffe717ce7bccc6c88116b84692478.bin",
+   "bytes": 823853,
+   "sha256": "5cc2c3724253786af240bd19365df090377eae58297268c4f681cab1956cec8e",
+   "bytes_cifrado": 823886,
+   "sha256_cifrado": "cc740f27b9d9fd41855ef8060478dfbc973af46546fbf25f12931206ad8a775a",
+   "origen_sha256": "f284bc5dab95d9d148f71096ebe1f063ade1f02cd3b2f35068268bbbf5d256e8",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 794349,
+    "size": 1464,
+    "raiz": "1 0 R",
+    "encrypt": "1463 0 R",
+    "id": "[<323c1def943fa5b2ab929b2fcbeb1666><7a03cf33e27a6a4df02f3e3694f2ec5b>]",
+    "formato": 1,
+    "clave": "0b86fb9d74381516fa2e39fbe7e4186f89f7341944d850638b939ee8ef791c0f",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_10_OGC_Politica_de_producto.pdf",
+   "tipo": "pdf",
+   "blob": "b/9ae57f96efd823251d581fd34cca5dcb.bin",
+   "bytes": 876285,
+   "sha256": "2f64a33a189883793450d1f1e1373b81e17a297f77be68b03fb8866df60ce676",
+   "bytes_cifrado": 876318,
+   "sha256_cifrado": "094335bc5c0762cb506a1d482bc0e948f5ec5d2a2f2c352b41429752d00d3112",
+   "origen_sha256": "dce08d9a482185ad35a4567293be9d1bd5f385b4a997d1b5e3fe53f8081c166d",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 845001,
+    "size": 1553,
+    "raiz": "1 0 R",
+    "encrypt": "1552 0 R",
+    "id": "[<61ca181a910bc612ce6da791f5c8f0ec><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "1487ec8b70bec11563d5ea48193faaeb56e3fbb1c6bc8d4db36369e29f0f11bd",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_11_OGC_Politica_de_precios.pdf",
+   "tipo": "pdf",
+   "blob": "b/c8f648120cab3b9098443ce2558cb65a.bin",
+   "bytes": 802480,
+   "sha256": "74f99317aa82510b7f482d8403e49c4c639be037f176170d4849225590564da8",
+   "bytes_cifrado": 802513,
+   "sha256_cifrado": "a4f8348e37d6df82d45f8837f657099ff6bf4b76341bbb89e4314f18e13d7a82",
+   "origen_sha256": "040ae340c8ed971b6c4554505b6773011b13e969bcbb18123fd054804eee0b70",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 772496,
+    "size": 1488,
+    "raiz": "1 0 R",
+    "encrypt": "1487 0 R",
+    "id": "[<867b8732a5e0d499bd5b86680b8892fe><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "d5248cad19f7f2a83d50c8b572751a66bf0d6a1fe7903fad94f525591df45a83",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_12_OGC_Politica_de_distribucion.pdf",
+   "tipo": "pdf",
+   "blob": "b/5e638c388e1451e24ce4d7c1c4a8cc25.bin",
+   "bytes": 803712,
+   "sha256": "3b64d104e2a062a011c6c1f4d9ae491c42e5ac0fc1c97e90f594101447d70a56",
+   "bytes_cifrado": 803745,
+   "sha256_cifrado": "e9e74705d1deaa1ff29698b52433de8822b99d8456a56ef1eebdf1448c3720ac",
+   "origen_sha256": "25b5ed5d9652aff331179b00664b56e7faae688eb7c28a4ce7b8f7b98f1735d9",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 774188,
+    "size": 1465,
+    "raiz": "1 0 R",
+    "encrypt": "1464 0 R",
+    "id": "[<7f9275df04106d5f58b859e93bbb8add><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "0a0ae6cdd02528f9897b1a8d6305e51df51d234eaf0198712917170e8f356e37",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_13_OGC_Politica_de_comunicacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/eb1278f4704557291e93b547b5bc16a5.bin",
+   "bytes": 824147,
+   "sha256": "9e3c14c6a9a0c76bd4922acbb88dd5087ab94b59b6d94dc8ef8f0cd4f71adaac",
+   "bytes_cifrado": 824180,
+   "sha256_cifrado": "a6899d5ed493382db9a0badbfe7850b3c4677e0091719a68a570d6c12a4d4da8",
+   "origen_sha256": "00541ea2dc5ea3f90456099514f4c678d3b2c279a55585b795034e231a138d34",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 796703,
+    "size": 1361,
+    "raiz": "1 0 R",
+    "encrypt": "1360 0 R",
+    "id": "[<25e8b0b6636f4d99206fe8848fa237d5><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "af5c39c908142191d53fbbf561ff90311cbf54e98df8a401b61799b4c9563f5c",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_14_OGC_Planificacion_control_marketing.pdf",
+   "tipo": "pdf",
+   "blob": "b/e4cec4f637ac07fc3e3e849bd92b0b84.bin",
+   "bytes": 797570,
+   "sha256": "82e911ef644deb23bc399e65e0b4ae4b7856a140e47fde9da61de3cdebbc05b5",
+   "bytes_cifrado": 797603,
+   "sha256_cifrado": "3ca1ae3cf5a9d2f02649517e2ada6ae5356b9cc97e69b8a5cb337793b3f7c245",
+   "origen_sha256": "16265bea809b703e6fd9f2c20080cfb9023757e98c73571c163ef5c91ce227ec",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 768546,
+    "size": 1440,
+    "raiz": "1 0 R",
+    "encrypt": "1439 0 R",
+    "id": "[<41e348e5b2cefe03c98d1b99240ec0f9><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "44d634bea7d1516d60c825d5dc58fb27445fbc34937bf90da8715235989e128e",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_15_OGC_Sistemas_gestion_informacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/b0f3d4627ac68478dd749416f681f8f4.bin",
+   "bytes": 741650,
+   "sha256": "c8759b61e2f1eaca0f827beb300418431b2596fa8b4ccb0a0875e451ee7adecf",
+   "bytes_cifrado": 741683,
+   "sha256_cifrado": "66cfef84a4ef9f4763234a6027e70e30e8e59b4db5adfa398cc6401c921311e4",
+   "origen_sha256": "2a1030b77c77960aec4771cae717cc8db8794e788187ad0a35f301a36959518e",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 716546,
+    "size": 1244,
+    "raiz": "1 0 R",
+    "encrypt": "1243 0 R",
+    "id": "[<2df0bb1638ee64f52afdd499a300fb12><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "6d8de908b2752036a52cd62791708ac338bde46a0dbfe0ece95010a0aee2b8e2",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_16_OGC_Proceso_de_compra_proveedores.pdf",
+   "tipo": "pdf",
+   "blob": "b/3fb012ad4237bef695253c2b64a4a702.bin",
+   "bytes": 841278,
+   "sha256": "89d9ab48b0ab113834f0e29dac2f5a9f52c61ea68ac0b1ec6b1ec4c98529c49d",
+   "bytes_cifrado": 841311,
+   "sha256_cifrado": "1debe7afcea5b3a088875e5e92320ba0e194dc6a0a98dc75bf7b03b828f60c9b",
+   "origen_sha256": "24dd3f919a829f652a506255a6e340c974e4365cdfe1dd63e7a018a4917d2555",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 811774,
+    "size": 1464,
+    "raiz": "1 0 R",
+    "encrypt": "1463 0 R",
+    "id": "[<7317bd34e438a17f9fbcb7189c67cadb><50a6434b6f6a6ee06ff340d9dfa39c0a>]",
+    "formato": 1,
+    "clave": "a6da92521d0154dbe561b78150bb79d6aaf1804fd534a1c919f480c900367183",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_17_OGC_Contrato_de_compraventa.pdf",
+   "tipo": "pdf",
+   "blob": "b/2598a9f13189c9ac76fd892e8c6a9349.bin",
+   "bytes": 831259,
+   "sha256": "46cb1b30f40a9e6dd27fcfe3840d913b3c57cf3b8980f72f24c53a5a9ca12da2",
+   "bytes_cifrado": 831292,
+   "sha256_cifrado": "b7cccc4728affa9e4637ad4688106bdc6863d834e09bf42722efa9358a07e954",
+   "origen_sha256": "38de60acda92b69359e5dd23ad18421f3df86b996fe5bb4b3618cd12f22bb14f",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 808055,
+    "size": 1149,
+    "raiz": "1 0 R",
+    "encrypt": "1148 0 R",
+    "id": "[<f13018cb074797308b5a15e52fb44f27><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "f18279acd3c856b3c088666c1534f52284b35903dfa2be27d4bbf7fe20377c3d",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_18_OGC_Planificacion_sistema_de_ventas.pdf",
+   "tipo": "pdf",
+   "blob": "b/9df0dec8e8a06b9467bf9ed8894cae44.bin",
+   "bytes": 861563,
+   "sha256": "9a7393f2cca4d28316865b92d55cca7c43d0e5b7140070443e55d410fbd1f5a9",
+   "bytes_cifrado": 861596,
+   "sha256_cifrado": "9927fd48713e8f555afcd66823fcfdd82818bb9673717f14b69410d32015bc2b",
+   "origen_sha256": "d331ecea47b05d09f1d88eded3550878ae331aa96d1a065b34d3ab03da045d6f",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 828919,
+    "size": 1621,
+    "raiz": "1 0 R",
+    "encrypt": "1620 0 R",
+    "id": "[<a7b42df207ca387acde9fbaa31616b9b><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "72a0e03c858f5d08e8a0c26471d845ebf0ab920464be11d93234620aebdcdfba",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_19_OGC_Terminal_punto_de_venta_medios_de_pago.pdf",
+   "tipo": "pdf",
+   "blob": "b/7b34ad5feeb31db5d414e89de2dab5a1.bin",
+   "bytes": 860928,
+   "sha256": "8a54c22b8bd9d1579ca417202b8845cd53202c90a027c8b8fadcfc0d422ee115",
+   "bytes_cifrado": 860961,
+   "sha256_cifrado": "f889774367a7c3aaf1f5597452bc0778886d3b88edf891e51bb6232b79358e15",
+   "origen_sha256": "fbd6d609f6f8a263536853a34f8e92205983be949bc1d3272b14a586d2bcacdb",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 832704,
+    "size": 1400,
+    "raiz": "1 0 R",
+    "encrypt": "1399 0 R",
+    "id": "[<3610321e9a11271dfc4c0c9da7d8a5e8><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "0c15476faa41ae780cafe0974d3282c9afbc423f710a89bad5c48f560b298a91",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_20_OGC_Proceso_de_comunicacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/56bc835344505bb1a4fc36638a97f8f2.bin",
+   "bytes": 831574,
+   "sha256": "edcfc646913593caff0bfc8e68e1168ea040bf31cdb49f36a2bc234e6719299f",
+   "bytes_cifrado": 831607,
+   "sha256_cifrado": "75330e5104a78c50865073bbda2ab8caa5805eea0d1fd9056724e88742013a09",
+   "origen_sha256": "9cae6c86cd2980687a056e7c7ed2e790be0dd4eab91f4c3000bde032e305dee9",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 802070,
+    "size": 1464,
+    "raiz": "1 0 R",
+    "encrypt": "1463 0 R",
+    "id": "[<b8eb222f1a2effb6df72c093d789b95b><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "2e19072c69f89df891c173c3bbe3a8d4fae426544896c0ac8bd786923670f0f5",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_21_OGC_Negociacion_y_tecnicas_de_venta.pdf",
+   "tipo": "pdf",
+   "blob": "b/c25448ff7bcd06748271893f43d9570e.bin",
+   "bytes": 733327,
+   "sha256": "e890d025744128ea1d917c20be7750b45b27ce96aa3b7196e77d4185cde23115",
+   "bytes_cifrado": 733360,
+   "sha256_cifrado": "6b6ed5f915dbc97a3c2777c44dc93af4b0490711a852802e04e9b1852af619b8",
+   "origen_sha256": "8ddb570e8fafb66570f91993371b049514b68bcbe421e9f43e217b0415671be6",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 708463,
+    "size": 1232,
+    "raiz": "1 0 R",
+    "encrypt": "1231 0 R",
+    "id": "[<e80a664df4ddfa49932e8f290269a8d5><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "59207b227e397a641db580b46b1d37ddcb922df30d1b666fe449e73d518bcc18",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_22_OGC_Atencion_cliente_postventa_reclamaciones.pdf",
+   "tipo": "pdf",
+   "blob": "b/247727ef85b6b42272365271174571f0.bin",
+   "bytes": 755804,
+   "sha256": "b5c5b82a2b59b739bf61be794a1c9c4260541a587147fb907d995c1a5bdd7e13",
+   "bytes_cifrado": 755837,
+   "sha256_cifrado": "b5bafbfc0d435a1b508bf3b2d5b77db9a103298da0491aadda1e63d605bc6449",
+   "origen_sha256": "1f25deaa2e5fccbef7dfaeaa132487d346723cf05541fe052db1df57dac8bfe4",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 729500,
+    "size": 1304,
+    "raiz": "1 0 R",
+    "encrypt": "1303 0 R",
+    "id": "[<c1d9e2cc1e90f2b239512eb0daae75b2><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "de73449b693c0c401e7aa259166d578a4256e9f0e7cfd194867aa8c54f08fd47",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_23_OGC_Empresa_empresario_formas_juridicas.pdf",
+   "tipo": "pdf",
+   "blob": "b/16c9d0f0ba49a22ad3f0229cc314584e.bin",
+   "bytes": 766898,
+   "sha256": "4b6852cd11f223ab863300446843e63366ae8719efc2b5ef3daa4b3ddd9d9917",
+   "bytes_cifrado": 766931,
+   "sha256_cifrado": "90bb4b16c0c0dbac773e5ab49ad918d38efa21c084f66c19fe8ee54f5664fb81",
+   "origen_sha256": "2f1c4489ab146f8d6cb94483ea3f2afabe1e97137e18a46ba2a97feebf376ba9",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 744214,
+    "size": 1123,
+    "raiz": "1 0 R",
+    "encrypt": "1122 0 R",
+    "id": "[<f822661cd7217ad466b2ccff31433328><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "d8483bb8b21e7f5494d1026251501b9d50e57eeab910487a05720735c31b74b8",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_24_OGC_Proyecto_empresarial_viabilidad_constitucion.pdf",
+   "tipo": "pdf",
+   "blob": "b/f1dd179825fca091a9a76e45bfedcba2.bin",
+   "bytes": 783967,
+   "sha256": "eddbb3553ae401c5c9df954213f9e8b18144a03dfe2121c46370e411249e64d8",
+   "bytes_cifrado": 784000,
+   "sha256_cifrado": "c7076010b51fb052259d46e73eaa0e7be91a1b751ddc7dc694371b8971efa47d",
+   "origen_sha256": "2b58368dd7c4b333821f052177f006a5715fb0f7894d276eb8de2abd8e2d9c5c",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 757663,
+    "size": 1304,
+    "raiz": "1 0 R",
+    "encrypt": "1303 0 R",
+    "id": "[<fc866236527d13516e76a228535baf9b><779cbdfb991aa73941b7e8bb411512fd>]",
+    "formato": 1,
+    "clave": "726d3033c79124008ff764349fdcd4bddf16001dd75211503e855e3eb95f025a",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_25_OGC_Gestion_recursos_humanos.pdf",
+   "tipo": "pdf",
+   "blob": "b/ef89d9896f03002295ef062d31df919c.bin",
+   "bytes": 808742,
+   "sha256": "cc89e683b68bd7ddbcd05ad548c375a4cdba32e62cf564ab69fddce0d7ecac2f",
+   "bytes_cifrado": 808775,
+   "sha256_cifrado": "c17c9a396611a5f022bf4294ae771175123ac63ddceb6442db6715673534523b",
+   "origen_sha256": "b606d59a89a4c109367ba6952689e8cffda3c0f4e3c345780533d80d400d7848",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 782918,
+    "size": 1280,
+    "raiz": "1 0 R",
+    "encrypt": "1279 0 R",
+    "id": "[<ab5bca99a1904bde3f93473d82c2255e><05b3bdc65b000d44daa32f5dcf30f432>]",
+    "formato": 1,
+    "clave": "8bbad570f348986f4170b9371519dc5c18db71ac9aa6d98a466219eb370239a5",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_26_OGC_Impuestos_indirectos_IVA.pdf",
+   "tipo": "pdf",
+   "blob": "b/85e0aa71cf10c90ce201c30543659629.bin",
+   "bytes": 792734,
+   "sha256": "01d2a4664d0472423f34112a9221201dcea47483de807b7023c568fe02094597",
+   "bytes_cifrado": 792767,
+   "sha256_cifrado": "1ad308eef78cb65795048e5374d74f73c1861244d29ad09358454425c00cf5cd",
+   "origen_sha256": "d7e01a427b6768fa2248cbc8c77ce6006cfe79e2006907b6a9725579090505d3",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 766730,
+    "size": 1289,
+    "raiz": "1 0 R",
+    "encrypt": "1288 0 R",
+    "id": "[<71f0f5a83fd768f864f59a8cbda01532><05b3bdc65b000d44daa32f5dcf30f432>]",
+    "formato": 1,
+    "clave": "c74306650889ae69a3ffeb08b2ac196609a199a01f245147c0032020b89d1020",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_27_OGC_Impuestos_directos_empresa.pdf",
+   "tipo": "pdf",
+   "blob": "b/521548e33929ee436d388994fa20aa35.bin",
+   "bytes": 890985,
+   "sha256": "1ba787e8157954d0ff760aeba90668d110500efd72697e5a127fdb562a8c3b42",
+   "bytes_cifrado": 891018,
+   "sha256_cifrado": "4ba80ba7fd6eac944ce4c66d9fba6179a64f35d5931ce080f98b53808ac7ac1a",
+   "origen_sha256": "d710659dc92446e22debc2db3cbed18a058574fc6ccec14b60ae86cec4cb3054",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 862581,
+    "size": 1409,
+    "raiz": "1 0 R",
+    "encrypt": "1408 0 R",
+    "id": "[<d4dd8cd6ab3580c857a3c6bdeedf969f><05b3bdc65b000d44daa32f5dcf30f432>]",
+    "formato": 1,
+    "clave": "de9aeff8288b5f96c3f711b11048f80fbe35e073e744f87b27a0db81e627da17",
+    "paginas": 24,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 24
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_28_OGC_Contabilidad_Plan_General_Contable.pdf",
+   "tipo": "pdf",
+   "blob": "b/2a27205644741e6ef8fff6b2d01ab029.bin",
+   "bytes": 855564,
+   "sha256": "572a13fb1c9e356bd2987631ce8641b2ebc16faa20475b38a50506d64a4f0642",
+   "bytes_cifrado": 855597,
+   "sha256_cifrado": "6b7f88b6e55afdf732d919d643d08c144b3859e73a867f3238c256452b58db43",
+   "origen_sha256": "1552fbc7bb3a8055235ac33c4c0602381ab8e78a7295a074ddd0a93a6d3463b9",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 823480,
+    "size": 1593,
+    "raiz": "1 0 R",
+    "encrypt": "1592 0 R",
+    "id": "[<85005b0d851b5bcab8d27a401481c5c9><05b3bdc65b000d44daa32f5dcf30f432>]",
+    "formato": 1,
+    "clave": "c7026d597315ebe9b80cf68e5d136d0c8aae3443f20b43df374743b4ed6414f1",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_29_OGC_Analisis_economico_financiero.pdf",
+   "tipo": "pdf",
+   "blob": "b/11c52b29279c22d4f0bef6fc8d9993c1.bin",
+   "bytes": 798942,
+   "sha256": "1ea61ab32661647b853eb1cc94ddfb75bb9ca23acb53881889db5b41fcc7d20c",
+   "bytes_cifrado": 798975,
+   "sha256_cifrado": "928d2a75d7984b1f7301acbd7b761ed2290ac7bb79f640a65488cc16586ca4cb",
+   "origen_sha256": "7e97f3c244c1cbbc74e858bdf769cac94422a54b55787604c7317c0e87b81e6c",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 768338,
+    "size": 1519,
+    "raiz": "1 0 R",
+    "encrypt": "1518 0 R",
+    "id": "[<d64559f561e7066f6424f91da87f72b1><05b3bdc65b000d44daa32f5dcf30f432>]",
+    "formato": 1,
+    "clave": "dbe84725e9b263ef3b139a941174a49dc98591e16bbad0ad69eb0808037f9d33",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_30_OGC_Legislacion_laboral_contrato_trabajo.pdf",
+   "tipo": "pdf",
+   "blob": "b/18193c4cb1316b03ab1ac3aecb0f406d.bin",
+   "bytes": 780536,
+   "sha256": "ee18ce01f9511af95f1bea017d196e706e29b954bd79593e71dc308dcd926488",
+   "bytes_cifrado": 780569,
+   "sha256_cifrado": "84c3db4f81f925c8be144d0225d7ebaaca4f7f27654b632a6c3974596e6e5022",
+   "origen_sha256": "42af0c0d7bd549b2e1fc6ca4bf13a01d71a6bbbe5c4f79e3d727c6b2b6baa222",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 759252,
+    "size": 1053,
+    "raiz": "1 0 R",
+    "encrypt": "1052 0 R",
+    "id": "[<5c76cc938579b86a6c0c664d82442092><4ef1217c56faaa1cb82b30a5edf7115a>]",
+    "formato": 1,
+    "clave": "710a0adc1fa38d4141a0b1efeda983728e56794d72fa856925ab5f622adea545",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_31_OGC_Sistema_Seguridad_Social.pdf",
+   "tipo": "pdf",
+   "blob": "b/ddffa467f81e2d3be8721e995a4af926.bin",
+   "bytes": 821224,
+   "sha256": "d82e061dc1dfc41e7fab538d0d7d72f62bdd7ca11847d561c99a8740db590bc9",
+   "bytes_cifrado": 821257,
+   "sha256_cifrado": "dab24d40ac9e8b213659b23ba3fc0d0af2efc3abd10c554359e21ccb6a1d7d3e",
+   "origen_sha256": "60353cb0002fa8bac310e15136e6be1a7e3111da59d903dc4f120901a7be2489",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 800220,
+    "size": 1039,
+    "raiz": "1 0 R",
+    "encrypt": "1038 0 R",
+    "id": "[<d1d82d067c2a1de5b912e2fb905407c5><4ef1217c56faaa1cb82b30a5edf7115a>]",
+    "formato": 1,
+    "clave": "7ceca6f3d4c4707c4482ad1ce7b5812adbf8f070ad31cccca5fe6c32b2103849",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_32_OGC_Recibo_salario_cotizacion_IRPF.pdf",
+   "tipo": "pdf",
+   "blob": "b/54af49499d21bd2ae41d6f3058cc834c.bin",
+   "bytes": 752269,
+   "sha256": "714b2320c87d87b2a62d2aa1d1c99cf79ba683427761aaff6dea2b64714e6f53",
+   "bytes_cifrado": 752302,
+   "sha256_cifrado": "1464f6b1c7d350fb1f32ec94c4fc11eb2c667bc61bed98a30876e19f85427046",
+   "origen_sha256": "4197c842db92d8f9d63facaa914e41cae1fd30aa2ccd44cf18c2248d3611fad6",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 726405,
+    "size": 1282,
+    "raiz": "1 0 R",
+    "encrypt": "1281 0 R",
+    "id": "[<01b7c796482a350020332a663482e309><4ef1217c56faaa1cb82b30a5edf7115a>]",
+    "formato": 1,
+    "clave": "234fe9e568611393ab5a3c902cda8ed2789095cf9b5d85997d09e9b7a51aab90",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_33_OGC_Inspeccion_de_consumo_toma_de_muestras.pdf",
+   "tipo": "pdf",
+   "blob": "b/1912e444c80651afd845e3fe8994c19a.bin",
+   "bytes": 835360,
+   "sha256": "fccb2e832a2ff55bc87aa5db6ef003c4dfd87976e33d68264cfc4c9511b165f0",
+   "bytes_cifrado": 835393,
+   "sha256_cifrado": "2897e76849474b1f1b5f8a3af0ba189bc813748c52adb20f5dd6a0862893de30",
+   "origen_sha256": "379ca3814590eb5022f70940b5be196adde4973e3ec27cf7ec780786769aca80",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 816639,
+    "size": 925,
+    "raiz": "1 0 R",
+    "encrypt": "924 0 R",
+    "id": "[<1d1344ca9d0e4df80c0681b4c512631e><4ef1217c56faaa1cb82b30a5edf7115a>]",
+    "formato": 1,
+    "clave": "ae5968df73353f80cf18c90aef81b082dd3076284bfa7d7e4434d13f5a82c06d",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_34_OGC_Legislacion_consumo_sectores_inspeccion.pdf",
+   "tipo": "pdf",
+   "blob": "b/3b2ef91acd7f0d124723ec238ae78a1c.bin",
+   "bytes": 912061,
+   "sha256": "b8b110ee87b3ccb6c688f4ed86492a9db139fe17da43e1977982d90e23989230",
+   "bytes_cifrado": 912094,
+   "sha256_cifrado": "ed00c6affb41b137953a3afded0b205d82104177e0fb20d8193bcbd58e9d2994",
+   "origen_sha256": "801f97cd0357448cc9545903ff010cf94fc3b12617264b1ea791047feaa477ec",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 891880,
+    "size": 998,
+    "raiz": "1 0 R",
+    "encrypt": "997 0 R",
+    "id": "[<d18af561ef49a2d02e924769140f96bc><4ef1217c56faaa1cb82b30a5edf7115a>]",
+    "formato": 1,
+    "clave": "71baf89bd2df55715ae0530d2be40c61d80cc2abed1f11031e0f8dc3e30fb2a2",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_35_OGC_Entidades_organismos_proteccion_consumidor.pdf",
+   "tipo": "pdf",
+   "blob": "b/4cfe44283074d78f6b3334ce55f1b97f.bin",
+   "bytes": 838963,
+   "sha256": "c984a3fd86313a9c3f6e9a584a861f1dd696cf43ff1ff9485c2db1af08d34e96",
+   "bytes_cifrado": 838996,
+   "sha256_cifrado": "9e9f4eca7144ca47ff96a3fe4bafcad0bd493de3c148ebce3836b3b06a9cea05",
+   "origen_sha256": "e42665cbc9c311d166783323011375847286551fb65fde885ace1924c2ae3bb2",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 819722,
+    "size": 951,
+    "raiz": "1 0 R",
+    "encrypt": "950 0 R",
+    "id": "[<509a913271ec3db4516e9a5c11f3714a><4ef1217c56faaa1cb82b30a5edf7115a>]",
+    "formato": 1,
+    "clave": "1bce11acc0c94aa05a51a847c52a4e7025d039971ba6343a977d1b24dd0db60d",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_36_OGC_Tecnicas_inspeccion_consumo_actas.pdf",
+   "tipo": "pdf",
+   "blob": "b/a0ab2ed7c89077692183b30d1dd5774c.bin",
+   "bytes": 790393,
+   "sha256": "77c92cb776a87f36db740e61796c6255b95bcdad831a6286a8251c79f732a244",
+   "bytes_cifrado": 790426,
+   "sha256_cifrado": "e1b120fbdceeb5a628e3df59ce72eb153dd607f3a1740e73ca20bcf281aa82dc",
+   "origen_sha256": "5279a521354bec224070b8a698a602d380774207a0c16224094cc014e2848b97",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 766889,
+    "size": 1164,
+    "raiz": "1 0 R",
+    "encrypt": "1163 0 R",
+    "id": "[<e523825892bc248cd5472710fed2492c><08e0f38954e5bc29f25cc62175746716>]",
+    "formato": 1,
+    "clave": "5102612844b3a97a54e3d8e5bd74131f4672b580b2ef82b0619ff41edfe386ff",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_37_OGC_Infracciones_sanciones_fraudes_consumo.pdf",
+   "tipo": "pdf",
+   "blob": "b/a4fa9912682eff342d446be1bbfb0f98.bin",
+   "bytes": 725238,
+   "sha256": "3e67061ee27c167e3a147fc497800f0564930b04989f2bfde5eae73bbbda6b1a",
+   "bytes_cifrado": 725271,
+   "sha256_cifrado": "cca3778807228d824f18f04e3cdb77c4939f93bca7062b6b028b5eb00984d8ab",
+   "origen_sha256": "2799ebf97c2487974affa6a36346230206db65815c2b2f07c9d2eed159a5d2ed",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 704774,
+    "size": 1012,
+    "raiz": "1 0 R",
+    "encrypt": "1011 0 R",
+    "id": "[<92ed2f8baaa8fa6f651d33f69cd80c18><08e0f38954e5bc29f25cc62175746716>]",
+    "formato": 1,
+    "clave": "808b091f88ccc615e7e167d97b913285209ba73fd636d4568fabacee97194adb",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_38_OGC_Atencion_reclamaciones_mediacion_arbitraje.pdf",
+   "tipo": "pdf",
+   "blob": "b/de02a05e3badc78f26dccf4bc6d1bc2e.bin",
+   "bytes": 914575,
+   "sha256": "4200447a771f1213756fe7ecd22fc1f31fbb9047db512e4e366f661954a1a7ec",
+   "bytes_cifrado": 914608,
+   "sha256_cifrado": "59f8d803a874d21191902137a294c94958e33d76c11695faf3f72ce292a0c4e2",
+   "origen_sha256": "9b9c861a69f1ab129759322437f21da123b1991c7006133148724490e5834775",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 891611,
+    "size": 1137,
+    "raiz": "1 0 R",
+    "encrypt": "1136 0 R",
+    "id": "[<2260cb840a0e0b662f5123039e3b6fa9><08e0f38954e5bc29f25cc62175746716>]",
+    "formato": 1,
+    "clave": "3cdb95dacdf5ad67602633044eaaafa991490a6eb1df9d03abfe905684529ab5",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_39_OGC_Planes_formativos_campanas_consumo.pdf",
+   "tipo": "pdf",
+   "blob": "b/4250ee1fffb558277a0157aee5cf8642.bin",
+   "bytes": 820355,
+   "sha256": "c6fa3e46424776971b0931ff1221ffffb413ced46064f3a586b58c1ef9a457d2",
+   "bytes_cifrado": 820388,
+   "sha256_cifrado": "a3df8ed91d3585fe4cbb1839623c4b5728ba65f0b99b2b2a2e0473fe65c6e4a9",
+   "origen_sha256": "9b51829da14b480ad34f7f98ccd500cd7fb22a08ad2b2857dad426c8dca8f452",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 797071,
+    "size": 1153,
+    "raiz": "1 0 R",
+    "encrypt": "1152 0 R",
+    "id": "[<daa6d6b726056a9bbb1974ead6dc3f84><08e0f38954e5bc29f25cc62175746716>]",
+    "formato": 1,
+    "clave": "d87a11843bc1158903638f881461b371e295d482e2c5d3fb1eb9100af5be0b79",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_40_OGC_Entorno_internacional_competencia.pdf",
+   "tipo": "pdf",
+   "blob": "b/dd1034e9d49c771d42eab0041200d2c1.bin",
+   "bytes": 752791,
+   "sha256": "0469833594cb0f5f444a6fe9c2953da3167484205d2cfbffd6d067e398646156",
+   "bytes_cifrado": 752824,
+   "sha256_cifrado": "f36fc418c0c3efcb04756ad8ded7c424f72b3bf761d6c56e5694cb8bb34a00c5",
+   "origen_sha256": "d60d099acf7c81c4e0393228a473fa8618b37977026ffce4035716002322546d",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 730387,
+    "size": 1109,
+    "raiz": "1 0 R",
+    "encrypt": "1108 0 R",
+    "id": "[<370e8addf22d728d146d1872dcccecea><08e0f38954e5bc29f25cc62175746716>]",
+    "formato": 1,
+    "clave": "b284509ea7be17d773cd0718d16b24b23e24e990b0da02c37af63dc7aa43f984",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_41_OGC_Organizaciones_internacionales_politica_comercial_UE.pdf",
+   "tipo": "pdf",
+   "blob": "b/8a7b5cfdddff868c1be7fd2386b9ed6c.bin",
+   "bytes": 768898,
+   "sha256": "dc6a4ac32ee88322c3fa6db4de59d03107a9007fc7d7a7427e44e5bc4c14e9b1",
+   "bytes_cifrado": 768931,
+   "sha256_cifrado": "f425aa2bc8873f31d4135a50625fa1ac9c68e6d767d6c442fd7d2841aee07eee",
+   "origen_sha256": "3912297586b0a21322e5f1ebe4a35c904e009c75892521b34c88299f68d342c5",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 747714,
+    "size": 1048,
+    "raiz": "1 0 R",
+    "encrypt": "1047 0 R",
+    "id": "[<fc6729e40d306ec9498e6367ea78aad8><497f6e29e9f9efbea3117fcf9ecab725>]",
+    "formato": 1,
+    "clave": "46cdf070f37da67f9bb7a261da1f873f5c408db87ebf7fe02ab34a5b85f9cfa8",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_42_OGC_Investigacion_mercados_internacionales.pdf",
+   "tipo": "pdf",
+   "blob": "b/7803f8fe2410a5ed405238009ca4ff8d.bin",
+   "bytes": 853352,
+   "sha256": "619d0ec2b69fc303efff867c64e3065bbac07c11e6b27adfbcc097400e24f8a1",
+   "bytes_cifrado": 853385,
+   "sha256_cifrado": "57e06b30da45e9eab63e0579484a8c128eb561a55bfc352717570ca5f78ed980",
+   "origen_sha256": "9c494ff43ec04f878e7a9a8195607e44c4350abc1f7bbae5527caaf710e5307e",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 828508,
+    "size": 1231,
+    "raiz": "1 0 R",
+    "encrypt": "1230 0 R",
+    "id": "[<943a6d0a3050940edde84ba536d2b425><497f6e29e9f9efbea3117fcf9ecab725>]",
+    "formato": 1,
+    "clave": "3bc6ad3d36d3adeab94470f6c589bdb306fd66fbbb0b05e27aa0aff12bc7d008",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_43_OGC_Formas_de_entrada_mercados_internacionales.pdf",
+   "tipo": "pdf",
+   "blob": "b/29707816121a920a740ac395c268b00e.bin",
+   "bytes": 787902,
+   "sha256": "81fc21e7bf4d3f8598ea0aa8dd558adcf53a6b5b81c2064de4fd7126c3ad95b4",
+   "bytes_cifrado": 787935,
+   "sha256_cifrado": "c1b9175e53c5a70fd138715e60ecc0cd39d290f60af54370c9a3bcaa4a892e8b",
+   "origen_sha256": "dae67ac631d73473b284ee0a52c034ae29606a23431c94c0067ca930b8017d6f",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 764338,
+    "size": 1167,
+    "raiz": "1 0 R",
+    "encrypt": "1166 0 R",
+    "id": "[<37f724b1f250ee610ad4a2a0961d317b><497f6e29e9f9efbea3117fcf9ecab725>]",
+    "formato": 1,
+    "clave": "93f475db803582a6ac37f25a5f70061d5bb6bf5b7a65c9b51ec8617f2d1fa7f4",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_44_OGC_Contratacion_internacional_Incoterms.pdf",
+   "tipo": "pdf",
+   "blob": "b/27a638a5a41621eaee2e429641160aad.bin",
+   "bytes": 811642,
+   "sha256": "5fd262bd554141c4692af99128677ac152f6998398bc3b3e5e17903eb521e38f",
+   "bytes_cifrado": 811675,
+   "sha256_cifrado": "1ea791586fe0629eed116788902b32a8f4e0c183e693413298891a135012bb5f",
+   "origen_sha256": "5b80a1c0823435cbe446a676ca58965e477e6a35df617b79e3c444b8567cc40f",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 783078,
+    "size": 1417,
+    "raiz": "1 0 R",
+    "encrypt": "1416 0 R",
+    "id": "[<5dc23cb8a8ee54ae92c8150d974c6568><497f6e29e9f9efbea3117fcf9ecab725>]",
+    "formato": 1,
+    "clave": "a9ddf1d8048d58f89c25a20521764f8f76a7e53b6386a6569b9bcc011ba32deb",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_45_OGC_Regimenes_comerciales_importacion_exportacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/0ab5f1667daf4a0aa7925381e660eb7a.bin",
+   "bytes": 869184,
+   "sha256": "2cd1ddb9d2c2366a80047e9de3148caa3e1133d573cc0de7ac5081508201c1e6",
+   "bytes_cifrado": 869217,
+   "sha256_cifrado": "9e535cfb1b9a5cd8e90b952dfaf0d78ab08551e083403a5adb81173c3f02c236",
+   "origen_sha256": "7cd9500ebb1113b3e3a1895e29b94b862de240c912d6c63cdb2d339b9e4ff401",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 844360,
+    "size": 1230,
+    "raiz": "1 0 R",
+    "encrypt": "1229 0 R",
+    "id": "[<77714bbc3db0616b7db647f572217449><497f6e29e9f9efbea3117fcf9ecab725>]",
+    "formato": 1,
+    "clave": "ee496dff1da18227879d02f055eb68b7e3467c46da755e5724f704fcaa6c0791",
+    "paginas": 24,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 24
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_46_OGC_Arancel_y_nomenclaturas.pdf",
+   "tipo": "pdf",
+   "blob": "b/e4d230cf727f11857bb03130bc987378.bin",
+   "bytes": 782824,
+   "sha256": "962d0470e15e1e864342a5b9b7a777f8d165f8ecb5297dd8510819deab4b9d99",
+   "bytes_cifrado": 782857,
+   "sha256_cifrado": "e8bb83aa16fc1ca76d69c616bb28f0f839df3e762483aa4d4d011fab57bfe908",
+   "origen_sha256": "775c892108f0bbdba7fb6642f057d323f0e4aa0fbf3c947343370a2c092848c6",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 755820,
+    "size": 1339,
+    "raiz": "1 0 R",
+    "encrypt": "1338 0 R",
+    "id": "[<9e37ba960b5df5b1ca8fb689b921d09e><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "cf3d0702f690d0b73caf2314ac7342dfa37f9630e59e22462c50296ea90325af",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_47_OGC_Origen_de_las_mercancias.pdf",
+   "tipo": "pdf",
+   "blob": "b/9a9d8b277ff11e80e38a8af71292acdd.bin",
+   "bytes": 874410,
+   "sha256": "b0d96a083e17ba4f160d2f53f75f1e5962e8b42c52c68df4e57bda5aa170b738",
+   "bytes_cifrado": 874443,
+   "sha256_cifrado": "5616929a3b9e90dfbe035c87f605ef9761de77786e706f8823498097d65002c4",
+   "origen_sha256": "0d8c930ab60cbd207017a569ef871272b8deebd05093e85bb06f1bf43b9f3087",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 849626,
+    "size": 1228,
+    "raiz": "1 0 R",
+    "encrypt": "1227 0 R",
+    "id": "[<916035283fd06962118dfe5bb68fde3b><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "6a41ebf34a624e4643a30902ce3a4c0411cea2461277331bd653ba0639c7ccd2",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_48_OGC_Valor_en_aduana.pdf",
+   "tipo": "pdf",
+   "blob": "b/42a48c282552d303cf1b516ba42a8dc2.bin",
+   "bytes": 843138,
+   "sha256": "b444472faa037e1e3ad57efed646fab70b7054280de80da8748f8cc6d1446ac3",
+   "bytes_cifrado": 843171,
+   "sha256_cifrado": "9adcdeec40ab98909549cf6728b6e7e70aba973f5b36c57b470e93cfa84700d5",
+   "origen_sha256": "c288afc80cb88f824f67516f08ec2096e511b88786dee331ac922d24c90a3dac",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 815054,
+    "size": 1393,
+    "raiz": "1 0 R",
+    "encrypt": "1392 0 R",
+    "id": "[<57940e9fd8b90246f5b4228b6ba2db06><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "f7c70ba8501faace1b6d5d5f8dd056addd07143eb1fae13749bf76108cb458a8",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_49_OGC_Regimenes_aduaneros_DUA.pdf",
+   "tipo": "pdf",
+   "blob": "b/daa74a340ea64fe7fb097306aeca0318.bin",
+   "bytes": 842462,
+   "sha256": "13dc98786c7afe70a3f9da9b15f08b7b9231c7c13e6a0183fab37ecb00da69a4",
+   "bytes_cifrado": 842495,
+   "sha256_cifrado": "68b2c08e02f3b076311a3d00f68c32a5bcfc7cdf5d820d7ab56438fb36569e88",
+   "origen_sha256": "95956ac9af4e76b422e67d08a0f9929aa48b8d9cc504791e70e5a0ed55bfe2a3",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 819178,
+    "size": 1153,
+    "raiz": "1 0 R",
+    "encrypt": "1152 0 R",
+    "id": "[<bc57d8c4149738539e5b1d45194002a3><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "2f13c286f3b42896dec9c0ceb6c919c1a38c396b4769a8bc15fdf150918df68c",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_50_OGC_Seguro_transporte_mercancias.pdf",
+   "tipo": "pdf",
+   "blob": "b/d7615f92f5689b069647faf19dd246f8.bin",
+   "bytes": 774590,
+   "sha256": "e4bdf1530705ba7c392e83f3ccd5c8452f010428c5a26aa747b45dab1a31894e",
+   "bytes_cifrado": 774623,
+   "sha256_cifrado": "0931f1e6035cfd006aa6ec4b19d5b7d90c88d585bc8d6cfb8ffde7e5b0c97949",
+   "origen_sha256": "53c1c9db93678f6961c7bc626d9e2d2362b0c429fa3696d9958dbff5a5b5d9d5",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 747546,
+    "size": 1341,
+    "raiz": "1 0 R",
+    "encrypt": "1340 0 R",
+    "id": "[<347aad994f32601da257d4dbfdc832a2><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "ce906c040493ff794da5a508ad5dda09a2ac4d63cb294a133f1b816dd01c21ab",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_51_OGC_Sistema_financiero_nacional_internacional.pdf",
+   "tipo": "pdf",
+   "blob": "b/5f38b35851e02abd5e7d698ddd9b1804.bin",
+   "bytes": 825366,
+   "sha256": "fff739025ac35af92d38fb2b57837ff293c7e17b75e1e04dacf077f09cc56e98",
+   "bytes_cifrado": 825399,
+   "sha256_cifrado": "b906bc37711b8d5b06059b2077d640e17c5e0e15b130fe4da839d41123ae0c11",
+   "origen_sha256": "75d66babdae8a73ac9b046d6911779ca87d9a8756a018ec1ffe446752bcfbc2b",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 805042,
+    "size": 1005,
+    "raiz": "1 0 R",
+    "encrypt": "1004 0 R",
+    "id": "[<7f4253a45e94270ecfa5c3650898fb51><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "2341b5d3fa9e0a4257ab47c247881c5db6b38327cf584d9165217407cdc241bf",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_52_OGC_Capitalizacion_actualizacion_simple.pdf",
+   "tipo": "pdf",
+   "blob": "b/d8e487507b8cde4a0a928d4a49050863.bin",
+   "bytes": 865229,
+   "sha256": "40d3967112bf29b055ad7239a41469c76023cf93a1552b8302ff3634819791a0",
+   "bytes_cifrado": 865262,
+   "sha256_cifrado": "8a5bae4b33bdf55e4daa8553973dafa1a371b021b04bc9fe5921a014459ebcce",
+   "origen_sha256": "65f1d16c0fa0ba9471d4b68a8ead079002fee589e87ea4c2214376f776c6de8a",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 836305,
+    "size": 1435,
+    "raiz": "1 0 R",
+    "encrypt": "1434 0 R",
+    "id": "[<7d5f4077f8d64dffb348cdaad7734c63><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "c413792bc0a863b0865bd3931f380c0a9026e5cc503fa418e2d2a6b659864b69",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_53_OGC_Capitalizacion_compuesta_rentas.pdf",
+   "tipo": "pdf",
+   "blob": "b/748ee50d0a92477b4cc7b964584a7e50.bin",
+   "bytes": 893832,
+   "sha256": "cf8515952ba0f2fbfbed6ff675eb1b973286a755bad3fccb8e12f55fc9c462a4",
+   "bytes_cifrado": 893865,
+   "sha256_cifrado": "29d45cf3bb8f836ebd53cd92cef3fe266c83a2af24e837eb0913d43f7a6e2227",
+   "origen_sha256": "d9be87974f30648ba03985bba48862b9fd889a9ee5b0424f5781e91e63bd0b1c",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 859408,
+    "size": 1710,
+    "raiz": "1 0 R",
+    "encrypt": "1709 0 R",
+    "id": "[<1b83f57b4752d6e4c3e9dff6972650bf><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "f5f6659a764962284cad6048b868916afbc955f6b349cfb506a8f918c84025e6",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_54_OGC_Prestamo_sistemas_amortizacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/e0c4c34c74bb27063de3b752a3f4cc27.bin",
+   "bytes": 908863,
+   "sha256": "e9f0e5bd215c0719835eac3b422fae25ce4a75f889925d79f13ce7f5bdaa8404",
+   "bytes_cifrado": 908896,
+   "sha256_cifrado": "2364625d4d8b3c17e591b58e81ac03d68ea30128f34873e73490d505fa6c7348",
+   "origen_sha256": "220d484740bfd65fe598bb4cc797bb215e85cd8920ab876e52a80a32698862ea",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 873819,
+    "size": 1741,
+    "raiz": "1 0 R",
+    "encrypt": "1740 0 R",
+    "id": "[<afbc116a6a826ec0d38b4292ec7b90a2><f6e5e3370283405f113f0c8d2baa27b0>]",
+    "formato": 1,
+    "clave": "c983d0d2a4f6d9f4392774edf65a7c534f202be9a6b6a44c99e7a3a12ebf3110",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_55_OGC_Emprestitos.pdf",
+   "tipo": "pdf",
+   "blob": "b/f9740e82b231957bbb1db5ad05b1e506.bin",
+   "bytes": 853320,
+   "sha256": "3e8ca57073e04139b6718cc3ba4ead6738c3f98431e466b4bd4dba0765a32caa",
+   "bytes_cifrado": 853353,
+   "sha256_cifrado": "2f729141eab8a4148b1401397df3ae0d85fd318fb17a0e7093572e2cedef89ed",
+   "origen_sha256": "5a2ef2c0c1aecbcf171dac771cdb86d8523392a30ca787fc1d86a0c467ef0777",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 822396,
+    "size": 1535,
+    "raiz": "1 0 R",
+    "encrypt": "1534 0 R",
+    "id": "[<2325d16333f04e77e5bb6ff655524a5b><962d6674bdf4666668d58b8f6a0e1df7>]",
+    "formato": 1,
+    "clave": "f678c823afbf4f2805aad07300224c702c7dd986e444f21badf38a94338e7300",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_56_OGC_Mercado_de_divisas.pdf",
+   "tipo": "pdf",
+   "blob": "b/503092a47f918556d2bae20ffd5b78c9.bin",
+   "bytes": 794931,
+   "sha256": "c0b92d14c3be64a1043a81976fa11d6ac69a03d1b8caf254c0be2883bf32ce71",
+   "bytes_cifrado": 794964,
+   "sha256_cifrado": "0ed94be359ec7621ab7b0c6b9c9235bbeebba7e7014f086e89e5c88db2929efb",
+   "origen_sha256": "242efd6f1ade64a28316f631e8683c1147de1c9be3763c379b9920bd51140684",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 767107,
+    "size": 1380,
+    "raiz": "1 0 R",
+    "encrypt": "1379 0 R",
+    "id": "[<524f2bf348a0271ad5b26d29bc21ef26><962d6674bdf4666668d58b8f6a0e1df7>]",
+    "formato": 1,
+    "clave": "8e54553df5d6757751a74426a8439f0d9092d3a28bfababa1991df009a17437a",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_57_OGC_Cobertura_de_riesgos.pdf",
+   "tipo": "pdf",
+   "blob": "b/ee86f79153942f442bc411d8f4b089d6.bin",
+   "bytes": 791635,
+   "sha256": "8232f87176d70fd61324b2bb2b2f10c4ce90023afeff0b1123982d19b94cc99a",
+   "bytes_cifrado": 791668,
+   "sha256_cifrado": "a042c56a708233a0e8837213cfc000fdd75f75e35358465561efe5f15b0278af",
+   "origen_sha256": "13d7c218b42e70dd6773dfc3d3c0e48a798a63115a3770ba7e06a3709b33d17f",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 766731,
+    "size": 1234,
+    "raiz": "1 0 R",
+    "encrypt": "1233 0 R",
+    "id": "[<fce1b0cbed513fede80105c11479191a><962d6674bdf4666668d58b8f6a0e1df7>]",
+    "formato": 1,
+    "clave": "d4467ad88177627a52ee7b2c4515dfca7a84d27a1ec7a6ffeb8e8437e3120176",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_58_OGC_Financiacion_comercio_internacional.pdf",
+   "tipo": "pdf",
+   "blob": "b/b11364393c121fb404d5451386efb2d9.bin",
+   "bytes": 822508,
+   "sha256": "be49b1d8f1ed50d4fa54f5f48c0a086ab8d1ac92903a5deccf33a81bf5ca92ef",
+   "bytes_cifrado": 822541,
+   "sha256_cifrado": "2afd2fd977cb5dc6f81be15b83b13fc544874b71c1dc68f96dd494ceaacba8a8",
+   "origen_sha256": "60fd838028963780c8cba9f9dd988b1a981f72657615823ccfb09025e7dcca18",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 794664,
+    "size": 1381,
+    "raiz": "1 0 R",
+    "encrypt": "1380 0 R",
+    "id": "[<f49b0c9b39d8f75cf2b55e9779365d90><962d6674bdf4666668d58b8f6a0e1df7>]",
+    "formato": 1,
+    "clave": "00216c7ccbeacee5386665b911a17c54544fd9d76758ebe03017115779f846d9",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_59_OGC_Seguro_credito_exportacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/ea71b4533132387aed086969844e0cd2.bin",
+   "bytes": 807992,
+   "sha256": "194e45b64b590baf6e123e308cd74340933dd9338f1ea0609651e9ec4111a62f",
+   "bytes_cifrado": 808025,
+   "sha256_cifrado": "0645893aedcc4b855b3a2057000999c73dbe6b8dfd10ad3802a50066561485a6",
+   "origen_sha256": "1e2974de80ff925690d4168b8f56c7005a48f26b189e0b175498b596f4ccd87b",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 782028,
+    "size": 1287,
+    "raiz": "1 0 R",
+    "encrypt": "1286 0 R",
+    "id": "[<b60bfb7c5383bc2bb3d4f695b5d1a004><962d6674bdf4666668d58b8f6a0e1df7>]",
+    "formato": 1,
+    "clave": "44e8872be5e113d11a86ce64f3fd5ebd58f2334d54b6c574b935685d9cddbc3e",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_60_OGC_Financiacion_licitaciones_internacionales.pdf",
+   "tipo": "pdf",
+   "blob": "b/6506c40f0fea36f61fb836100c8aed4c.bin",
+   "bytes": 754724,
+   "sha256": "47bd380d8e0f3e08835217870c1bd7c48de06be66345aa5a6b5beb97022ecf26",
+   "bytes_cifrado": 754757,
+   "sha256_cifrado": "4eb437c9c87cbfab99c0f3b6ba71c35557e36bb13e1a0be0950cd85289bfb147",
+   "origen_sha256": "6ea2eba0b5ee326ee41083085e5cea61b9a613832af5b09b62a9c5364d54f919",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 729960,
+    "size": 1227,
+    "raiz": "1 0 R",
+    "encrypt": "1226 0 R",
+    "id": "[<910381fe40ecfaa359101784ba3fcac7><962d6674bdf4666668d58b8f6a0e1df7>]",
+    "formato": 1,
+    "clave": "a6d5a29776f1bddae5a72bb603c618141b744e72a4e59dcc01adc8e252e1edf7",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_61_OGC_Credito_documentario.pdf",
+   "tipo": "pdf",
+   "blob": "b/cd63fd8cb4a2e2fe0a4d16ca6bb76dde.bin",
+   "bytes": 853756,
+   "sha256": "c72361f878090f648feb57d7e601d8bd4fb054528990c951e6c71f9829bb5af2",
+   "bytes_cifrado": 853789,
+   "sha256_cifrado": "6a8aad81a49e2563d10bcc6082f22a6906fa23ace2f17d4a1642f42503c37d2c",
+   "origen_sha256": "fc066b866151152bdcd1325c4b5bdcd3dc540d36c49cace719a8b96635bbecf1",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 825612,
+    "size": 1396,
+    "raiz": "1 0 R",
+    "encrypt": "1395 0 R",
+    "id": "[<506e0dacc07e85dd34ba2385e5121374><8468291b201ae89f841ccd3f6fdf3b36>]",
+    "formato": 1,
+    "clave": "9f2a55e88d2ad261f656ddebaaeb91cdeae4a1927215fc8a03606cc8d41e0324",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_62_OGC_Cheque_transferencia_orden_pago.pdf",
+   "tipo": "pdf",
+   "blob": "b/9895ad97773beed010508b6598966db1.bin",
+   "bytes": 798956,
+   "sha256": "7cca4540633837138c291abf55088bd497ce235528c85ee4ad852348582e155a",
+   "bytes_cifrado": 798989,
+   "sha256_cifrado": "dd5724d13d346f42cbfb58ecaeeb98d5518f169e1d4fe6a72ddab2df92adc356",
+   "origen_sha256": "4f1d3c69a7de46706e736fa6baa69e843486a3d962774d76ab78132c414a5f74",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 772552,
+    "size": 1309,
+    "raiz": "1 0 R",
+    "encrypt": "1308 0 R",
+    "id": "[<c142f48d9aaacae286a8ad2e91cdde62><8468291b201ae89f841ccd3f6fdf3b36>]",
+    "formato": 1,
+    "clave": "01ef137349ff158111173de723bd6712311260ec3c28ade559b9191f6c780af2",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_63_OGC_Remesa_simple_documentaria.pdf",
+   "tipo": "pdf",
+   "blob": "b/3d55a5173ff13c0c24c800abb38ffdcf.bin",
+   "bytes": 833968,
+   "sha256": "f228252386e5baf0450cc0827ba59cde18b5cbcc381a914f654804925a9f415c",
+   "bytes_cifrado": 834001,
+   "sha256_cifrado": "2af613abf9c041f5c6a9e81ea3b45a5377644f56d0c0df6a3a9c3b90bb762c65",
+   "origen_sha256": "7b2c7acef5f4fdf4e8533336b8a509cabcc468814ccb6441218a15e8dee840f0",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 807564,
+    "size": 1309,
+    "raiz": "1 0 R",
+    "encrypt": "1308 0 R",
+    "id": "[<1bf83203412273ff8dd7b5cede7e7964><8468291b201ae89f841ccd3f6fdf3b36>]",
+    "formato": 1,
+    "clave": "e7a9c16b3e32d9b6ee869ffffc8157c0de54a0204956d349ea750557ab263510",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_64_OGC_Garantias_bancarias.pdf",
+   "tipo": "pdf",
+   "blob": "b/120337a6be2cc8c1c0d906998097b7ed.bin",
+   "bytes": 824290,
+   "sha256": "27c3e431823ec0f8951363c49900e9c3483c060d38297f86a66c5c6f2d084da8",
+   "bytes_cifrado": 824323,
+   "sha256_cifrado": "1dbfc0f86f6296a63dcb8e251505d4eb1cc9e510e65d87945441faf692668bf1",
+   "origen_sha256": "c3bade79dbb4679c841a8f6f215d378275c3e25e2f41d28707185b3a7b508fd0",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 799286,
+    "size": 1239,
+    "raiz": "1 0 R",
+    "encrypt": "1238 0 R",
+    "id": "[<167db551aaf033c66e1bbba9a374e2a3><8468291b201ae89f841ccd3f6fdf3b36>]",
+    "formato": 1,
+    "clave": "71288f550cf236c7b60fe24c7f8f112b8d93f14912782fa8232cc2b6eb8b81f0",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_65_OGC_Medios_de_transporte.pdf",
+   "tipo": "pdf",
+   "blob": "b/d9c5be3fbeb94a5f15efe446f2e4249e.bin",
+   "bytes": 835400,
+   "sha256": "9d86743e59ca9aec6d336c7b2c4a759febbad77f33ea523c9e8f9e4ddd30a9ea",
+   "bytes_cifrado": 835433,
+   "sha256_cifrado": "489f57f42e431bad983e8f7d1fe140a60427a882b383916e275ffd4666e1f04c",
+   "origen_sha256": "6de63def57e9b24be2b1a4e6a22ae0d15e2e82c0fbb01d714f7c07a49bcf2769",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 805756,
+    "size": 1471,
+    "raiz": "1 0 R",
+    "encrypt": "1470 0 R",
+    "id": "[<f7def3933b08d476585feabf9d30b9b4><8468291b201ae89f841ccd3f6fdf3b36>]",
+    "formato": 1,
+    "clave": "376924707a09af3f3db1dc8da18f8b9fc012fca12a8fa510d51cb241ecd8aa56",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_66_OGC_Optimizacion_de_rutas.pdf",
+   "tipo": "pdf",
+   "blob": "b/54b1fd7f45a8159e5e2452dd69ec148b.bin",
+   "bytes": 901054,
+   "sha256": "c8da753c2f9d2a71e65b822fcf653a2fb84fa17470e24cf9434987e80df4cebe",
+   "bytes_cifrado": 901087,
+   "sha256_cifrado": "333b5013a8ff26921ef8588a98d7e0bfccb8a896f834dd1b9a603d8f4f4ec38e",
+   "origen_sha256": "c29d0f6569706f9fa47b2fa846e80e4f3f566762cb0f3caaa4d8398c7ab80f4a",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 865050,
+    "size": 1789,
+    "raiz": "1 0 R",
+    "encrypt": "1788 0 R",
+    "id": "[<2c12952cea729445c5464abbb8394e9b><8468291b201ae89f841ccd3f6fdf3b36>]",
+    "formato": 1,
+    "clave": "972852686cf774378b5b0e83c63a4b036bcb55032404ccc9cb2342979c83d895",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_67_OGC_Departamento_de_explotacion.pdf",
+   "tipo": "pdf",
+   "blob": "b/2134d577a1f29ecaebcce9d272ed727f.bin",
+   "bytes": 742104,
+   "sha256": "240af70caf7dffac41d7ac593e26043a6ffa438bde868d3b668cafc222d2c685",
+   "bytes_cifrado": 742137,
+   "sha256_cifrado": "cb747b15f45e48ed320cb82366ce71276e78782101ea082c4ed156b66954b5e7",
+   "origen_sha256": "001deacab2045a2dd55b6608be0b9274dcbfab7d1a6edd4b0502243109264f3e",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 716900,
+    "size": 1249,
+    "raiz": "1 0 R",
+    "encrypt": "1248 0 R",
+    "id": "[<901d90765d83cbc6a2429f9b3714c338><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "formato": 1,
+    "clave": "c90bde611941a4dcac22eb57aae03132a5763b754a2abd00cf7e3c6f31ab353d",
+    "paginas": 23,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 23
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_68_OGC_Centros_de_distribucion_de_cargas.pdf",
+   "tipo": "pdf",
+   "blob": "b/57590c0d67561152880138a77e5a66dd.bin",
+   "bytes": 766204,
+   "sha256": "d99c3455ec9ad1ace6cc2de4dfea16862b5a84593d5495873705a43fd37b7b95",
+   "bytes_cifrado": 766237,
+   "sha256_cifrado": "1aca08e03eb4c9a0332df4919133f29ecf66c998c6dd23d935ff975ca6aa0323",
+   "origen_sha256": "62bd93f22a9e86feadde283d7a11377fdf8b8d8f6dd6229f4979b892c17c7c1b",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 737560,
+    "size": 1421,
+    "raiz": "1 0 R",
+    "encrypt": "1420 0 R",
+    "id": "[<58a3286c6712178f3f10a681cd09c8f7><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "formato": 1,
+    "clave": "9ab85c1cba872bfce49033588760ce7ec772743a66c14238362f70bd98a5c4e0",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_69_OGC_Infraestructura_transporte_terrestre.pdf",
+   "tipo": "pdf",
+   "blob": "b/dbb0bd727789dedb17f5f65934c75953.bin",
+   "bytes": 788866,
+   "sha256": "fc464c6a0c329e402006e235a153635cf4edcbbf5bf3c819424b3607adc2026c",
+   "bytes_cifrado": 788899,
+   "sha256_cifrado": "9c89027c5815530331e762aae2c0fc66960767a3bf5737d7d0f87ac2cf46ebe1",
+   "origen_sha256": "2822059e45fdffa3e29eef56448c562d7cf1552993692096d32acfc4fc870b41",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 765782,
+    "size": 1143,
+    "raiz": "1 0 R",
+    "encrypt": "1142 0 R",
+    "id": "[<707b36fb162d632b388a99e4ef639140><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "formato": 1,
+    "clave": "82351c3d184c2ae9efda2df7b0ed35ef9ce29f620d669a6b445ad282f00a7c50",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_70_OGC_Precio_transporte_tarifas.pdf",
+   "tipo": "pdf",
+   "blob": "b/ebcdd262afc4b95355e2de8249c3575a.bin",
+   "bytes": 907582,
+   "sha256": "905447a363605ab1a9aa17906f54877208b75847719e83dcf16c8efd24554f47",
+   "bytes_cifrado": 907615,
+   "sha256_cifrado": "2a57f3984b7f259ef6c063bcb8ef0ad31347510ca78850f36df31a7ccaf23fa1",
+   "origen_sha256": "2f8d8b1b47e264e97d36a7a53a2ef9f5104369f0ef09fd282df8812ee5cf374a",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 875178,
+    "size": 1609,
+    "raiz": "1 0 R",
+    "encrypt": "1608 0 R",
+    "id": "[<eadf74be53398c28066427d7443d9082><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "formato": 1,
+    "clave": "42d90262e13ea3dedab7e7f45e57d7d942ac33b23152c8ba9f6783a4023e250d",
+    "paginas": 22,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 22
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "temas/TEMA_71_OGC_Gestion_servicios_transporte_terrestre.pdf",
+   "tipo": "pdf",
+   "blob": "b/324a7bd1dc04bde703e89aa8d1c80288.bin",
+   "bytes": 804969,
+   "sha256": "76e21c66cc25d74c48f667e23b51732ab43b52accea0ed1757909c93b4f33f63",
+   "bytes_cifrado": 805002,
+   "sha256_cifrado": "f1e89313cd8821317f677b749b6cf274a51a725d61ff27f790e231e673bce3a7",
+   "origen_sha256": "06eb76f0c91d292748be3cbe3bcd12d8eb5e0b7fa220f14db9d545ade3e02661",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 780065,
+    "size": 1234,
+    "raiz": "1 0 R",
+    "encrypt": "1233 0 R",
+    "id": "[<a0a6574999cc102453d065435ac1c26b><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "formato": 1,
+    "clave": "b71bb183858406768f5ad21401f6ced3adc6eb231c5b80d97352ea1f8ad86c34",
+    "paginas": 21,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 21
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_01_OGC_Comercio_internacional_finanzas_transporte.pdf",
+   "tipo": "pdf",
+   "blob": "b/7a0872448a796a40ba081454467d9bfc.bin",
+   "bytes": 812704,
+   "sha256": "986a8e741511967108f5d134505c120eef45e28b92da2f227e0d3b872ea4a251",
+   "bytes_cifrado": 812737,
+   "sha256_cifrado": "218a9a137f902f261d4c6de30ce05bb693221c4e59ba7c7257201ce681684e91",
+   "origen_sha256": "53ef4ab2258aa0eb2a3a865006aa3d3e446cc0414ac6e868ae808a2c51620b88",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 749400,
+    "size": 3154,
+    "raiz": "1 0 R",
+    "encrypt": "3153 0 R",
+    "id": "[<2cc5f00066dabe5b6ba357dca7b4bcd1><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "formato": 1,
+    "clave": "7eb68a13a93900921fa98fb77e428b969c4e7b0d4500de177e5f4dd6590c8f8a",
+    "paginas": 31,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 31
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_02_OGC_Investigacion_mercados_estadistica_marketing.pdf",
+   "tipo": "pdf",
+   "blob": "b/ace549b12b069109319e382b54a32942.bin",
+   "bytes": 978688,
+   "sha256": "9ab7925cdb5e5da08ef96a5453ff8a26eaa54b26f3727c25950806f0fb6911d6",
+   "bytes_cifrado": 978721,
+   "sha256_cifrado": "d4113b4072d0a656cb0a6728d014670ba03bed238c12e559470de66d02d27a28",
+   "origen_sha256": "4fdbe7a34fbeaa24d06e646d837275fc1f6b24e0a6788d76f294210b4daaf193",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 900344,
+    "size": 3906,
+    "raiz": "1 0 R",
+    "encrypt": "3905 0 R",
+    "id": "[<f0c875a58c0a00f3c0703c4f17e5e3b3><7f7040e20235a7158cb212d79dfca8ab>]",
+    "formato": 1,
+    "clave": "ea72d95be5ce4448966456ba4f2b256d47675597d98f3a14e5a5b79c07874ac7",
+    "paginas": 31,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 31
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_03_OGC_Empresa_fiscalidad_contabilidad_RRHH.pdf",
+   "tipo": "pdf",
+   "blob": "b/c4a4abcb13a0bb0dfc7a9912a997ef9d.bin",
+   "bytes": 916642,
+   "sha256": "7daa005bb1c6cc464e61b44e28a9b486f59a13990dff8fbec4eb6b0ce08e6334",
+   "bytes_cifrado": 916675,
+   "sha256_cifrado": "5e027a672d7bc2bcf31f53e2d15f35c832b5b13a644b2c5f7d80470337309249",
+   "origen_sha256": "954ff1cd55a502a61719226807e1282f93e54a5d73d1ad6d1110fb7c5d3980f0",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 843858,
+    "size": 3628,
+    "raiz": "1 0 R",
+    "encrypt": "3627 0 R",
+    "id": "[<7e8ac5ff7f777b8cc612d9af99cc4bb2><7f7040e20235a7158cb212d79dfca8ab>]",
+    "formato": 1,
+    "clave": "182aa323be91f8dd778d694b4ea726c193a20328f1a392cc73333ea185cad4fa",
+    "paginas": 33,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 33
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_04_OGC_Transporte_logistica_almacen.pdf",
+   "tipo": "pdf",
+   "blob": "b/5671bb650c89a7f057406955b0b86aef.bin",
+   "bytes": 734343,
+   "sha256": "94fb22f20028da8533f07f3447fb1e1d983f389a05ade9e0a2c3959d17440685",
+   "bytes_cifrado": 734376,
+   "sha256_cifrado": "8c3682f6423f952f36ced361172caafe4a4b84a88c75b34f70b4a5fb84d75864",
+   "origen_sha256": "805a6abfae07f1350c33c78d1225a330f6efa324d0d339bbab230d3a08eb2454",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 679319,
+    "size": 2740,
+    "raiz": "1 0 R",
+    "encrypt": "2739 0 R",
+    "id": "[<5627d08b707fa5c95a70b20ecd78af92><7f7040e20235a7158cb212d79dfca8ab>]",
+    "formato": 1,
+    "clave": "b586d9a8de5fc649be8822cd0edbebf117a6db5d2dd5695ba0b95ba2d8f2a967",
+    "paginas": 25,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 25
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_05_OGC_Comercio_internacional_avanzado.pdf",
+   "tipo": "pdf",
+   "blob": "b/e257f6e3427d2671ba5cf34b09d1830b.bin",
+   "bytes": 558978,
+   "sha256": "bbb36bacbdcbecdb1ec39bde884c6970adf3ec0faaa9bb635e5b4003ce333e09",
+   "bytes_cifrado": 559011,
+   "sha256_cifrado": "26b2abf7eaaa6c4406d5ef4279bb888ba5c678f40ab72560f29c0e1ceaee08bb",
+   "origen_sha256": "ab468ee888fc03e6443c238adece7f7e9a011370717120da58b345b2e8f3deed",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 523634,
+    "size": 1756,
+    "raiz": "1 0 R",
+    "encrypt": "1755 0 R",
+    "id": "[<d7c9190e1e3dfa8f3ee65a5ed927c8fc><7f7040e20235a7158cb212d79dfca8ab>]",
+    "formato": 1,
+    "clave": "ccb26e1e936e64a62d58d6d026ce72343f102256cedc1bf6ca0b3f7938d7e0ad",
+    "paginas": 25,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 25
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_06_OGC_Consumo_atencion_cliente_venta.pdf",
+   "tipo": "pdf",
+   "blob": "b/38196804185b6f49cad22992d1775727.bin",
+   "bytes": 679147,
+   "sha256": "1aed1d39da288ecfa86975bc99228919b062816678c6cdc1f15d4e54b9925924",
+   "bytes_cifrado": 679180,
+   "sha256_cifrado": "64dc047a67de4a9924270202420eddf9c025bd8fb5a96ea26e34746548d60f36",
+   "origen_sha256": "bc358132c19ec4024c412b96ba9fbe709b2b3d8b14218fc5265c86135c529610",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 631423,
+    "size": 2375,
+    "raiz": "1 0 R",
+    "encrypt": "2374 0 R",
+    "id": "[<ba100e538ef24a85367a556ce981a5f1><7f7040e20235a7158cb212d79dfca8ab>]",
+    "formato": 1,
+    "clave": "2cf4fb98adf4c07dac0bc86efec1ec24e21e466ded7982e198c0fd5a09512019",
+    "paginas": 25,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 25
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/PRACTICA_07_OGC_Marketing_estadistica_avanzada.pdf",
+   "tipo": "pdf",
+   "blob": "b/dd92d46e3498daaa3e68cef854f5106f.bin",
+   "bytes": 861907,
+   "sha256": "607070845bf9b99dd7d82093badfc2214051d8a2c40597ccfb6f1165215a05f6",
+   "bytes_cifrado": 861940,
+   "sha256_cifrado": "3382eea3ef318605919709850e1c4e01a92cd8f0803806636999d9d132e425bc",
+   "origen_sha256": "79a799f84caaa6e6312200cd8c8aec2f28ef00ee51c30fc6b9bf38084f977f1a",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 796503,
+    "size": 3259,
+    "raiz": "1 0 R",
+    "encrypt": "3258 0 R",
+    "id": "[<10825eb37025568ffc606c9794862b3c><f7a4ef4169fa16930ed56ae1b41458e9>]",
+    "formato": 1,
+    "clave": "608d795e4d02089de98798756dc7cd3c2ae369406624bc820d60675a27f8a1ea",
+    "paginas": 27,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 27
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_01_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/adba3c840b69ab00338e8e38f169e1fd.bin",
+   "bytes": 146585,
+   "sha256": "9769d8755373deeb9f6ea4f700780a13245318203824615305527f1f99aba8e0",
+   "bytes_cifrado": 146618,
+   "sha256_cifrado": "4e1a253f80e3d172e25f6776c0f74249c181dd3381b113cac18782a71b53fb3e",
+   "origen_sha256": "9769d8755373deeb9f6ea4f700780a13245318203824615305527f1f99aba8e0",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_02_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/cbb38846da01906173d7c37002e71124.bin",
+   "bytes": 153602,
+   "sha256": "173aa763e0bf346a6c018adbbc75b142bd262ea224a3f22f44e8d49760bafb96",
+   "bytes_cifrado": 153635,
+   "sha256_cifrado": "ac6f4725f52551d4f949ba87f5ae9318a276af871486831e852beb2c28dd074f",
+   "origen_sha256": "173aa763e0bf346a6c018adbbc75b142bd262ea224a3f22f44e8d49760bafb96",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_03_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/fd7b0294ff1e4718e4041a0f0c35273f.bin",
+   "bytes": 152928,
+   "sha256": "e5fe622bf4fbf18b1118565f24c2741ed72f914915040fea317a9738ddfc997c",
+   "bytes_cifrado": 152961,
+   "sha256_cifrado": "bab50f650b90b2160665539b8b237505a9dcf89b91d19de7166671989a3b08e6",
+   "origen_sha256": "e5fe622bf4fbf18b1118565f24c2741ed72f914915040fea317a9738ddfc997c",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_04_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/7dbba0a6e0c89a9f590951323a2844ea.bin",
+   "bytes": 158043,
+   "sha256": "24715a9641d45fb0cb362a1e52d4e32bb10d4da9a3800c57ad64d2c23ed82762",
+   "bytes_cifrado": 158076,
+   "sha256_cifrado": "46a389448d1e67bec8571b53c423587d2aa9daae7ae94e29a571a71132aac20e",
+   "origen_sha256": "24715a9641d45fb0cb362a1e52d4e32bb10d4da9a3800c57ad64d2c23ed82762",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_05_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/a207818755b1e633c0f587f8ffa08f1e.bin",
+   "bytes": 147422,
+   "sha256": "ad7e506dd78b9c015708a9cdf588be70f9bbbf4635599e57cf171651fc0d0cec",
+   "bytes_cifrado": 147455,
+   "sha256_cifrado": "5abbf23a047a02cbeb8bb84186b2028dc292bbac8d25874e6416f9023e4cf9d1",
+   "origen_sha256": "ad7e506dd78b9c015708a9cdf588be70f9bbbf4635599e57cf171651fc0d0cec",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_06_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/86762d75420c383737eab843a49d0647.bin",
+   "bytes": 145771,
+   "sha256": "a94d249bc8224a02940b40cc19a2cff155e84d03f6bb8fef38ddb0444cb95173",
+   "bytes_cifrado": 145804,
+   "sha256_cifrado": "89c69e1901540bd237b33edb6256c5c70874d541676bf7d41fbeb4a845c232a7",
+   "origen_sha256": "a94d249bc8224a02940b40cc19a2cff155e84d03f6bb8fef38ddb0444cb95173",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "practica/excel/PRACTICA_07_OGC_Soluciones.xlsx",
+   "tipo": "xlsx",
+   "blob": "b/9a99c18babddc397d6fdb05a67045347.bin",
+   "bytes": 153387,
+   "sha256": "bd61fa33a7cac66f212dc8b99084671da617a728e2b1ef3f7ed6f8f72ada2a65",
+   "bytes_cifrado": 153420,
+   "sha256_cifrado": "9ea0fb6426eaa1ee908cab74b6e6c6e461cfb11a338c720fd5026a7b97b8fa26",
+   "origen_sha256": "bd61fa33a7cac66f212dc8b99084671da617a728e2b1ef3f7ed6f8f72ada2a65",
+   "actualizado": "2026-11-12"
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_CLM.pdf",
+   "tipo": "pdf",
+   "blob": "b/0e52689058432eea3967c5f57d5650c3.bin",
+   "bytes": 1543406,
+   "sha256": "eea3261a39913312e53377c971e8b5ec60366dc4e7a755ad139ce3d2ee05549c",
+   "bytes_cifrado": 1543439,
+   "sha256_cifrado": "2ff936be16efe589c9314fd39eb95faec24fa7a9e386c43f8022171444127ff1",
+   "origen_sha256": "de2e6c03a9cf583c90bdae3eb8afc5c46be652176b453821e75d40c702d649f8",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 1436581,
+    "size": 5330,
+    "raiz": "1 0 R",
+    "encrypt": "5329 0 R",
+    "id": "[<ea4c889a59fab4b3705fdd6be1dd4ba0><6f08df0449f0795183da8121e7b051d3>]",
+    "formato": 1,
+    "clave": "edd3aacb477d09cc777cf42c02098ae240a202e1080b7ee70d13b441d5a0cd29",
+    "paginas": 48,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 48
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
+   "tipo": "pdf",
+   "blob": "b/1bb7145df7a43d8428635036d6cc8855.bin",
+   "bytes": 1529439,
+   "sha256": "c6a59bf1725cb569102e94775c40fe86c8482397c67173f2db0bd0afd87ef314",
+   "bytes_cifrado": 1529472,
+   "sha256_cifrado": "e3feaa8636dceaaf166dd630b0fc4de8cb35f8ec131b14f79aa19c67d305ffab",
+   "origen_sha256": "28157277a84fbb47e154e4d298db657f17ba8f0153afdc478598d2123c22cd76",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 1422854,
+    "size": 5318,
+    "raiz": "1 0 R",
+    "encrypt": "5317 0 R",
+    "id": "[<b264f73345885b6e7751aef67f9c68eb><6f08df0449f0795183da8121e7b051d3>]",
+    "formato": 1,
+    "clave": "1e47914e0f514450c810bac0d34987bce2db89a7562b621bb1745a67ba5133d3",
+    "paginas": 47,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 47
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
+   "tipo": "pdf",
+   "blob": "b/ddf615bb4bbd5ae7aa628051dc2a748f.bin",
+   "bytes": 1327615,
+   "sha256": "c3c363d98821fbfef6accb00cce0482d4808241e73e42126aa402dcf1bc2abe3",
+   "bytes_cifrado": 1327648,
+   "sha256_cifrado": "2e7c493345f96013cf4c90b12072d14dd6da2ca2b440c4c26c25f0f8774f71b5",
+   "origen_sha256": "3fb58557916939fc9dffbf6f192636934fff915b60be329f7fdeaf88c71ad42d",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 1236770,
+    "size": 4531,
+    "raiz": "1 0 R",
+    "encrypt": "4530 0 R",
+    "id": "[<d4cc2f55e6d1afd2d1f3fdca935fa4af><f1f4e83c682a300c41d9ee9ebc110ec6>]",
+    "formato": 1,
+    "clave": "0a7dd94390a7114046e3dac3699f9c8b635ab95a96b0d1ccdbe0501be63fc3b9",
+    "paginas": 44,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 44
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
+   "tipo": "pdf",
+   "blob": "b/71f70ed51eb927cb0975561b22120278.bin",
+   "bytes": 1398364,
+   "sha256": "feb009aa2082ed7f909e4426cd75b055526a97799d939d10639dcdc98ddba766",
+   "bytes_cifrado": 1398397,
+   "sha256_cifrado": "94a30856fabbdaf6ebf1a0741c01883043d50f5e5ab932751fc9baa780687e04",
+   "origen_sha256": "5367bc4df4b5f3d5e69fc6db4ca6acea1a0d511852d597ec21e12410f836888c",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 1298999,
+    "size": 4957,
+    "raiz": "1 0 R",
+    "encrypt": "4956 0 R",
+    "id": "[<611f54d4aa583571a9d2455e3cec0dd3><f1f4e83c682a300c41d9ee9ebc110ec6>]",
+    "formato": 1,
+    "clave": "896189557459e2b3e2b30cacc92f20d126a83be14c4126fff1dd3f8b4d5fb302",
+    "paginas": 43,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 43
+     }
+    ]
+   }
+  },
+  {
+   "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
+   "tipo": "pdf",
+   "blob": "b/ce63df3e36a3e8c9c25e84b40e568f4b.bin",
+   "bytes": 1429333,
+   "sha256": "643df1851cfe9f9e5a7d0441f2469168140b4a1adc6e3979b5992e4d17089752",
+   "bytes_cifrado": 1429366,
+   "sha256_cifrado": "f073968db7160abb0942263a83face6fa465c9738b4cef6ddc4ef45c8d51c1f8",
+   "origen_sha256": "872843005bc7f203a8998f090e7c8862460757b52d2ed0f98ae2db8815b16396",
+   "actualizado": "2026-11-12",
+   "mapa": {
+    "xref": 1328168,
+    "size": 5047,
+    "raiz": "1 0 R",
+    "encrypt": "5046 0 R",
+    "id": "[<6e751b95c2a0d29d0c43e220dbecf2ea><f1f4e83c682a300c41d9ee9ebc110ec6>]",
+    "formato": 1,
+    "clave": "3a020d9457b3d16e820b644c1caa2bde253c22caee2ef2edcc1e6dffb28cc020",
+    "paginas": 46,
+    "logo": [
+     600,
+     306
+    ],
+    "sellos": [
+     {
+      "obj": 10,
+      "gen": 0,
+      "caja": [
+       0.0,
+       0.0,
+       595.303937007874,
+       841.889763779528
+      ],
+      "rot": 0,
+      "paginas": 46
+     }
+    ]
+   }
+  }
+ ],
+ "muestras": [
+  {
+   "ruta": "muestras/MUESTRA_TEMA_01_OGC.pdf",
+   "tipo": "pdf",
+   "blob": "b/0f0a2d898bbc15e4a9e8d30f34bbec3b.bin",
+   "bytes": 587503,
+   "sha256": "051d96b8ea6088d8ad61393e04981dea4f9cd3d3439960353757b0fedde9ab0f",
+   "bytes_cifrado": 587536,
+   "sha256_cifrado": "b417bc4560b359cea818590f44d61d5a0ea0ebf1a629d1e3c657235724344fa0",
+   "origen_sha256": "051d96b8ea6088d8ad61393e04981dea4f9cd3d3439960353757b0fedde9ab0f",
+   "actualizado": "2026-11-12",
+   "titulo": "Muestra del Tema 1 (extracto)"
+  },
+  {
+   "ruta": "muestras/MUESTRA_PRACTICA_OGC.pdf",
+   "tipo": "pdf",
+   "blob": "b/670671a9dc1e2874fda4c0950c3ace34.bin",
+   "bytes": 133094,
+   "sha256": "9273ecef494f243c09ada8313559206b5d303005f4008dda66a4cdf70b1d4dc7",
+   "bytes_cifrado": 133127,
+   "sha256_cifrado": "ae49df1a686c04751d25c83522110f42b3005569d3f1f85e20b923b8afb1512e",
+   "origen_sha256": "9273ecef494f243c09ada8313559206b5d303005f4008dda66a4cdf70b1d4dc7",
+   "actualizado": "2026-11-12",
+   "titulo": "Muestra de supuesto práctico (ejercicio resuelto)"
+  },
+  {
+   "ruta": "muestras/MUESTRA_PROGRAMACION_OGC.pdf",
+   "tipo": "pdf",
+   "blob": "b/93f48ea6c2d14c02bd3c50c185101166.bin",
+   "bytes": 440540,
+   "sha256": "eaef14b713c1b3421e8b5c8bd210f4656f8b471e85ad0e022ce9be5b54f5fe05",
+   "bytes_cifrado": 440573,
+   "sha256_cifrado": "a6d1d213256177b774261d850e227c37d4c109b28635a7545d64a3cadc5b190c",
+   "origen_sha256": "eaef14b713c1b3421e8b5c8bd210f4656f8b471e85ad0e022ce9be5b54f5fe05",
+   "actualizado": "2026-11-12",
+   "titulo": "Muestra de programación didáctica (extracto)"
+  }
+ ],
+ "novedades_semana": []
+}
