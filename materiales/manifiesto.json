@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794507960,
- "fecha_unix": 1794507960,
- "fecha": "2026-11-12T19:26:00+01:00",
+ "serie": 1794510929,
+ "fecha_unix": 1794510929,
+ "fecha": "2026-11-12T20:15:29+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -2917,21 +2917,21 @@
   {
    "ruta": "practica/PRACTICA_01_OGC_Comercio_internacional_finanzas_transporte.pdf",
    "tipo": "pdf",
-   "blob": "b/7a0872448a796a40ba081454467d9bfc.bin",
-   "bytes": 812704,
-   "sha256": "986a8e741511967108f5d134505c120eef45e28b92da2f227e0d3b872ea4a251",
-   "bytes_cifrado": 812737,
-   "sha256_cifrado": "218a9a137f902f261d4c6de30ce05bb693221c4e59ba7c7257201ce681684e91",
-   "origen_sha256": "53ef4ab2258aa0eb2a3a865006aa3d3e446cc0414ac6e868ae808a2c51620b88",
+   "blob": "b/c2d9fb4ff85fd072f7e5c5765fc81314.bin",
+   "bytes": 816954,
+   "sha256": "1d26823c4ee3dd2a96d06523863ae2af90da7f9999f5660c2d65feddd585704d",
+   "bytes_cifrado": 816987,
+   "sha256_cifrado": "fef9e52f210c46a999e5d25be2531ccd7f5194580dade8cc08c1f90190b6bb4a",
+   "origen_sha256": "c8b0605264b29f73b6ba0ae4ae652e4555d501fc4fb7428f8f52b8fc086c52c1",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 749400,
-    "size": 3154,
+    "xref": 753550,
+    "size": 3159,
     "raiz": "1 0 R",
-    "encrypt": "3153 0 R",
-    "id": "[<2cc5f00066dabe5b6ba357dca7b4bcd1><9711feb02bf3c9d34fb8791068ab5aec>]",
+    "encrypt": "3158 0 R",
+    "id": "[<ef828a392c6e707b3c4e65e77364bf74><2ff0182dc81a97ebc28cf23d14a096ce>]",
     "formato": 1,
-    "clave": "7eb68a13a93900921fa98fb77e428b969c4e7b0d4500de177e5f4dd6590c8f8a",
+    "clave": "71c2cda54a8afd809ff8f83ff77a48db319e11c070ef31ae28c465ffc14d698a",
     "paginas": 31,
     "logo": [
      600,
@@ -2951,7 +2951,8 @@
       "paginas": 31
      }
     ]
-   }
+   },
+   "novedades": "Terminología aduanera actualizada: declaración aduanera H1 en lugar del antiguo DUA (tipos de tributo A00 y B00), Reglamento (UE) 2026/2108 (nuevo Código Aduanero, aplicable desde el 21-9-2027) y novedades de 2026 sobre envíos de escaso valor. Las cifras no cambian."
   },
   {
    "ruta": "practica/PRACTICA_02_OGC_Investigacion_mercados_estadistica_marketing.pdf",
@@ -3190,13 +3191,14 @@
   {
    "ruta": "practica/excel/PRACTICA_01_OGC_Soluciones.xlsx",
    "tipo": "xlsx",
-   "blob": "b/adba3c840b69ab00338e8e38f169e1fd.bin",
-   "bytes": 146585,
-   "sha256": "9769d8755373deeb9f6ea4f700780a13245318203824615305527f1f99aba8e0",
-   "bytes_cifrado": 146618,
-   "sha256_cifrado": "4e1a253f80e3d172e25f6776c0f74249c181dd3381b113cac18782a71b53fb3e",
-   "origen_sha256": "9769d8755373deeb9f6ea4f700780a13245318203824615305527f1f99aba8e0",
-   "actualizado": "2026-11-12"
+   "blob": "b/18c92c06fa82913cfd34a5b812fad994.bin",
+   "bytes": 146596,
+   "sha256": "bc5844385af133356dab5eb6eb289e6d3c72120f68377aa2b41c88a67c80a886",
+   "bytes_cifrado": 146629,
+   "sha256_cifrado": "e95e04c4989e13eff7a64a93084fa1b3f0728aa6e6c4f4c815805bc02a45cee1",
+   "origen_sha256": "bc5844385af133356dab5eb6eb289e6d3c72120f68377aa2b41c88a67c80a886",
+   "actualizado": "2026-11-12",
+   "novedades": "Etiquetas actualizadas a la declaración aduanera H1 (A00 y B00). Las cifras no cambian."
   },
   {
    "ruta": "practica/excel/PRACTICA_02_OGC_Soluciones.xlsx",
