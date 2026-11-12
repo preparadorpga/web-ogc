@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794523158,
- "fecha_unix": 1794523158,
- "fecha": "2026-11-12T23:39:18+01:00",
+ "serie": 1794523381,
+ "fecha_unix": 1794523381,
+ "fecha": "2026-11-12T23:43:01+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -3429,21 +3429,21 @@
   {
    "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
    "tipo": "pdf",
-   "blob": "b/89569cea290e368d7a78985dba549480.bin",
-   "bytes": 1154163,
-   "sha256": "ad356b2bf8f59ee23e80e9cac403f8e048e2392297efa4843a7acf1d50229118",
-   "bytes_cifrado": 1154196,
-   "sha256_cifrado": "cf2141f7ec880fa2b5fa8af68ee400a4eb67e5e01be540512ecf7cd17aafe8f3",
-   "origen_sha256": "526d010f55b628667badb5526ceccb3d51412614a94814d531e23534d337e791",
+   "blob": "b/d0cabc3513e31dd8ced350fc77faa89e.bin",
+   "bytes": 1154083,
+   "sha256": "692d50dfff318cf88f6b6d447ffbcb31edbb7954b073b1769d910ba44bb1bac1",
+   "bytes_cifrado": 1154116,
+   "sha256_cifrado": "a144602e53e0df7fa45d7cbfa5809c1553ff5e6164b5653df424dbdf9597fe42",
+   "origen_sha256": "764112fe295b516e359a479a69662d203deb90355fe7260b1af77b8fdb02cbbb",
    "actualizado": "2026-11-12",
    "mapa": {
-    "xref": 1146408,
+    "xref": 1146328,
     "size": 379,
     "raiz": "1 0 R",
     "encrypt": "378 0 R",
-    "id": "[<18c9ff7bd25b9cc2924978a893bd13b7><18c9ff7bd25b9cc2924978a893bd13b7>]",
+    "id": "[<5b71bd36d90d98a76fe67a69936d3f62><5b71bd36d90d98a76fe67a69936d3f62>]",
     "formato": 1,
-    "clave": "7928f0e8a51100eafe8781ef3768348b8f623ab2506a68929be93e94d0389f2b",
+    "clave": "ee2ebbb5c8a72de7df84773c59007d7cd5f020fc28c06cf4d74a3738c5deef3b",
     "paginas": 69,
     "logo": [
      600,
@@ -3463,8 +3463,7 @@
       "paginas": 69
      }
     ]
-   },
-   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
+   }
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
