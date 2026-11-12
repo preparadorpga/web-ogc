@@ -1,11 +1,11 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794495021,
- "fecha_unix": 1794495021,
- "fecha": "2026-11-12T15:50:21+01:00",
+ "serie": 1794496282,
+ "fecha_unix": 1794496282,
+ "fecha": "2026-11-12T16:11:22+01:00",
  "clave_id": "a3d210574e6a6c7c",
- "version_productos": "2026-11-12a",
+ "version_productos": "2026-11-12b",
  "productos": {
   "temario": {
    "nombre": "Temario completo OGC (71 temas, PDF)",
@@ -123,6 +123,12 @@
     "supuestos",
     "programacion"
    ]
+  },
+  "pack_programacion": {
+   "nombre": "Pack Programación OGC (5 programaciones modelo + 5 h: 4 h de corrección de la programación y 1 h de clase individual)",
+   "incluye": [
+    "programacion"
+   ]
   }
  },
  "stripe_payment_links": {
@@ -130,7 +136,8 @@
   "plink_PENDIENTE_SUPUESTOS": "supuestos",
   "plink_PENDIENTE_PROGRAMACION": "programacion",
   "plink_PENDIENTE_PACK": "pack",
-  "plink_PENDIENTE_PACK_10H": "pack_clases"
+  "plink_PENDIENTE_PACK_10H": "pack_clases",
+  "plink_PENDIENTE_PACK_PROGRAMACION": "pack_programacion"
  },
  "archivos": [
   {
