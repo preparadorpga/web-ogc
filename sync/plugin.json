@@ -1,0 +1,14 @@
+{
+ "tipo": "ogc-paginas-plugin",
+ "plugin": "ogc-paginas",
+ "version": "2.1.0",
+ "zip": "ogc-paginas-2.1.0.zip",
+ "sha256": "8928263a7425fd525c93260fd2798cacefea7abe329995eea0688c4bafa8d962",
+ "bytes": 1840448,
+ "fecha_unix": 1794450760,
+ "fecha": "2026-11-12T03:32:40+01:00",
+ "requiere_wp": "6.0",
+ "requiere_php": "7.4",
+ "probado_wp": "6.8",
+ "notas": "OGC Páginas 2.1.0: entradas del blog firmadas (programadas), dirección /blog/ con 301, robots.txt, llms.txt, IndexNow y autoactualización del plugin."
+}
