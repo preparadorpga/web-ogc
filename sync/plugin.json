@@ -1,14 +1,14 @@
 {
  "tipo": "ogc-paginas-plugin",
  "plugin": "ogc-paginas",
- "version": "2.1.3",
- "zip": "ogc-paginas-2.1.3.zip",
- "sha256": "3becf00afc1b174908c39e0780247cf677b92464a3a24c64e3185c7702d7af7c",
- "bytes": 1894861,
- "fecha_unix": 1794523164,
- "fecha": "2026-11-12T23:39:24+01:00",
+ "version": "2.1.4",
+ "zip": "ogc-paginas-2.1.4.zip",
+ "sha256": "3d18d43ba538bbf5703cc4c1be0b0d4917020356743b3af08736173743672bb6",
+ "bytes": 1895302,
+ "fecha_unix": 1794576734,
+ "fecha": "2026-11-13T14:32:14+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "OGC Páginas 2.1.3. Actualización firmada por Preparador OGC."
+ "notas": "2.1.4 · 13/11/2026 · Todo a través de Stripe: las ofertas por WhatsApp se pagan con enlace privado de Stripe (tarjeta, Bizum o Revolut); sin Bizum directo ni transferencia."
 }
