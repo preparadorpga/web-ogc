@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794523381,
- "fecha_unix": 1794523381,
- "fecha": "2026-11-12T23:43:01+01:00",
+ "serie": 1794579860,
+ "fecha_unix": 1794579860,
+ "fecha": "2026-11-13T15:24:20+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -3269,21 +3269,21 @@
   {
    "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
    "tipo": "pdf",
-   "blob": "b/d2ff0e80f7dd6d4cc9f8d7583bb33e03.bin",
-   "bytes": 1081647,
-   "sha256": "72e7041ebb49ba0d84f4ca4765ec946fde8d3d54a8f77dc2527146b496f3eb99",
-   "bytes_cifrado": 1081680,
-   "sha256_cifrado": "1b7936ca9d59d491ec49ebbd46fd54c009845cddff8ced5babbf7faca0b16975",
-   "origen_sha256": "974b75cef06d0d2e6cf135c3789afd8e8274b2813bfff00a801e7a7689fcc180",
-   "actualizado": "2026-11-12",
+   "blob": "b/33b3a76e19709e09dbf828c6cae02ca8.bin",
+   "bytes": 1082527,
+   "sha256": "b0d2528f6f13271229cae401412adef1533b4ac2b5be71d46ffc6e084ce95b4f",
+   "bytes_cifrado": 1082560,
+   "sha256_cifrado": "e0f95d15e7432fb32e416f828044cb1a41f63d3240c95f64bbbd2dcb56e6f3bc",
+   "origen_sha256": "08bbe08fa3c8fe97e52ff2916875f2d833ce059b4f920a0558df23719bd16b77",
+   "actualizado": "2026-11-13",
    "mapa": {
-    "xref": 1074912,
+    "xref": 1075792,
     "size": 328,
     "raiz": "1 0 R",
     "encrypt": "327 0 R",
-    "id": "[<dba515d075690ce7365b2e6111da439c><dba515d075690ce7365b2e6111da439c>]",
+    "id": "[<8a4f8caf7c7a6985a6ce89dd33dff6f8><8a4f8caf7c7a6985a6ce89dd33dff6f8>]",
     "formato": 1,
-    "clave": "99cb72735c2cbb05b65d87f4ea22c3ed5ff56c8480b9205f944d917310611d1b",
+    "clave": "5e8580c615763fefceb31123376504fdd19c61148fc9a8178450e6dbac246f5d",
     "paginas": 69,
     "logo": [
      600,
@@ -3304,26 +3304,26 @@
      }
     ]
    },
-   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
+   "novedades": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
    "tipo": "pdf",
-   "blob": "b/89bc2c6127736cd6258a2fa5d9d57cfa.bin",
-   "bytes": 1144776,
-   "sha256": "31743a9900c974351c0712d59e552fbcf52d00ad5a2f269aaf152266532f9843",
-   "bytes_cifrado": 1144809,
-   "sha256_cifrado": "5fccee164c0fed4914d0eda82414e57765135005479a80dcddc29c9343683015",
-   "origen_sha256": "5dcc184be71a9177629a0198c2d0dcbe5b4276350a3ee099d0140e3ce4f416df",
-   "actualizado": "2026-11-12",
+   "blob": "b/ea49024bf7087df07eaeffe5038f9def.bin",
+   "bytes": 1145240,
+   "sha256": "4fcf54341b5dd925e8a418138ff4077ec344ccc91105930f2258d80983467bd8",
+   "bytes_cifrado": 1145273,
+   "sha256_cifrado": "d72452c68cdcb659cb603583d368c2d1a86cdd86a5ede180221d8138517690e2",
+   "origen_sha256": "0cc81b161f073a2ac37a57edbc09974cbb619e463a730c4ae3d05add008928a3",
+   "actualizado": "2026-11-13",
    "mapa": {
-    "xref": 1136461,
+    "xref": 1136925,
     "size": 407,
     "raiz": "1 0 R",
     "encrypt": "406 0 R",
-    "id": "[<b0c14e17ac3f27501ac8b82fe496d2af><b0c14e17ac3f27501ac8b82fe496d2af>]",
+    "id": "[<317abaa2bb1c6f74c9244da6adcb8c6e><317abaa2bb1c6f74c9244da6adcb8c6e>]",
     "formato": 1,
-    "clave": "4b164a886321f3bc1437e5b37c9c873d5543149420c28b2f4c850e0618f7f7a4",
+    "clave": "54285269071e262cd63e6b4e13b4c98fe767becff2d8d9f3e896ecd87a4109d2",
     "paginas": 70,
     "logo": [
      600,
@@ -3344,26 +3344,26 @@
      }
     ]
    },
-   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
+   "novedades": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
    "tipo": "pdf",
-   "blob": "b/4606addd8f7fffea92d7505c4d79a553.bin",
-   "bytes": 1224389,
-   "sha256": "f1711c7c4c86eafb40479eed4480a00c1bfffea66d4c2992aa32076cb0fa32d3",
-   "bytes_cifrado": 1224422,
-   "sha256_cifrado": "4c17389fc973b92142c1d4e15db3691e31e84d7d443779c0cbf046eb2184e157",
-   "origen_sha256": "0982e162cb4642cdaa42180850c95ec95de7450e698315d81d57b38440fa98d7",
-   "actualizado": "2026-11-12",
+   "blob": "b/b1b6c98273196ffbb8baeed3ab8c7325.bin",
+   "bytes": 1225621,
+   "sha256": "1c0b5be8349ebae8895987d0c4a62adaddbe7949524a092c1f4e8e087d4be0c8",
+   "bytes_cifrado": 1225654,
+   "sha256_cifrado": "76a0dfa276730646d47dc04f4bcfcc4f1076cfafe5746ce2b1b299cdea095614",
+   "origen_sha256": "b794b1010c1433bc0dd772c2ec8eb49b5ada226144bbe45feafb202b7ea253f8",
+   "actualizado": "2026-11-13",
    "mapa": {
-    "xref": 1216514,
+    "xref": 1217746,
     "size": 385,
     "raiz": "1 0 R",
     "encrypt": "384 0 R",
-    "id": "[<46ab53d0ff92e33bac1542aa0dd1430b><46ab53d0ff92e33bac1542aa0dd1430b>]",
+    "id": "[<0304f771304c8bef9f76b305c1fc159b><0304f771304c8bef9f76b305c1fc159b>]",
     "formato": 1,
-    "clave": "c43d67d52f5b4926c20959c70f8bd91dfd5467e55e6fb84e897e2959d3667267",
+    "clave": "9d76f51a9dbdb8d7a5276bddc478bcbbe3cec7948a13c3b06d2a292879391511",
     "paginas": 70,
     "logo": [
      600,
@@ -3384,26 +3384,26 @@
      }
     ]
    },
-   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
+   "novedades": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
    "tipo": "pdf",
-   "blob": "b/64e698dc95d564bfd47707d225659d2d.bin",
-   "bytes": 1207323,
-   "sha256": "43272f93fc6060b160b17a9ed057c5f5991ef91cede5c4968aabf7df48f48979",
-   "bytes_cifrado": 1207356,
-   "sha256_cifrado": "4ffe04da689b6fa24276969ac387dfa6ee27a6fc26a61d0e4ecf0f8d3ad8c179",
-   "origen_sha256": "8274eef10b99ec8e1392965d998acfa05039663a1d00543ff49ce0c55abf9dda",
-   "actualizado": "2026-11-12",
+   "blob": "b/4864ea7f47f2e9f491f563379f932e8e.bin",
+   "bytes": 1207963,
+   "sha256": "c6a499e683e9e98a01fa6f5b9cf9105d86878bce6a827678be97b8de8b5dc8b0",
+   "bytes_cifrado": 1207996,
+   "sha256_cifrado": "5b7e99062b9c2f488dfcc87ff245d6a7dfde127c7413cd82581715ec5842cdae",
+   "origen_sha256": "705045bfcadbe354ec12654c5ca54bc3deb4b4a491e3f9d4727d37bcc1c38733",
+   "actualizado": "2026-11-13",
    "mapa": {
-    "xref": 1198528,
+    "xref": 1199168,
     "size": 431,
     "raiz": "1 0 R",
     "encrypt": "430 0 R",
-    "id": "[<a83de5c5af5cfce9fa8ab00a1ab3d883><a83de5c5af5cfce9fa8ab00a1ab3d883>]",
+    "id": "[<5e20d7ed7802427bf448a901e6231832><5e20d7ed7802427bf448a901e6231832>]",
     "formato": 1,
-    "clave": "c1c2ee7c53e29558f6e816ac5a31f377398efe2342c6fcb989cb87584f9b7ca4",
+    "clave": "c943cda061e3595accb95951bfe431496ae3049077f471d6c762ba4fe16dd23b",
     "paginas": 70,
     "logo": [
      600,
@@ -3424,26 +3424,26 @@
      }
     ]
    },
-   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
+   "novedades": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
    "tipo": "pdf",
-   "blob": "b/d0cabc3513e31dd8ced350fc77faa89e.bin",
-   "bytes": 1154083,
-   "sha256": "692d50dfff318cf88f6b6d447ffbcb31edbb7954b073b1769d910ba44bb1bac1",
-   "bytes_cifrado": 1154116,
-   "sha256_cifrado": "a144602e53e0df7fa45d7cbfa5809c1553ff5e6164b5653df424dbdf9597fe42",
-   "origen_sha256": "764112fe295b516e359a479a69662d203deb90355fe7260b1af77b8fdb02cbbb",
-   "actualizado": "2026-11-12",
+   "blob": "b/02bfb7312b8cc8db7d915d151b31a6d7.bin",
+   "bytes": 1155298,
+   "sha256": "d46e2d00100dcdaf5b48278060e4c3f6db0743fb876b60e09cb55833fde25b4c",
+   "bytes_cifrado": 1155331,
+   "sha256_cifrado": "0e232caaf66208b417a379623f89ec6b5feda858accf1964a9b9e82a7c3c9cea",
+   "origen_sha256": "accb3aad8ed71b5d7d0f28a73563b97b5003293b92dee2fdc35863d913c6bf0d",
+   "actualizado": "2026-11-13",
    "mapa": {
-    "xref": 1146328,
+    "xref": 1147543,
     "size": 379,
     "raiz": "1 0 R",
     "encrypt": "378 0 R",
-    "id": "[<5b71bd36d90d98a76fe67a69936d3f62><5b71bd36d90d98a76fe67a69936d3f62>]",
+    "id": "[<d40d67a2986619cf43516b30becae0ef><d40d67a2986619cf43516b30becae0ef>]",
     "formato": 1,
-    "clave": "ee2ebbb5c8a72de7df84773c59007d7cd5f020fc28c06cf4d74a3738c5deef3b",
+    "clave": "68f317e9565cfa4678288e7d5b46aa7e90b944345802568b2715d5e9a893a38b",
     "paginas": 69,
     "logo": [
      600,
@@ -3463,26 +3463,27 @@
       "paginas": 69
      }
     ]
-   }
+   },
+   "novedades": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página."
   },
   {
    "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
    "tipo": "pdf",
-   "blob": "b/0b18429ec1663ea609130034aeacba0d.bin",
-   "bytes": 952696,
-   "sha256": "06e8ea93c7b8f044192cb8f2ce67b4ac2c53fcdc0d5db2f6360ab986c54f03e2",
-   "bytes_cifrado": 952729,
-   "sha256_cifrado": "4b99b768692021fe8251ccfc0367bbed7ce8c8449b07daf28217e00b8ca3fe54",
-   "origen_sha256": "5613ccc1d7c54e16b6e0f1feb762088d1e9857758808543812efcfe0dc17e276",
-   "actualizado": "2026-11-12",
+   "blob": "b/c8d6d2f89d5cc08c1a68bf2b7bfdbaae.bin",
+   "bytes": 952872,
+   "sha256": "c6aa125d497c9617d23108c9f906a51614522c43f36c7cb764faa8e06d5889cc",
+   "bytes_cifrado": 952905,
+   "sha256_cifrado": "e457892065bbdea5668ab897d0544b61a403dd9ca0d12c22223c1a5231aa9d8b",
+   "origen_sha256": "91cd601d79a11d7bd6a44032548531d736da3a1819e8d8c69f4968d0b84002ba",
+   "actualizado": "2026-11-13",
    "mapa": {
-    "xref": 944242,
+    "xref": 944418,
     "size": 414,
     "raiz": "1 0 R",
     "encrypt": "413 0 R",
-    "id": "[<fd6198cff888925a63dad2bcc342ced7><fd6198cff888925a63dad2bcc342ced7>]",
+    "id": "[<495a98fb156f856bdc8056350f549381><495a98fb156f856bdc8056350f549381>]",
     "formato": 1,
-    "clave": "5de24fbf9d8a8cebc72443498ace421112bbbe2a9823c82dae5bad09ab67183c",
+    "clave": "5e449b5c19b0932285db17c1bb255688e977484121392a88b2696365e4c4605c",
     "paginas": 70,
     "logo": [
      600,
@@ -3503,7 +3504,7 @@
      }
     ]
    },
-   "novedades": "Nueva versión: la programación que se entrega ocupa exactamente 60 páginas (50 numeradas en Navarra, el límite de su convocatoria) y después van los anexos de defensa, que no se entregan; letra al mínimo de cada convocatoria también en tablas; calificación del RA dualizado por el profesor; descarga e imprime la nueva."
+   "novedades": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página."
   }
  ],
  "muestras": [
@@ -4106,6 +4107,90 @@
    "antes": "60 páginas en total con la Parte II dentro; tablas a 9,5-10,5 pt en algunas comunidades; nota del RA dual como media de centro y empresa; en Navarra, 16 h de empresa en dos unidades.",
    "ahora": "Programación de 60 páginas (50 numeradas en Navarra) + anexos de defensa hasta 70 en total; tablas al mínimo de la convocatoria (Madrid y Navarra 10, Murcia 11, Andalucía 12); el tutor dual aporta superado/no superado y grado 1-4 como evidencia y el profesor califica (RD 659/2023, art. 18.6 y 18.7.a); estancias en alternancia bloqueadas en el calendario y unidades duales fechadas hasta el fin de la estancia; Murcia con 25 h de empresa (100 h en primero); Navarra con el RA 4 en tres unidades y 30 h, y tabla que cierra las 400 h de segundo; 12 tipos de instrumento distintos; anexo IV con el calendario de sesiones.",
    "alcance": "amplio"
+  },
+  {
+   "id": "6b5cf4e34cc551ab",
+   "fecha": "2026-11-13",
+   "fecha_unix": 1794579860,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0623_GESTION_ECONOMICA_FINANCIERA_MADRID.pdf",
+   "titulo": "Programación didáctica 0623 Gestión económica y financiera de la empresa (Comunidad de Madrid)",
+   "nota": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página.",
+   "ubicacion": "Cuadros de las unidades dualizadas, págs. 37 y 40 (UD 8 y 9): filas «Coevaluación empresa / IES» y «Quién evalúa»; formación en empresa y evaluación, apartado 8.2, págs. 51-52; anexo III, págs. 59-60 (párrafo inicial y cabecera de la escala); anexos de defensa, preguntas del tribunal, pág. 62 (pregunta nueva).",
+   "antes": "«describe el grado de logro de cada criterio con esta escala (RD 659/2023, art. 18.7.a)»; «pondera al 50 % la evidencia del centro […] y la de la empresa (RD 659/2023, art. 18.6)»; «El profesor del módulo califica ambas (RD 659/2023, art. 18.6 y 18.7.a)».",
+   "ahora": "«valora cada resultado de aprendizaje como “superado” o “no superado” (RD 659/2023, art. 18.7.a). La evaluación de los RA compartidos corresponde al profesor del módulo, en coordinación con los tutores duales (art. 18.6) […] Como criterio de esta programación (no lo fija la norma), el tutor describe además el grado de logro con esta escala 1-4 y el profesor pondera al 50 %…»; en los cuadros: «Evalúa el profesor (art. 18.6); 50/50 y escala 1-4: criterio de esta programación».",
+   "alcance": "menor"
+  },
+  {
+   "id": "917bbc7cfc70eafe",
+   "fecha": "2026-11-13",
+   "fecha_unix": 1794579860,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0627_GESTION_ADMINISTRATIVA_COMERCIO_INTERNACIONAL_MURCIA.pdf",
+   "titulo": "Programación didáctica 0627 Gestión administrativa del comercio internacional (Región de Murcia)",
+   "nota": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página.",
+   "ubicacion": "Cuadros de las unidades dualizadas, págs. 40, 43 y 46 (UD 10, 11 y 12): filas «Coevaluación empresa / IES» y «Quién evalúa»; formación en empresa y evaluación, apartado 8.2, págs. 50-51; anexo III, pág. 58 (párrafo inicial y cabecera de la escala); anexos de defensa, preguntas del tribunal, pág. 62 (pregunta nueva).",
+   "antes": "«describe el grado de logro de cada criterio con esta escala (RD 659/2023, art. 18.7.a)»; «pondera al 50 % la evidencia del centro […] y la de la empresa (RD 659/2023, art. 18.6)»; «El profesor del módulo califica ambas (RD 659/2023, art. 18.6 y 18.7.a)».",
+   "ahora": "«valora cada resultado de aprendizaje como “superado” o “no superado” (RD 659/2023, art. 18.7.a). La evaluación de los RA compartidos corresponde al profesor del módulo, en coordinación con los tutores duales (art. 18.6) […] Como criterio de esta programación (no lo fija la norma), el tutor describe además el grado de logro con esta escala 1-4 y el profesor pondera al 50 %…»; en los cuadros: «Evalúa el profesor (art. 18.6); 50/50 y escala 1-4: criterio de esta programación».",
+   "alcance": "menor"
+  },
+  {
+   "id": "ee640642c3cd0955",
+   "fecha": "2026-11-13",
+   "fecha_unix": 1794579860,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0629_ORGANIZACION_TRANSPORTE_MERCANCIAS_ANDALUCIA.pdf",
+   "titulo": "Programación didáctica 0629 Organización del transporte de mercancías (Andalucía)",
+   "nota": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página.",
+   "ubicacion": "Cuadros de las unidades dualizadas, págs. 34, 35 y 38 (UD 7 y 8): filas «Coevaluación empresa / IES» y «Quién evalúa»; formación en empresa y evaluación, apartado 8.2, págs. 52-54 (incluye la tabla de evaluación de la empresa).",
+   "antes": "«describe el grado de logro de cada criterio con esta escala (RD 659/2023, art. 18.7.a)»; «pondera al 50 % la evidencia del centro […] y la de la empresa (RD 659/2023, art. 18.6)»; «El profesor del módulo califica ambas (RD 659/2023, art. 18.6 y 18.7.a)».",
+   "ahora": "«valora cada resultado de aprendizaje como “superado” o “no superado” (RD 659/2023, art. 18.7.a). La evaluación de los RA compartidos corresponde al profesor del módulo, en coordinación con los tutores duales (art. 18.6) […] Como criterio de esta programación (no lo fija la norma), el tutor describe además el grado de logro con esta escala 1-4 y el profesor pondera al 50 %…»; en los cuadros: «Evalúa el profesor (art. 18.6); 50/50 y escala 1-4: criterio de esta programación».",
+   "alcance": "menor"
+  },
+  {
+   "id": "c8956417d9f43df3",
+   "fecha": "2026-11-13",
+   "fecha_unix": 1794579860,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0826_MEDIOS_PAGO_INTERNACIONALES_NAVARRA.pdf",
+   "titulo": "Programación didáctica 0826 Medios de pago internacionales (Navarra)",
+   "nota": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página.",
+   "ubicacion": "Cuadros de las unidades dualizadas, págs. 31, 33 y 35 (UD 7, 8 y 9): filas «Coevaluación empresa / IES» y «Quién evalúa»; formación en empresa y evaluación, apartado 8.2, págs. 43-44; anexo III, pág. 51 (párrafo inicial y cabecera de la escala); anexos de defensa, preguntas del tribunal, pág. 55 (pregunta nueva).",
+   "antes": "«describe el grado de logro de cada criterio con esta escala (RD 659/2023, art. 18.7.a)»; «pondera al 50 % la evidencia del centro […] y la de la empresa (RD 659/2023, art. 18.6)»; «El profesor del módulo califica ambas (RD 659/2023, art. 18.6 y 18.7.a)».",
+   "ahora": "«valora cada resultado de aprendizaje como “superado” o “no superado” (RD 659/2023, art. 18.7.a). La evaluación de los RA compartidos corresponde al profesor del módulo, en coordinación con los tutores duales (art. 18.6) […] Como criterio de esta programación (no lo fija la norma), el tutor describe además el grado de logro con esta escala 1-4 y el profesor pondera al 50 %…»; en los cuadros: «Evalúa el profesor (art. 18.6); 50/50 y escala 1-4: criterio de esta programación».",
+   "alcance": "menor"
+  },
+  {
+   "id": "22d889cc9c962faa",
+   "fecha": "2026-11-13",
+   "fecha_unix": 1794579860,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_0930_POLITICAS_MARKETING_CLM.pdf",
+   "titulo": "Programación didáctica 0930 Políticas de marketing (Castilla-La Mancha)",
+   "nota": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página.",
+   "ubicacion": "Cuadros de las unidades dualizadas, págs. 35 y 38 (UD 8 y 9): filas «Coevaluación empresa / IES» y «Quién evalúa»; formación en empresa y evaluación, apartado 8.2, págs. 49-50; anexo III, pág. 56 (párrafo inicial y cabecera de la escala); anexos de defensa, preguntas del tribunal, pág. 62 (pregunta nueva).",
+   "antes": "«describe el grado de logro de cada criterio con esta escala (RD 659/2023, art. 18.7.a)»; «pondera al 50 % la evidencia del centro […] y la de la empresa (RD 659/2023, art. 18.6)»; «El profesor del módulo califica ambas (RD 659/2023, art. 18.6 y 18.7.a)».",
+   "ahora": "«valora cada resultado de aprendizaje como “superado” o “no superado” (RD 659/2023, art. 18.7.a). La evaluación de los RA compartidos corresponde al profesor del módulo, en coordinación con los tutores duales (art. 18.6) […] Como criterio de esta programación (no lo fija la norma), el tutor describe además el grado de logro con esta escala 1-4 y el profesor pondera al 50 %…»; en los cuadros: «Evalúa el profesor (art. 18.6); 50/50 y escala 1-4: criterio de esta programación».",
+   "alcance": "menor"
+  },
+  {
+   "id": "c272249f76fa419b",
+   "fecha": "2026-11-13",
+   "fecha_unix": 1794579860,
+   "grupo": "archivos",
+   "tipo": "actualizacion",
+   "ruta": "programacion/PROGRAMACION_OGC_1010_INVESTIGACION_COMERCIAL_CV.pdf",
+   "titulo": "Programación didáctica 1010 Investigación comercial (Comunitat Valenciana)",
+   "nota": "Corrección de citas normativas en la evaluación de la formación en empresa. El RD 659/2023 solo dice que el tutor dual valora cada resultado de aprendizaje como «superado» o «no superado» (art. 18.7.a) y que la evaluación de los RA compartidos la hace el profesor del módulo, en coordinación con los tutores duales (art. 18.6). La escala de grado 1-4 y el reparto 50 % centro / 50 % empresa no están en el RD: ahora se presentan como criterio de esta programación. No cambia ninguna nota, peso, unidad ni página.",
+   "ubicacion": "Cuadros de las unidades dualizadas, págs. 39 y 42 (UD 9 y 10): filas «Coevaluación empresa / IES» y «Quién evalúa»; formación en empresa y evaluación, apartado 8.2, págs. 50-51; anexo III, pág. 57 (párrafo inicial y cabecera de la escala); anexos de defensa, preguntas del tribunal, pág. 62 (pregunta nueva).",
+   "antes": "«describe el grado de logro de cada criterio con esta escala (RD 659/2023, art. 18.7.a)»; «pondera al 50 % la evidencia del centro […] y la de la empresa (RD 659/2023, art. 18.6)»; «El profesor del módulo califica ambas (RD 659/2023, art. 18.6 y 18.7.a)».",
+   "ahora": "«valora cada resultado de aprendizaje como “superado” o “no superado” (RD 659/2023, art. 18.7.a). La evaluación de los RA compartidos corresponde al profesor del módulo, en coordinación con los tutores duales (art. 18.6) […] Como criterio de esta programación (no lo fija la norma), el tutor describe además el grado de logro con esta escala 1-4 y el profesor pondera al 50 %…»; en los cuadros: «Evalúa el profesor (art. 18.6); 50/50 y escala 1-4: criterio de esta programación».",
+   "alcance": "menor"
   }
  ],
  "claves_envueltas": {
