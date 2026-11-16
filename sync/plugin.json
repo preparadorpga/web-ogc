@@ -1,14 +1,14 @@
 {
  "tipo": "ogc-paginas-plugin",
  "plugin": "ogc-paginas",
- "version": "2.1.4",
- "zip": "ogc-paginas-2.1.4.zip",
- "sha256": "3d18d43ba538bbf5703cc4c1be0b0d4917020356743b3af08736173743672bb6",
- "bytes": 1895302,
- "fecha_unix": 1794576734,
- "fecha": "2026-11-13T14:32:14+01:00",
+ "version": "2.1.5",
+ "zip": "ogc-paginas-2.1.5.zip",
+ "sha256": "be9b26742ae6c87a113dbeca1c549e8c7fe84324c3f20623051ab5c457183d9e",
+ "bytes": 1898186,
+ "fecha_unix": 1794852707,
+ "fecha": "2026-11-16T19:11:47+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "2.1.4 · 13/11/2026 · Todo a través de Stripe: las ofertas por WhatsApp se pagan con enlace privado de Stripe (tarjeta, Bizum o Revolut); sin Bizum directo ni transferencia."
+ "notas": "2.1.5 · 16/11/2026 · Informe SEO: señales de entidad en la Organization de Yoast (sameAs Instagram y Facebook, «Organización y Gestión Comercial (FP)»), Yoast de /blog/ con el botón de Yoast, Navarra «solicitud cerrada», schema de la tienda sin marcadores."
 }
