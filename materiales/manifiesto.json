@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-materiales",
  "formato": 1,
- "serie": 1794579860,
- "fecha_unix": 1794579860,
- "fecha": "2026-11-13T15:24:20+01:00",
+ "serie": 1794849539,
+ "fecha_unix": 1794849539,
+ "fecha": "2026-11-16T18:18:59+01:00",
  "clave_id": "a3d210574e6a6c7c",
  "version_productos": "2026-11-12b",
  "productos": {
@@ -137,12 +137,19 @@
   }
  },
  "stripe_payment_links": {
-  "plink_PENDIENTE_TEMARIO": "temario",
-  "plink_PENDIENTE_SUPUESTOS": "supuestos",
-  "plink_PENDIENTE_PROGRAMACION": "programacion",
-  "plink_PENDIENTE_PACK": "pack",
-  "plink_PENDIENTE_PACK_10H": "pack_clases",
-  "plink_PENDIENTE_PACK_PROGRAMACION": "pack_programacion"
+  "plink_1UcTJ6QzPDWwZUYixr4KpKo0": "temario",
+  "plink_1UcTLHQzPDWwZUYi9hkKsh1M": "supuestos",
+  "plink_1UcTMVQzPDWwZUYiml8iaBvM": "programacion",
+  "plink_1UcTOuQzPDWwZUYi3TrPhv4r": "pack",
+  "plink_1UcTQQQzPDWwZUYiLyXzxnGR": "pack_clases",
+  "plink_1UcTRYQzPDWwZUYiKq9Fr5h5": "pack_programacion",
+  "plink_1UcTSWQzPDWwZUYipSrMmhFx": "clases_3h",
+  "plink_1UcTTRQzPDWwZUYiiYX37178": "clases_5h",
+  "plink_1UcTULQzPDWwZUYirma7ZPBm": "clases_10h",
+  "plink_1UcTVKQzPDWwZUYiY4byABJB": "pack",
+  "plink_1UcTWEQzPDWwZUYiTAWkvayA": "pack_clases",
+  "plink_1UcTX2QzPDWwZUYigBZ2iFSy": "pack_programacion",
+  "plink_1UcTXoQzPDWwZUYiospFXe2i": "clases_10h"
  },
  "archivos": [
   {
