@@ -3,12 +3,12 @@
  "plugin": "ogc-paginas",
  "version": "2.1.5",
  "zip": "ogc-paginas-2.1.5.zip",
- "sha256": "486df0b4daf0ec59410d2c91a19bbe2456378fb7a9c8c691e4f1e8f550ea4ddc",
- "bytes": 1898594,
- "fecha_unix": 1794949759,
- "fecha": "2026-11-17T22:09:19+01:00",
+ "sha256": "c1846e1da3f3e2807ca9e8e11f97b3d852f615822133865e64ef63523d726912",
+ "bytes": 1899021,
+ "fecha_unix": 1794950532,
+ "fecha": "2026-11-17T22:22:12+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "2.1.5 · 17/11/2026 · Mismo código que el 16/11. Paquete: las clases son individuales por videollamada (sin «grupos reducidos» ni «clases en directo» en grupo) en /about/, /contacto/, /my-services/, /practica-ogc/, portada y llms.txt, incluido el FAQPage; textos legales de OGC Ventas 1.3.5 (ogc_origen en cookies, procedencia de la visita en privacidad)."
+ "notas": "2.1.5 · 17/11/2026 · Mismo código que el 16/11. Paquete: lo que nos diferencia, clases en directo e individuales y planificadas con el alumno (sin grupos) en portada, /about/, /contacto/, /my-services/, /practica-ogc/ y llms.txt, incluido el FAQPage; textos legales de OGC Ventas 1.3.5."
 }
