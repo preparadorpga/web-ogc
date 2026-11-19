@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-redes",
  "formato": 1,
- "serie": 1795113874,
- "fecha_unix": 1795113874,
- "fecha": "2026-11-19T19:44:34+01:00",
+ "serie": 1795114927,
+ "fecha_unix": 1795114927,
+ "fecha": "2026-11-19T20:02:07+01:00",
  "cuenta_ig": "preparadorogc",
  "publicaciones": [
   {
@@ -98,7 +98,7 @@
   {
    "id": "R01",
    "carpeta": "reels_creativos/01_pov-clases-en-directo-e-individuales",
-   "descripcion": "R01 reel «POV: el temario cobra vida» (avatar Tomo, 33 s; JSON ig_render/reels/01.json)",
+   "descripcion": "R01 reel «POV: prepara OGC con clases en directo e individuales» (v2 profesional con mockups, sin mascota, 28,9 s; JSON ig_render/reels/01.json)",
    "fecha": "2026-11-24",
    "hora": "20:00",
    "zona": "Europe/Madrid",
@@ -107,20 +107,20 @@
    "formato": "reel",
    "medios": [
     {
-     "ruta": "medios/r01/video-bc76fc68dd.mp4",
+     "ruta": "medios/r01/video-fd9882ab79.mp4",
      "tipo": "video/mp4",
-     "bytes": 7754651,
-     "sha256": "bc76fc68ddfa83e04476da6b5535506a6b723739b26f757f8bde8bf21aab6c01",
-     "alt": "Vídeo animado de 33 segundos con música instrumental. Una mascota ilustrada con forma de libro azul, con ojos, boca y brazos, llamada Tomo, habla con subtítulos palabra a palabra. Rótulo inicial «POV: el temario cobra vida y te da 4 razones para prepararte con nosotros». 1, clases en directo, solo tú y el profesor, por videollamada y sin grupos. 2, el día y la hora los elegís juntos. 3, 71 temas, supuestos resueltos y 6 programaciones, modelos de 6 comunidades en PDF protegido. 4, mira las muestras antes de decidir, en la web y previo registro. Cierre con el logo, organizacionygestioncomercial.es y @preparadorogc.",
+     "bytes": 6914742,
+     "sha256": "fd9882ab79e25d8aa5b0ef420a8ed2e17d4509cd1c0930fd73f604e36706b73a",
+     "alt": "Vídeo animado de 29 segundos con música instrumental, sin personajes. Rótulo inicial «POV: prepara OGC con clases en directo e individuales» sobre un portátil desenfocado que se enfoca. En la pantalla del portátil, una videollamada de clase individual con dos participantes, Profesor y Tú; el profesor rodea la regla FOB en un tema de Incoterms. Subtítulo: clases en directo, solo tú y el profesor. Un móvil muestra un calendario de diciembre de 2026: se elige el martes 15 a las 18:30 y aparece «Clase confirmada». Subtítulo: el día y la hora los elegís juntos. Un visor muestra el tema 48 en PDF protegido con las páginas pasando. Subtítulo: 71 temas y 6 programaciones, en PDF protegido. Un índice desplaza los 71 temas hasta el último. Una tabla de supuesto resuelto calcula el valor en aduana y el IVA a la importación. Cierre con el logo, «Mira las muestras antes de decidir», organizacionygestioncomercial.es/muestras-gratis y @preparadorogc.",
      "ancho": 1080,
      "alto": 1920,
      "segundos": 28.97
     }
    ],
-   "pie_ig": "Tomo es el temario de Preparador OGC y hoy habla él\n\n1. Clases en directo e individuales: por videollamada, solo tú y el profesor. Sin grupos.\n2. El día y la hora los elegís juntos: cada clase se planifica contigo.\n3. Los 71 temas completos, supuestos prácticos resueltos y 6 programaciones didácticas modelo de 6 comunidades. Todo en PDF protegido.\n4. Antes de decidir, mira las muestras (en la web, previo registro).\n\nEnlace en la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
-   "pie_fb": "Tomo es el temario de Preparador OGC y hoy habla él\n\n1. Clases en directo e individuales: por videollamada, solo tú y el profesor. Sin grupos.\n2. El día y la hora los elegís juntos: cada clase se planifica contigo.\n3. Los 71 temas completos, supuestos prácticos resueltos y 6 programaciones didácticas modelo de 6 comunidades. Todo en PDF protegido.\n4. Antes de decidir, mira las muestras (en la web, previo registro).\n\nMás información: https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel01\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "pie_ig": "POV: preparas Organización y Gestión Comercial con clases en directo e individuales\n\n- Clases en directo por videollamada: solo tú y el profesor.\n- El día y la hora de cada clase los elegís juntos.\n- Los 71 temas, supuestos prácticos resueltos y 6 programaciones didácticas. Todo en PDF protegido.\n- Antes de decidir, mira las muestras en la web.\n\nEnlace en la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores #pov",
+   "pie_fb": "POV: preparas Organización y Gestión Comercial con clases en directo e individuales\n\n- Clases en directo por videollamada: solo tú y el profesor.\n- El día y la hora de cada clase los elegís juntos.\n- Los 71 temas, supuestos prácticos resueltos y 6 programaciones didácticas. Todo en PDF protegido.\n- Antes de decidir, mira las muestras en la web.\n\nMás información: https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel01\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores #pov",
    "enlace": "https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel01",
-   "retenida": "Pendiente de versión final (el reel 01 se está rehaciendo; el orquestador lo sustituirá)"
+   "retenida": ""
   },
   {
    "id": "A05",
