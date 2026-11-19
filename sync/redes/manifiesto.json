@@ -1,0 +1,1937 @@
+{
+ "tipo": "ogc-redes",
+ "formato": 1,
+ "serie": 1795113874,
+ "fecha_unix": 1795113874,
+ "fecha": "2026-11-19T19:44:34+01:00",
+ "cuenta_ig": "preparadorogc",
+ "publicaciones": [
+  {
+   "id": "A03",
+   "carpeta": "2026-11-19_preparar-oposiciones-ogc-castilla-la-mancha-2027",
+   "descripcion": "A03 carrusel estilo Infografía (8 diapositivas)",
+   "fecha": "2026-11-22",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-11-22T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a03/c01-89e7e755d3.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 167609,
+     "sha256": "89e7e755d31213379f6b6a5449f9dc90e6b5af78232ce8f4b869b021743a1281",
+     "alt": "Portada. Convocatorias · Castilla-La Mancha. Castilla-La Mancha vuelve a convocar OGC en 2027: 10 plazas. Qué está aprobado, cómo serán las pruebas y un calendario hasta junio",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c02-166430ce4e.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 110981,
+     "sha256": "166430ce4e6099f316dd0707891ef3aa5bfa56c645a0ef933448a5dbc8bc9c7f",
+     "alt": "Cifra destacada: 10 plazas de OGC en 2027. 8 de turno libre y 2 de discapacidad (Mesa Sectorial de 20/10/2026). Primera convocatoria de OGC en la región desde 2023, que tuvo 15 plazas.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c03-c39bef8c59.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 165892,
+     "sha256": "c39bef8c59a11204c915441f96172d2aa519e82588044ba1824927254f172cba",
+     "alt": "Mapa de España por comunidades: Las plazas de OGC anunciadas para 2027. NAV: 4; CLM: 10; CV: 14; EXT: 7. Navarra ya ha convocado. Extremadura ha anunciado 7 y la Comunitat Valenciana propone 14 en su borrador.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c04-35a2ce5822.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 206947,
+     "sha256": "35a2ce58225ff5799dc6346278a1b43b3567cc8528af923b2f97de5f0321e168",
+     "alt": "«Qué está aprobado y qué falta».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c05-1039076126.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 180789,
+     "sha256": "1039076126375e1362dbf64f8f6e29ebe5b5ff023f6296db1f4d1de613b79c73",
+     "alt": "«La primera prueba (referencia: 2025)».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c06-f28e1b3d19.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 192702,
+     "sha256": "f28e1b3d197679766a1d108f84ce8752557e7e3d97977a0b38bc29c45d4720d9",
+     "alt": "«Un calendario hasta junio».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c07-c766818153.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 115944,
+     "sha256": "c766818153d103a1b2d16156f4455d62cbfdc7c62f4590eccaae06666518641c",
+     "alt": "Recuadro «En el examen»: La práctica vale el 50 % de la primera prueba. Con 10 plazas, el supuesto vuelve a ser decisivo (referencia: convocatoria de 2025).",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a03/c08-78fcee03e8.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 194946,
+     "sha256": "78fcee03e862c47963a3530e584d8090329049a50bcf5933babe919b8c991384",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «preparar oposiciones OGC Castilla-La Mancha» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Castilla-La Mancha vuelve a convocar Organización y Gestión Comercial (OGC) en 2027: 10 plazas, 8 de turno libre y 2 de discapacidad, según el reparto de la Mesa Sectorial del 20/10/2026.\n\nEn el carrusel: qué está ya en el boletín y qué falta, cómo fue la estructura de las pruebas en 2025, qué pasa con la bolsa y un calendario de noviembre a junio. La cifra definitiva será la de la convocatoria.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposicionesCLM",
+   "pie_fb": "Castilla-La Mancha vuelve a convocar Organización y Gestión Comercial (OGC) en 2027: 10 plazas, 8 de turno libre y 2 de discapacidad, según el reparto de la Mesa Sectorial del 20/10/2026.\n\nEn el carrusel: qué está ya en el boletín y qué falta, cómo fue la estructura de las pruebas en 2025, qué pasa con la bolsa y un calendario de noviembre a junio. La cifra definitiva será la de la convocatoria.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/preparar-oposiciones-ogc-castilla-la-mancha-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a03&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposicionesCLM",
+   "enlace": "https://organizacionygestioncomercial.es/blog/preparar-oposiciones-ogc-castilla-la-mancha-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a03&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "R01",
+   "carpeta": "reels_creativos/01_pov-clases-en-directo-e-individuales",
+   "descripcion": "R01 reel «POV: el temario cobra vida» (avatar Tomo, 33 s; JSON ig_render/reels/01.json)",
+   "fecha": "2026-11-24",
+   "hora": "20:00",
+   "zona": "Europe/Madrid",
+   "utc": "2026-11-24T19:00:00Z",
+   "tipo": "REELS",
+   "formato": "reel",
+   "medios": [
+    {
+     "ruta": "medios/r01/video-bc76fc68dd.mp4",
+     "tipo": "video/mp4",
+     "bytes": 7754651,
+     "sha256": "bc76fc68ddfa83e04476da6b5535506a6b723739b26f757f8bde8bf21aab6c01",
+     "alt": "Vídeo animado de 33 segundos con música instrumental. Una mascota ilustrada con forma de libro azul, con ojos, boca y brazos, llamada Tomo, habla con subtítulos palabra a palabra. Rótulo inicial «POV: el temario cobra vida y te da 4 razones para prepararte con nosotros». 1, clases en directo, solo tú y el profesor, por videollamada y sin grupos. 2, el día y la hora los elegís juntos. 3, 71 temas, supuestos resueltos y 6 programaciones, modelos de 6 comunidades en PDF protegido. 4, mira las muestras antes de decidir, en la web y previo registro. Cierre con el logo, organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1920,
+     "segundos": 28.97
+    }
+   ],
+   "pie_ig": "Tomo es el temario de Preparador OGC y hoy habla él\n\n1. Clases en directo e individuales: por videollamada, solo tú y el profesor. Sin grupos.\n2. El día y la hora los elegís juntos: cada clase se planifica contigo.\n3. Los 71 temas completos, supuestos prácticos resueltos y 6 programaciones didácticas modelo de 6 comunidades. Todo en PDF protegido.\n4. Antes de decidir, mira las muestras (en la web, previo registro).\n\nEnlace en la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "pie_fb": "Tomo es el temario de Preparador OGC y hoy habla él\n\n1. Clases en directo e individuales: por videollamada, solo tú y el profesor. Sin grupos.\n2. El día y la hora los elegís juntos: cada clase se planifica contigo.\n3. Los 71 temas completos, supuestos prácticos resueltos y 6 programaciones didácticas modelo de 6 comunidades. Todo en PDF protegido.\n4. Antes de decidir, mira las muestras (en la web, previo registro).\n\nMás información: https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel01\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "enlace": "https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel01",
+   "retenida": "Pendiente de versión final (el reel 01 se está rehaciendo; el orquestador lo sustituirá)"
+  },
+  {
+   "id": "A05",
+   "carpeta": "2026-11-25_elecciones-29-noviembre-oposiciones-docentes-2027",
+   "descripcion": "A05 imagen estilo Titular (1 imagen 4:5)",
+   "fecha": "2026-11-25",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-11-25T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a05/imagen-1131cdff70.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 250007,
+     "sha256": "1131cdff70aab7b0ef3006713e0fbfa9b8dba7d153e8d38ffb275c8d924c051b",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Elecciones del 29/11». Las oposiciones de OGC las convocan las comunidades, que siguen su calendario. Ceuta y Melilla dependen del Ministerio, y el Gobierno quedará en funciones tras el 29/11. Las pruebas, el temario y el baremo no cambian: el RD 276/2007 y la Orden de 1996 siguen en vigor. Fuente: Real Decreto 806/2026 (BOE de 6/10/2026) y art. 21.3 de la Ley 50/1997. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Las oposiciones de OGC las convocan las comunidades, que siguen su calendario.\n\n· Ceuta y Melilla dependen del Ministerio, y el Gobierno quedará en funciones tras el 29/11.\n· Las pruebas, el temario y el baremo no cambian: el RD 276/2007 y la Orden de 1996 siguen en vigor.\n\nLas elecciones generales del 29 de noviembre no paralizan las oposiciones de Organización y Gestión Comercial (OGC) de 2027: las convocan las comunidades.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "Las oposiciones de OGC las convocan las comunidades, que siguen su calendario.\n\n· Ceuta y Melilla dependen del Ministerio, y el Gobierno quedará en funciones tras el 29/11.\n· Las pruebas, el temario y el baremo no cambian: el RD 276/2007 y la Orden de 1996 siguen en vigor.\n\nLas elecciones generales del 29 de noviembre no paralizan las oposiciones de Organización y Gestión Comercial (OGC) de 2027: las convocan las comunidades.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/elecciones-29-noviembre-oposiciones-docentes-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a05&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "enlace": "https://organizacionygestioncomercial.es/blog/elecciones-29-noviembre-oposiciones-docentes-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a05&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A04",
+   "carpeta": "2026-11-22_como-hacer-programacion-didactica-ogc",
+   "descripcion": "A04 vídeo estilo Bloques (4:5, 12 s, con música)",
+   "fecha": "2026-11-28",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-11-28T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a04/video-b3e5628170.mp4",
+     "tipo": "video/mp4",
+     "bytes": 2017475,
+     "sha256": "b3e562817032cf232361b5a5211d09d1ebb6f9762b41b79d9df213ea8b82e884",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Programación didáctica. ¿Por dónde empiezas la programación de OGC?. No por la primera unidad Cifra destacada: Por las bases de tu convocatoria. Extensión, letra, número de unidades y forma de entrega. Cifra destacada: Un módulo con atribución a OGC. Y las horas del currículo de tu comunidad, no las del real decreto. Cifra destacada: El peso de cada resultado de aprendizaje. La nota se pondera por RA, no por exámenes. Decide su peso antes de escribir ninguna unidad. Recuadro «En el examen»: Las horas de las unidades tienen que sumar exactamente las del módulo. Es la comprobación más sencilla del tribunal: una calculadora y dos minutos. Cierre: el desarrollo completo, en el blog; busca «cómo hacer la programación didáctica OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "¿Por dónde empiezas la programación de OGC?\n\n1) Por las bases de tu convocatoria. 2) Un módulo con atribución a OGC. 3) El peso de cada resultado de aprendizaje.\n\nEn el examen: las horas de las unidades tienen que sumar exactamente las del módulo.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «cómo hacer la programación didáctica OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "pie_fb": "¿Por dónde empiezas la programación de OGC?\n\n1) Por las bases de tu convocatoria. 2) Un módulo con atribución a OGC. 3) El peso de cada resultado de aprendizaje.\n\nEn el examen: las horas de las unidades tienen que sumar exactamente las del módulo.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/como-hacer-programacion-didactica-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a04&utm_content=feed\nBusca «cómo hacer la programación didáctica OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-hacer-programacion-didactica-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a04&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A06",
+   "carpeta": "2026-11-28_como-elegir-preparador-ogc",
+   "descripcion": "A06 carrusel estilo Apuntes (8 diapositivas)",
+   "fecha": "2026-12-01",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-01T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a06/c01-5d9afbf1c6.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 265003,
+     "sha256": "5d9afbf1c612e58edaf66577d2ceb8f0cefec784436f0ede0831a923a276d1bf",
+     "alt": "Portada. Vida del opositor. Cómo elegir preparador de OGC: siete criterios que puedes comprobar. Todos se verifican antes de pagar, con una muestra del material y preguntas por escrito",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c02-5b179bc9db.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 307298,
+     "sha256": "5b179bc9db01b6081a394228d5ca8dbc530f9095e8fce30b0d1edf597de37625",
+     "alt": "«Fíjate en lo que se puede comprobar».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c03-df108f9a9e.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 299866,
+     "sha256": "df108f9a9e1791bed5c1a61c9fe357a1bd20ea545c1c3cc3079e12878e07cc4f",
+     "alt": "«Cómo revisar la muestra de un tema».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c04-70f3e1eae1.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 305253,
+     "sha256": "70f3e1eae10d092801aedde99e6ba9ffc1926e2254d2caf22d80bf9bfbf42459",
+     "alt": "«3 y 4. Actualización y corrección».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c05-1e24019848.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 221097,
+     "sha256": "1e2401984865181f231d32514222cad8f90b10a7bd80e71c08ccfa5493f0e55d",
+     "alt": "Cifra destacada: 7 de 10. aspirantes calificados tuvieron un 0 en la parte práctica (Ceuta, 2026). Solo 3 superaron la prueba. Comprueba que la preparación incluye casos integrados, con cada cálculo justificado.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c06-6395d2dc2e.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 289631,
+     "sha256": "6395d2dc2e50da5bcbf50fc1a17423546037ff62bf23a4e11ceedc2f7f9b6c16",
+     "alt": "«6 y 7. Programación y condiciones».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c07-5db68560bf.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 317207,
+     "sha256": "5db68560bfe893ad5c795e2a80d2da1d69cb074bd020dce942355e264af907b6",
+     "alt": "Lista de comprobación «Cinco preguntas para hacer por escrito»: ¿Cuándo se revisó por última vez el tema de valor en aduana y qué cambió? ¿Cuántos supuestos completos incluye y con qué solución: el resultado o el razonamiento? ¿Quién corrige y en cuántos días devuelve un tema? ¿Qué cuesta en total hasta el examen, con IVA y con las actualizaciones? ¿Qué pasa si la convocatoria cambia la estructura de las pruebas?",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a06/c08-f0cd7251ec.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 277307,
+     "sha256": "f0cd7251ec05c9abb35900d1499c7eb3933cc1210c731f8a550f39cb0fdf95c7",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «cómo elegir preparador OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Para elegir preparador de Organización y Gestión Comercial (OGC) sirven siete comprobaciones, y todas se pueden hacer antes de pagar.\n\nEn el carrusel: especialización real, material visible antes de comprar, actualización con fecha, corrección individual, peso de la parte práctica, programación adaptable y condiciones por escrito. Y cinco preguntas para enviar a cada candidato.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "pie_fb": "Para elegir preparador de Organización y Gestión Comercial (OGC) sirven siete comprobaciones, y todas se pueden hacer antes de pagar.\n\nEn el carrusel: especialización real, material visible antes de comprar, actualización con fecha, corrección individual, peso de la parte práctica, programación adaptable y condiciones por escrito. Y cinco preguntas para enviar a cada candidato.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/como-elegir-preparador-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a06&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-elegir-preparador-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a06&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A07",
+   "carpeta": "2026-12-01_que-temas-preparar-ogc",
+   "descripcion": "A07 imagen estilo Noche (1 imagen 4:5)",
+   "fecha": "2026-12-04",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-04T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a07/imagen-9c8927e040.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 209885,
+     "sha256": "9c8927e040caca1b773641f7ce8f730cb6ada228cd3d0ea40073327cd7bfa88c",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Qué temas preparar». Cifra destacada «90,6 %». de que salga al menos uno de tus temas si preparas 31 de los 71. Con 37 temas, un 95,2 %. Poder elegir entre dos sube más: del 59,1 % al 72,4 %. Fuente: Cálculo propio con la distribución hipergeométrica: 4 temas extraídos entre 71, sin reposición. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "90,6 % de que salga al menos uno de tus temas si preparas 31 de los 71.\n\n· Con 37 temas, un 95,2 %.\n· Poder elegir entre dos sube más: del 59,1 % al 72,4 %.\n\nEn Organización y Gestión Comercial (OGC) se extraen 4 de los 71 temas. Con 31 temas preparados, la probabilidad de que salga al menos uno es del 90,6 %; con 37, del 95,2 %.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #temario",
+   "pie_fb": "90,6 % de que salga al menos uno de tus temas si preparas 31 de los 71.\n\n· Con 37 temas, un 95,2 %.\n· Poder elegir entre dos sube más: del 59,1 % al 72,4 %.\n\nEn Organización y Gestión Comercial (OGC) se extraen 4 de los 71 temas. Con 31 temas preparados, la probabilidad de que salga al menos uno es del 90,6 %; con 37, del 95,2 %.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/que-temas-preparar-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a07&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #temario",
+   "enlace": "https://organizacionygestioncomercial.es/blog/que-temas-preparar-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a07&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A08",
+   "carpeta": "2026-12-04_plan-estudio-oposiciones-ogc-diciembre-junio",
+   "descripcion": "A08 vídeo estilo Fichas (4:5, 12 s, con música)",
+   "fecha": "2026-12-07",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-07T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a08/video-2e015aa6d6.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1994350,
+     "sha256": "2e015aa6d64249ad52cbc27735eb48876bafd8bacec933574dbc4fa28e6d4371",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Vida del opositor · Plan. Siete meses hasta la primera prueba de OGC. Un plan de diciembre a junio Cifra destacada: Unas 420 horas. 15 horas semanales durante 28 semanas, para quien trabaja. Cifra destacada: 6 temas al mes. De enero a mayo, hasta 35; y 37 en junio. Con un supuesto cronometrado cada semana. Cifra destacada: La programación, antes de abril. Navarra abre su plazo de entrega no antes del 9 de abril de 2027. Recuadro «Lo que más rompe un plan»: Leer temas sin escribirlos. Un tema está preparado cuando lo has redactado al menos una vez con el tiempo del examen. Cierre: el desarrollo completo, en el blog; busca «plan de estudio oposiciones OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Siete meses hasta la primera prueba de OGC\n\n1) Unas 420 horas. 2) 6 temas al mes. 3) La programación, antes de abril.\n\nLo que más rompe un plan: leer temas sin escribirlos.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «plan de estudio oposiciones OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #plandeestudio",
+   "pie_fb": "Siete meses hasta la primera prueba de OGC\n\n1) Unas 420 horas. 2) 6 temas al mes. 3) La programación, antes de abril.\n\nLo que más rompe un plan: leer temas sin escribirlos.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/plan-estudio-oposiciones-ogc-diciembre-junio/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a08&utm_content=feed\nBusca «plan de estudio oposiciones OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #plandeestudio",
+   "enlace": "https://organizacionygestioncomercial.es/blog/plan-estudio-oposiciones-ogc-diciembre-junio/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a08&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A09",
+   "carpeta": "2026-12-07_comunidad-no-convoca-ogc-2027",
+   "descripcion": "A09 carrusel estilo Titular (8 diapositivas)",
+   "fecha": "2026-12-10",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-10T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a09/c01-5751881032.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 200992,
+     "sha256": "5751881032404cacd7ab3452d2035d270fde695532cc51417ee7916c02a25542",
+     "alt": "Portada. Convocatorias · 2027. Si tu comunidad no convoca OGC en 2027: tres opciones reales. Presentarte en otra, proteger tu bolsa y preparar la siguiente con ventaja",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c02-430b694c85.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 162639,
+     "sha256": "430b694c85dbd41b5dd8e2c44186e4469acfa3e917aefcc507258cd0f37f4a7c",
+     "alt": "Mapa de España por comunidades: Dónde hay OGC para 2027. NAV: 4; CLM: 10; CV: 14; EXT: 7. Estado a 10/11/2026. Que una comunidad no convoque un año es habitual.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c03-147a24f426.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 264321,
+     "sha256": "147a24f426cb4e33e1adc9e185d013b4ff14251a53ec2a57d0fab0d4bc75104f",
+     "alt": "«Opción 1: presentarte en otra comunidad».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c04-2e07ea9949.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 201340,
+     "sha256": "2e07ea9949ed08d86bf10b99d439c066419db2304675a2a4e8807566b66d0398",
+     "alt": "«Tres comprobaciones antes de elegir».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c05-45b1f36d06.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 252277,
+     "sha256": "45b1f36d0656e4376c54683f28c2c3a9c423f0e1a0e06664348f03340ec1c9a5",
+     "alt": "«Opción 2: proteger tu bolsa de interinos».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c06-02fbb029c4.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 228095,
+     "sha256": "02fbb029c431a7851c1861e525fd6350b8f219ac6f0a64adb1e08125673e9a32",
+     "alt": "«Opción 3: preparar la siguiente con ventaja».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c07-5c0de64295.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 129800,
+     "sha256": "5c0de642957e368524e0844692968cb7416447ee91cc9e886113d649212f2016",
+     "alt": "Recuadro «Ojo con el año sabático»: Un año sin examen se convierte en un año sin escribir. Un tema redactado y un supuesto cronometrado cada dos semanas.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a09/c08-e3dabe9e41.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 242998,
+     "sha256": "e3dabe9e41388be2d08bd1cda0659887046fef7218921a715f47b5e07f27ff9a",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «comunidad no convoca OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Si tu comunidad no convoca Organización y Gestión Comercial (OGC) en 2027, tienes tres opciones, y no se excluyen entre sí.\n\nEn el carrusel: dónde hay OGC para 2027 y dónde no está confirmada (situación a 10/11/2026), qué implica presentarte en otra comunidad, cómo proteger tu bolsa de interinos y cómo aprovechar el año para llegar con 45 temas y más baremo.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "Si tu comunidad no convoca Organización y Gestión Comercial (OGC) en 2027, tienes tres opciones, y no se excluyen entre sí.\n\nEn el carrusel: dónde hay OGC para 2027 y dónde no está confirmada (situación a 10/11/2026), qué implica presentarte en otra comunidad, cómo proteger tu bolsa de interinos y cómo aprovechar el año para llegar con 45 temas y más baremo.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/comunidad-no-convoca-ogc-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a09&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "enlace": "https://organizacionygestioncomercial.es/blog/comunidad-no-convoca-ogc-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a09&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A10",
+   "carpeta": "2026-12-10_errores-incoterms-2020-supuestos-ogc",
+   "descripcion": "A10 imagen estilo Bloques (1 imagen 4:5)",
+   "fecha": "2026-12-13",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-13T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a10/imagen-44a0a914f8.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 218549,
+     "sha256": "44a0a914f8af15cab5c971a6fce89410f906ca56a75ef0d31ca84420afc2f76f",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Incoterms 2020». Cifra destacada «9 errores». que más puntos quitan en el supuesto de comercio exterior. FOB con contenedor: usa FCA, CPT o CIP. En CIF el riesgo pasa en origen, no en destino. CIP exige cobertura amplia (cláusulas A); CIF, la mínima (cláusulas C). Fuente: Incoterms 2020, publicación 723 de la Cámara de Comercio Internacional. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "9 errores que más puntos quitan en el supuesto de comercio exterior.\n\n· FOB con contenedor: usa FCA, CPT o CIP.\n· En CIF el riesgo pasa en origen, no en destino.\n· CIP exige cobertura amplia (cláusulas A); CIF, la mínima (cláusulas C).\n\nLos Incoterms aparecen en casi todos los supuestos de comercio exterior de Organización y Gestión Comercial (OGC), y los errores se repiten.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #incoterms",
+   "pie_fb": "9 errores que más puntos quitan en el supuesto de comercio exterior.\n\n· FOB con contenedor: usa FCA, CPT o CIP.\n· En CIF el riesgo pasa en origen, no en destino.\n· CIP exige cobertura amplia (cláusulas A); CIF, la mínima (cláusulas C).\n\nLos Incoterms aparecen en casi todos los supuestos de comercio exterior de Organización y Gestión Comercial (OGC), y los errores se repiten.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/errores-incoterms-2020-supuestos-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a10&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #incoterms",
+   "enlace": "https://organizacionygestioncomercial.es/blog/errores-incoterms-2020-supuestos-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a10&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "R02",
+   "carpeta": "reels_creativos/02_expectativa-vs-realidad",
+   "descripcion": "R02 reel «Expectativa vs realidad» (35 s; JSON ig_render/reels/02.json)",
+   "fecha": "2026-12-15",
+   "hora": "20:00",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-15T19:00:00Z",
+   "tipo": "REELS",
+   "formato": "reel",
+   "medios": [
+    {
+     "ruta": "medios/r02/video-e73d3f3ee7.mp4",
+     "tipo": "video/mp4",
+     "bytes": 4433283,
+     "sha256": "e73d3f3ee78bc0b46263c377ca94aa37656b1d6b30fd7e2a1f4f93cde4dc9fb4",
+     "alt": "Vídeo animado de 35 segundos con música instrumental, en estilo collage de tarjetas de papel. Rótulo «Expectativa vs realidad. Opositor de Organización y Gestión Comercial (OGC)». Tres comparaciones: «Me estudio los 71 temas en verano» frente a «Agosto, y sigo en el tema 4»; «Los supuestos, a ojo: son cuatro cuentas» frente a «Incoterms, valor en aduana, préstamo francés… y sin solución para comparar»; «La programación la hago en un finde» frente a «Currículo de mi comunidad, horas del módulo, resultados de aprendizaje…». Lista «Lo que sí te ayuda»: los 71 temas completos en PDF protegido, supuestos prácticos resueltos, 6 programaciones modelo de 6 comunidades y clases individuales en directo. Cierre «Pasa de la expectativa a un plan», web y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1920,
+     "segundos": 35.47
+    }
+   ],
+   "pie_ig": "Opositar a Organización y Gestión Comercial (OGC): expectativa contra realidad\n\nExpectativa: me estudio los 71 temas en verano. Realidad: agosto, y sigo en el tema 4.\nExpectativa: los supuestos, a ojo. Realidad: Incoterms, valor en aduana, préstamo francés… y sin solución para comparar.\nExpectativa: la programación, en un finde. Realidad: currículo de tu comunidad, horas del módulo, resultados de aprendizaje…\n\nLo que sí ayuda: los 71 temas completos, supuestos prácticos resueltos, 6 programaciones modelo y clases individuales en directo, el día que elijáis tú y el profesor.\n\n¿Cuál te ha pasado a ti? Las muestras, en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "pie_fb": "Opositar a Organización y Gestión Comercial (OGC): expectativa contra realidad\n\nExpectativa: me estudio los 71 temas en verano. Realidad: agosto, y sigo en el tema 4.\nExpectativa: los supuestos, a ojo. Realidad: Incoterms, valor en aduana, préstamo francés… y sin solución para comparar.\nExpectativa: la programación, en un finde. Realidad: currículo de tu comunidad, horas del módulo, resultados de aprendizaje…\n\nLo que sí ayuda: los 71 temas completos, supuestos prácticos resueltos, 6 programaciones modelo y clases individuales en directo, el día que elijáis tú y el profesor.\n\n¿Cuál te ha pasado a ti? Las muestras, aquí: https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel02\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "enlace": "https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel02",
+   "retenida": ""
+  },
+  {
+   "id": "A11",
+   "carpeta": "2026-12-13_supuesto-resuelto-incoterms-valor-en-aduana",
+   "descripcion": "A11 vídeo estilo Apuntes (4:5, 12 s, con música)",
+   "fecha": "2026-12-16",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-16T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a11/video-44075834e3.mp4",
+     "tipo": "video/mp4",
+     "bytes": 2690097,
+     "sha256": "44075834e3287aa553e5d126be5be6e5ea448e4072431aa5288bb0570799ef3f",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Supuesto rápido · Tema 48. Importas en FCA: ¿sobre qué base pagas el IVA?. Un caso de 48.000 € en tres pasos Cifra destacada: 51.065,85 € Valor en aduana. Precio FCA, flete y seguro hasta Valencia. La comisión de compra no entra. Cifra destacada: 1.378,78 € Arancel. El 2,7 % del valor en aduana, no del precio de factura. Cifra destacada: 53.644,63 € Base del IVA. Suma el arancel, los gastos hasta Albacete y la comisión. Cuota del 21 %: 11.265,37 €. Recuadro «Error que penaliza»: Calcular el seguro sobre el precio FCA. La prima va sobre el 110 % de la mercancía con el flete: 195,85 €. Cierre: el desarrollo completo, en el blog; busca «valor en aduana ejemplo resuelto» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Importas en FCA: ¿sobre qué base pagas el IVA?\n\n1) Valor en aduana: 51.065,85 €. 2) Arancel: 1.378,78 €. 3) Base del IVA: 53.644,63 €.\n\nError que penaliza: calcular el seguro sobre el precio FCA.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «valor en aduana ejemplo resuelto».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #comerciointernacional",
+   "pie_fb": "Importas en FCA: ¿sobre qué base pagas el IVA?\n\n1) Valor en aduana: 51.065,85 €. 2) Arancel: 1.378,78 €. 3) Base del IVA: 53.644,63 €.\n\nError que penaliza: calcular el seguro sobre el precio FCA.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/supuesto-resuelto-incoterms-valor-en-aduana/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a11&utm_content=feed\nBusca «valor en aduana ejemplo resuelto».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #comerciointernacional",
+   "enlace": "https://organizacionygestioncomercial.es/blog/supuesto-resuelto-incoterms-valor-en-aduana/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a11&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A12",
+   "carpeta": "2026-12-16_reforma-aduanera-ue-2026-temas-ogc",
+   "descripcion": "A12 carrusel estilo Noche (8 diapositivas)",
+   "fecha": "2026-12-19",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-19T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a12/c01-39bcec16ac.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 193631,
+     "sha256": "39bcec16ac883ffb3f21310edd7b75da03dfebce4dfb0521705a1bc53f0d9776",
+     "alt": "Portada. Microlección · Temas 45-49. Derecho de 3 €, tasa de 2 € y nuevo código aduanero: qué actualizar. Lo que ya se aplica y lo que tiene fecha futura en los temas 45 a 49",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c02-24af344584.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 222251,
+     "sha256": "24af34458414d01d07b9571bd90832a2e213cdba27416656a791c37f7f2392c4",
+     "alt": "«Tres novedades, tres fechas».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c03-dd44aa928f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 135901,
+     "sha256": "dd44aa928ff20c4a0bfe45ad0bd82317a5fdaffbd01bab4d4608eac5f94c3ef2",
+     "alt": "Cifra destacada: 3 € por artículo. Derecho fijo desde el 1/7/2026 hasta el 1/7/2028, solo con IOSS o envío postal (art. 2 del Reglamento (UE) 2026/382). Sustituye a la franquicia de derechos de aduana de los envíos de hasta 150 €.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c04-6795513b3d.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 189790,
+     "sha256": "6795513b3d19b5c95d7f8c5f1b6de25cd7cf3be2eb1c373771fa94ccb4ee4007",
+     "alt": "«Cómo se cuentan los artículos».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c05-bf9a70e656.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 235148,
+     "sha256": "bf9a70e656ca7b0f7c0eea72bf091d7ea935253127c2b41d17434be596b8254d",
+     "alt": "«La tasa de gestión de 2 €».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c06-3c044a1a52.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 216563,
+     "sha256": "3c044a1a526efcd9f4229d801b79311ca35215aa288b5f70c26d486f9ca386b4",
+     "alt": "«El nuevo código: en vigor, aplicación futura».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c07-6cd1ff61d3.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 216789,
+     "sha256": "6cd1ff61d391d1fe6ef042ebf12b304233b34762de9adfb10f2f4b2d778c8b8f",
+     "alt": "«Qué tocar en cada tema».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a12/c08-42d8241113.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 224805,
+     "sha256": "42d82411134fe2f0639b46607a77d048019d82285fe3791261d719f410789d32",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «reforma aduanera UE 2026» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "En los temas de aduanas de Organización y Gestión Comercial (OGC) hay que separar lo vigente de lo futuro: derecho de 3 €, tasa de 2 € y nuevo código aduanero.\n\nEn el carrusel: el derecho fijo de 3 € por artículo (solo con IOSS o envío postal, art. 2 del Reglamento (UE) 2026/382), cómo se cuentan los artículos, la tasa de gestión de 2 € desde el 1/11/2026, el calendario del nuevo código (Reglamento (UE) 2026/2108) y qué tocar en los temas 45 a 49.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #aduanas",
+   "pie_fb": "En los temas de aduanas de Organización y Gestión Comercial (OGC) hay que separar lo vigente de lo futuro: derecho de 3 €, tasa de 2 € y nuevo código aduanero.\n\nEn el carrusel: el derecho fijo de 3 € por artículo (solo con IOSS o envío postal, art. 2 del Reglamento (UE) 2026/382), cómo se cuentan los artículos, la tasa de gestión de 2 € desde el 1/11/2026, el calendario del nuevo código (Reglamento (UE) 2026/2108) y qué tocar en los temas 45 a 49.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/reforma-aduanera-ue-2026-temas-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a12&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #aduanas",
+   "enlace": "https://organizacionygestioncomercial.es/blog/reforma-aduanera-ue-2026-temas-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a12&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A13",
+   "carpeta": "2026-12-19_como-escribir-tema-oposiciones-ogc",
+   "descripcion": "A13 imagen estilo Fichas (1 imagen 4:5)",
+   "fecha": "2026-12-22",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-22T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a13/imagen-35fc4fc458.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 228179,
+     "sha256": "35fc4fc458637ba74868b2d47bfaf0370b74bc9b838b5ccb6255da4fdaeada48",
+     "alt": "Imagen de Preparador OGC con la etiqueta «El tema de OGC». Cifra destacada «7 de 10». puntos son conocimientos actualizados y en profundidad. 2 puntos: estructura del tema y desarrollo completo. 1 punto: originalidad, precisión expresiva y corrección ortográfica. Fuente: Criterios del tribunal de OGC de Ceuta, junio de 2026 (parte B de la primera prueba). Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "7 de 10 puntos son conocimientos actualizados y en profundidad.\n\n· 2 puntos: estructura del tema y desarrollo completo.\n· 1 punto: originalidad, precisión expresiva y corrección ortográfica.\n\nEn el tema de Organización y Gestión Comercial (OGC), 7 de los 10 puntos son por conocimientos actualizados y en profundidad. Así lo publicó el tribunal de Ceuta en 2026.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "7 de 10 puntos son conocimientos actualizados y en profundidad.\n\n· 2 puntos: estructura del tema y desarrollo completo.\n· 1 punto: originalidad, precisión expresiva y corrección ortográfica.\n\nEn el tema de Organización y Gestión Comercial (OGC), 7 de los 10 puntos son por conocimientos actualizados y en profundidad. Así lo publicó el tribunal de Ceuta en 2026.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/como-escribir-tema-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a13&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-escribir-tema-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a13&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A14",
+   "carpeta": "2026-12-22_credito-documentario-ucp-600-supuestos-ogc",
+   "descripcion": "A14 vídeo estilo Infografía (4:5, 12 s, con música)",
+   "fecha": "2026-12-25",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-25T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a14/video-6dc5b37f4d.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1629585,
+     "sha256": "6dc5b37f4d4e75f0e20e854e8ca8772cc85433cdeb51e8463d9df84ec22124d7",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Supuesto rápido · Tema 61. Crédito documentario: los plazos que se preguntan. Tres datos de las UCP 600 Cifra destacada: 5 días hábiles bancarios. Lo que tiene cada banco para decidir si la presentación es conforme (art. 14.b). Cifra destacada: 21 días naturales. Plazo máximo para presentar los documentos desde el embarque, si el crédito no fija otro (art. 14.c). Cifra destacada: Cláusula roja. La modalidad que se propone si el exportador necesita un anticipo antes de embarcar. Recuadro «Error que descalifica»: Decir que el banco comprueba la mercancía. Los bancos trabajan con documentos, no con mercancías (art. 5). Cierre: el desarrollo completo, en el blog; busca «crédito documentario supuesto OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Crédito documentario: los plazos que se preguntan\n\n1) 5 días hábiles bancarios. 2) 21 días naturales. 3) Cláusula roja.\n\nError que descalifica: decir que el banco comprueba la mercancía.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «crédito documentario supuesto OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #comerciointernacional",
+   "pie_fb": "Crédito documentario: los plazos que se preguntan\n\n1) 5 días hábiles bancarios. 2) 21 días naturales. 3) Cláusula roja.\n\nError que descalifica: decir que el banco comprueba la mercancía.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/credito-documentario-ucp-600-supuestos-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a14&utm_content=feed\nBusca «crédito documentario supuesto OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #comerciointernacional",
+   "enlace": "https://organizacionygestioncomercial.es/blog/credito-documentario-ucp-600-supuestos-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a14&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A15",
+   "carpeta": "2026-12-25_formacion-en-empresa-fp-dual-programacion-ogc",
+   "descripcion": "A15 carrusel estilo Bloques (8 diapositivas)",
+   "fecha": "2026-12-28",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-28T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a15/c01-f7dab94ddb.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 183352,
+     "sha256": "f7dab94ddb248ffca6d965509f9433b97830b55c3c8d7170c0d2beb16fa28fb3",
+     "alt": "Portada. Programación · FP dual. Formación en empresa: cómo entra en tu programación de OGC. Régimen general e intensivo (Ley Orgánica 3/2022), qué cambia en un módulo y cómo se evalúa",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c02-124781e246.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 203204,
+     "sha256": "124781e24608e7f6e4510ee76c17d2b681c5402ffe53995a7d51ac0b44ed81c1",
+     "alt": "«El marco: Ley Orgánica 3/2022».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c03-38ea7e5219.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 203305,
+     "sha256": "38ea7e52196e7ab30de73165781bc6884e171ee39266e910074a659d7d2eda7e",
+     "alt": "Comparativa General frente a Intensivo. Duración en la empresa: Del 25 % al 35 % del total / Más del 35 %. Resultados de aprendizaje con la empresa: Hasta el 20 % / Más del 30 %. Relación con la empresa: Sin contrato de formación / Contrato de formación. Retribución: No / Sí, en el marco del contrato.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c04-7ff8405188.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 215210,
+     "sha256": "7ff84051887fb651bb780ee2cefa71644e848040a0ffafdeefca6a40787a2a80",
+     "alt": "«Qué cambia en un módulo».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c05-2b376a1fdd.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 216251,
+     "sha256": "2b376a1fdd8fcb06af695e4ab9683467ac7e926acdc3090fecc47989d44bb21e",
+     "alt": "«Un ejemplo con el módulo 0627».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c06-3b2cf80888.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 208325,
+     "sha256": "3b2cf8088848ddc917bc6123672e5e27dc5ef8968cadd0a0cf1edb5b0bf02e39",
+     "alt": "«La normativa autonómica manda en el detalle».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c07-a61dc3ccbf.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 219361,
+     "sha256": "a61dc3ccbf1dbe6560b31ef538d29bfc60b8d4b2471d3aab59a379cf3e4f154c",
+     "alt": "«Errores que se ven en las programaciones».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a15/c08-844b3e2c48.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 245662,
+     "sha256": "844b3e2c4803fe0df2254b710ef53a1b55a416c3dc70c232df4e0ecc028a4af9",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «formación en empresa programación OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Desde la Ley Orgánica 3/2022 toda la FP es dual, y tu programación de Organización y Gestión Comercial (OGC) tiene que reflejarlo.\n\nEn el carrusel: el régimen general y el intensivo (duración, resultados de aprendizaje, contrato y retribución), qué cambia en la programación de un módulo, un ejemplo con el 0627 y los errores que más se ven.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "pie_fb": "Desde la Ley Orgánica 3/2022 toda la FP es dual, y tu programación de Organización y Gestión Comercial (OGC) tiene que reflejarlo.\n\nEn el carrusel: el régimen general y el intensivo (duración, resultados de aprendizaje, contrato y retribución), qué cambia en la programación de un módulo, un ejemplo con el 0627 y los errores que más se ven.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/formacion-en-empresa-fp-dual-programacion-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a15&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/formacion-en-empresa-fp-dual-programacion-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a15&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A16",
+   "carpeta": "2026-12-28_prestamo-sistema-frances-ejercicio-ogc",
+   "descripcion": "A16 imagen estilo Apuntes (1 imagen 4:5)",
+   "fecha": "2026-12-31",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-31T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a16/imagen-42f8098596.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 294256,
+     "sha256": "42f8098596a8c6edc19507b64d79e4340271ec32fb1ca841b2b3425e429b39b7",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Sistema francés». Cifra destacada «1.125,11 €». de cuota mensual por un préstamo de 60.000 € a 5 años. TIN: euríbor de octubre de 2026 (3,239 %) + 1,50 % = 4,739 %. Tipo mensual: 0,39492 %. Nunca el tipo anual con cuotas mensuales. TAE, con la comisión de apertura del 0,5 %: 5,06 %. Fuente: Euríbor a un año de octubre de 2026: Banco de España, 3/11/2026. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "1.125,11 € de cuota mensual por un préstamo de 60.000 € a 5 años.\n\n· TIN: euríbor de octubre de 2026 (3,239 %) + 1,50 % = 4,739 %.\n· Tipo mensual: 0,39492 %. Nunca el tipo anual con cuotas mensuales.\n· TAE, con la comisión de apertura del 0,5 %: 5,06 %.\n\nUn préstamo de 60.000 € a 5 años con sistema francés, resuelto paso a paso con el euríbor a un año de octubre de 2026 (3,239 %): el ejercicio de préstamos más frecuente en la parte práctica de Organización y Gestión Comercial (OGC).\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #finanzas",
+   "pie_fb": "1.125,11 € de cuota mensual por un préstamo de 60.000 € a 5 años.\n\n· TIN: euríbor de octubre de 2026 (3,239 %) + 1,50 % = 4,739 %.\n· Tipo mensual: 0,39492 %. Nunca el tipo anual con cuotas mensuales.\n· TAE, con la comisión de apertura del 0,5 %: 5,06 %.\n\nUn préstamo de 60.000 € a 5 años con sistema francés, resuelto paso a paso con el euríbor a un año de octubre de 2026 (3,239 %): el ejercicio de préstamos más frecuente en la parte práctica de Organización y Gestión Comercial (OGC).\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/prestamo-sistema-frances-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a16&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #finanzas",
+   "enlace": "https://organizacionygestioncomercial.es/blog/prestamo-sistema-frances-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a16&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A17",
+   "carpeta": "2026-12-31_verifactu-factura-electronica-2027-temas-ogc",
+   "descripcion": "A17 vídeo estilo Noche (4:5, 12 s, con música)",
+   "fecha": "2027-01-03",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-03T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a17/video-982e8b0d7b.mp4",
+     "tipo": "video/mp4",
+     "bytes": 3129116,
+     "sha256": "982e8b0d7b5a5bc1f68a4cfbc495d0114a135db05312b52f4fb3ef0aac56f9ac",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Microlección · VeriFactu. VeriFactu: ¿desde cuándo es obligatorio?. Lo vigente: Real Decreto-ley 15/2025 Cifra destacada: 1/1/2027 Sociedades. Contribuyentes del Impuesto sobre Sociedades. Quedan fuera quienes llevan el SII. Cifra destacada: 1/7/2027 Resto. Autónomos en el IRPF, entidades en atribución de rentas y no residentes con establecimiento permanente, entre otros. Cifra destacada: 50.000 € por ejercicio Sanción. Para quien use un sistema que no cumple (art. 201 bis de la Ley General Tributaria). Recuadro «Error que se repite»: Mezclar VeriFactu con la factura electrónica B2B. Son dos normas con fechas distintas: RD 1007/2023 y RD 238/2026. Cierre: el desarrollo completo, en el blog; busca «VeriFactu 2027» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "VeriFactu: ¿desde cuándo es obligatorio?\n\n1) Sociedades: 1/1/2027. 2) Resto: 1/7/2027. 3) Sanción: 50.000 € por ejercicio.\n\nError que se repite: mezclar VeriFactu con la factura electrónica B2B.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «VeriFactu 2027».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #fiscalidad",
+   "pie_fb": "VeriFactu: ¿desde cuándo es obligatorio?\n\n1) Sociedades: 1/1/2027. 2) Resto: 1/7/2027. 3) Sanción: 50.000 € por ejercicio.\n\nError que se repite: mezclar VeriFactu con la factura electrónica B2B.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/verifactu-factura-electronica-2027-temas-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a17&utm_content=feed\nBusca «VeriFactu 2027».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #fiscalidad",
+   "enlace": "https://organizacionygestioncomercial.es/blog/verifactu-factura-electronica-2027-temas-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a17&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "R03",
+   "carpeta": "reels_creativos/03_un-dia-preparando-ogc",
+   "descripcion": "R03 reel «Un día preparando OGC» (34 s; JSON ig_render/reels/03.json)",
+   "fecha": "2027-01-05",
+   "hora": "20:00",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-05T19:00:00Z",
+   "tipo": "REELS",
+   "formato": "reel",
+   "medios": [
+    {
+     "ruta": "medios/r03/video-29f3e46f0a.mp4",
+     "tipo": "video/mp4",
+     "bytes": 4347877,
+     "sha256": "29f3e46f0aaaeb7259747321ba4c4a0ce03c4530651eb2b9f7681ab278202d87",
+     "alt": "Vídeo animado de 34 segundos con música lo-fi instrumental. Notas adhesivas con la hora y un icono sobre un fondo de atardecer, con subtítulos palabra a palabra. 08:30, café y tema 48, valor en aduana. 11:00, esquema a mano: si no lo escribo, no lo sé. 17:00, supuesto práctico y lo comparo con la solución. 19:00, clase en directo: solo el profesor y yo. 20:00, la próxima clase, el día que elegimos. 21:30, descanso: también es parte del plan. Cierre «¿Quieres ver el material? Pide las muestras en la web», web y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1920,
+     "segundos": 34.37
+    }
+   ],
+   "pie_ig": "Un día preparando Organización y Gestión Comercial (OGC), versión realista\n\n08:30 Café y tema 48: valor en aduana.\n11:00 Esquema a mano: si no lo escribo, no lo sé.\n17:00 Supuesto práctico, y lo comparo con la solución.\n19:00 Clase en directo por videollamada: solo el profesor y yo.\n20:00 La siguiente clase, el día que elegimos juntos.\n21:30 Descanso. También es parte del plan.\n\n¿Quieres ver cómo es el material? Pide las muestras en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #estudiaconmigo",
+   "pie_fb": "Un día preparando Organización y Gestión Comercial (OGC), versión realista\n\n08:30 Café y tema 48: valor en aduana.\n11:00 Esquema a mano: si no lo escribo, no lo sé.\n17:00 Supuesto práctico, y lo comparo con la solución.\n19:00 Clase en directo por videollamada: solo el profesor y yo.\n20:00 La siguiente clase, el día que elegimos juntos.\n21:30 Descanso. También es parte del plan.\n\n¿Quieres ver cómo es el material? Pide las muestras aquí: https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel03\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #estudiaconmigo",
+   "enlace": "https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel03",
+   "retenida": ""
+  },
+  {
+   "id": "A18",
+   "carpeta": "2027-01-03_seguro-de-cambio-ejercicio-ogc",
+   "descripcion": "A18 carrusel estilo Fichas (8 diapositivas)",
+   "fecha": "2027-01-06",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-06T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a18/c01-8167ec5319.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 255664,
+     "sha256": "8167ec531927e69dc2856e66e4e93f6498146981b158d0be26bc103f87aa8865",
+     "alt": "Portada. Supuesto rápido · Tema 56. Cobras 250.000 dólares a 90 días: ¿cuántos euros asegura el seguro de cambio?. Con el tipo de referencia del BCE del 9/11/2026 (1,1193 USD/EUR) y la paridad de tipos de interés",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c02-58e1c3e441.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 232081,
+     "sha256": "58e1c3e441debdab6239cb823ec434e8a4fe50ed75a436717ddfec17945a1637",
+     "alt": "«El enunciado».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c03-e4a0faf1cd.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 226949,
+     "sha256": "e4a0faf1cd0e173e9dc1bdc48873b4ff1f6ee6ba338ed23150139316bba8b179",
+     "alt": "«a) El tipo a plazo».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c04-1dff198682.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 167022,
+     "sha256": "1dff198682d167635052c06f3102599d665ef7feca2d3c902bb9f998dab625cf",
+     "alt": "Cifra destacada: 222.579,50 €. cobra con el seguro de cambio, haga lo que haga el dólar. 250.000 ÷ 1,1231942. Al contado de hoy serían 223.353,88 €: el seguro cuesta 774,38 €.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c05-a604bc2f32.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 215835,
+     "sha256": "a604bc2f326934f54cf889511465bbd2f2e37e908d335f066771da82c2f47b2e",
+     "alt": "Comparativa Con seguro frente a Sin seguro. Si a los 90 días el contado es 1,16 USD/EUR: 222.579,50 € / 215.517,24 €. Si a los 90 días el contado es 1,09 USD/EUR: 222.579,50 € / 229.357,80 €.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c06-009a75ad02.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 280432,
+     "sha256": "009a75ad0235c465e9bf1b3cbfde725b42a54d83f54ebe4062765742effb8071",
+     "alt": "«Las alternativas que conviene nombrar».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c07-f5abf5e1af.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 235701,
+     "sha256": "f5abf5e1af8478ec1ec6219a8fe67cdbfbb35affc1e832f69142d6e03bc4e28f",
+     "alt": "«Errores que penalizan».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a18/c08-4dae14da5f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 252722,
+     "sha256": "4dae14da5f936cd77f94d90fffb10973c1ebf66d50f3c771e3c52fd98a6d0a3f",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «seguro de cambio ejercicio OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Un exportador cobrará 250.000 dólares dentro de 90 días. Con el seguro de cambio, y el tipo de referencia del BCE del 9/11/2026 (1,1193 USD/EUR), asegura 222.579,50 €: un ejercicio típico de la parte práctica de Organización y Gestión Comercial (OGC).\n\nEn el carrusel: el tipo a plazo por la paridad de tipos de interés (1,1232 USD/EUR), lo que cobra con seguro y su coste implícito (774,38 €), la comparación sin cobertura si el dólar cae o sube, las alternativas que conviene nombrar y los errores que penalizan.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #comerciointernacional",
+   "pie_fb": "Un exportador cobrará 250.000 dólares dentro de 90 días. Con el seguro de cambio, y el tipo de referencia del BCE del 9/11/2026 (1,1193 USD/EUR), asegura 222.579,50 €: un ejercicio típico de la parte práctica de Organización y Gestión Comercial (OGC).\n\nEn el carrusel: el tipo a plazo por la paridad de tipos de interés (1,1232 USD/EUR), lo que cobra con seguro y su coste implícito (774,38 €), la comparación sin cobertura si el dólar cae o sube, las alternativas que conviene nombrar y los errores que penalizan.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/seguro-de-cambio-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a18&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #comerciointernacional",
+   "enlace": "https://organizacionygestioncomercial.es/blog/seguro-de-cambio-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a18&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A19",
+   "carpeta": "2027-01-06_cuanto-cuesta-preparar-oposiciones-ogc",
+   "descripcion": "A19 imagen estilo Infografía (1 imagen 4:5)",
+   "fecha": "2027-01-09",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-09T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a19/imagen-634975165a.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 244888,
+     "sha256": "634975165aa82fb30a9e40c03949ac7d4f67f0f51204ab178a370b95cf0ec7df",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Lo que cuesta prepararse». Cifra destacada «41,60 €». de tasa por especialidad en Navarra 2027. Si te presentas en dos comunidades, pagas dos tasas. Méritos y desplazamiento: certificados, traducciones juradas y viaje a la sede. El coste principal es el tiempo: unas 420 horas, 15 a la semana durante 28 semanas. Antes de pagar a cualquiera: precio total con IVA y cuánto duran las actualizaciones. Fuente: Base cuarta de la Resolución 232/2026 (Navarra). Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "41,60 € de tasa por especialidad en Navarra 2027. Si te presentas en dos comunidades, pagas dos tasas.\n\n· Méritos y desplazamiento: certificados, traducciones juradas y viaje a la sede.\n· El coste principal es el tiempo: unas 420 horas, 15 a la semana durante 28 semanas.\n· Antes de pagar a cualquiera: precio total con IVA y cuánto duran las actualizaciones.\n\nPreparar Organización y Gestión Comercial (OGC) tiene una parte fija, que pone la administración, y otra que decides tú. La fija empieza por la tasa de examen: 41,60 € en Navarra para 2027, una por cada comunidad en la que te presentes.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "41,60 € de tasa por especialidad en Navarra 2027. Si te presentas en dos comunidades, pagas dos tasas.\n\n· Méritos y desplazamiento: certificados, traducciones juradas y viaje a la sede.\n· El coste principal es el tiempo: unas 420 horas, 15 a la semana durante 28 semanas.\n· Antes de pagar a cualquiera: precio total con IVA y cuánto duran las actualizaciones.\n\nPreparar Organización y Gestión Comercial (OGC) tiene una parte fija, que pone la administración, y otra que decides tú. La fija empieza por la tasa de examen: 41,60 € en Navarra para 2027, una por cada comunidad en la que te presentes.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/cuanto-cuesta-preparar-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a19&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "enlace": "https://organizacionygestioncomercial.es/blog/cuanto-cuesta-preparar-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a19&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A20",
+   "carpeta": "2027-01-09_revision-precio-transporte-gasoleo-ejercicio-ogc",
+   "descripcion": "A20 vídeo estilo Titular (4:5, 12 s, con música)",
+   "fecha": "2027-01-12",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-12T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a20/video-033cc22128.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1556305,
+     "sha256": "033cc2212827854dad78c0ed6e2faa9f5b6ea301ac277ec56ed5375fded2cb47",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Supuesto rápido · Tema 70. Gasóleo un 8 % más caro: ¿cuánto sube el porte?. Un porte de 1.200 € con la revisión obligatoria de la Ley 15/2009 Cifra destacada: 5 % Umbral. Por debajo, en un porte suelto, no se revisa salvo pacto escrito. Con un 8 %, sí, y en los dos sentidos. Cifra destacada: +28,80 € Revisión. 8 % de 1.200 € por el peso del combustible, 0,30. Precio revisado: 1.228,80 €. Cifra destacada: En la factura, aparte. El ajuste va en una línea propia. Y es nulo el pacto que excluya la revisión. Recuadro «Lo que el tribunal quiere ver»: La norma citada y el umbral comprobado antes de calcular. Sin la norma, el cálculo es solo aritmética. Cierre: el desarrollo completo, en el blog; busca «revisión precio transporte gasóleo» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Gasóleo un 8 % más caro: ¿cuánto sube el porte?\n\n1) Umbral: 5 %. 2) Revisión: +28,80 €. 3) En la factura, aparte.\n\nLo que el tribunal quiere ver: la norma citada y el umbral comprobado antes de calcular.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «revisión precio transporte gasóleo».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #logistica",
+   "pie_fb": "Gasóleo un 8 % más caro: ¿cuánto sube el porte?\n\n1) Umbral: 5 %. 2) Revisión: +28,80 €. 3) En la factura, aparte.\n\nLo que el tribunal quiere ver: la norma citada y el umbral comprobado antes de calcular.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/revision-precio-transporte-gasoleo-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a20&utm_content=feed\nBusca «revisión precio transporte gasóleo».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #logistica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/revision-precio-transporte-gasoleo-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a20&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A21",
+   "carpeta": "2026-12-22_como-estudiar-temas-finanzas-medios-pago-ogc",
+   "descripcion": "A21 carrusel estilo Apuntes (8 diapositivas)",
+   "fecha": "2027-01-15",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-15T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a21/c01-2f2ef46e90.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 245209,
+     "sha256": "2f2ef46e90f5e3ab7a581e6613f9c240f93175cdc7eb7443ca11dfc4852761ab",
+     "alt": "Portada. Microlección · Temas 51-64. 14 temas de finanzas en las vacaciones: por dónde empezar. El bloque 7 de OGC en cuatro grupos, con su orden y la normativa que hay que citar",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c02-a7f33cd096.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 263573,
+     "sha256": "a7f33cd096b93bd171f808efdc57925ebe8976330e3316eb98526af8fc29c236",
+     "alt": "«El bloque más largo del temario».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c03-0e1d085a63.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 220395,
+     "sha256": "0e1d085a634dfa784c6a158524d0d30acfff376a90175e52f3eb2e3b686a5e30",
+     "alt": "«Cuatro grupos».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c04-fe82587539.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 265927,
+     "sha256": "fe82587539356610afe002a706b22465cdffcc170c90d9f0924758ceef070a66",
+     "alt": "«El orden».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c05-838dd1848f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 253190,
+     "sha256": "838dd1848fe2e5600a5cf5b96b22a3a807f26b8e04d9fcceff3d28625cb6dd5d",
+     "alt": "«Dos semanas, unas 3 horas al día».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c06-1663dbb48d.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 259282,
+     "sha256": "1663dbb48d03dab7edb47d70e3d576cb4b71ed31fca54cd41becd09eb2a173c7",
+     "alt": "«Normas y reglas que hay que distinguir».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c07-0dd2b6f5e5.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 257204,
+     "sha256": "0dd2b6f5e54359bed2e396cb453fbaa6b60c4c1b027c7775497e8c3c543b89d8",
+     "alt": "«Los cinco cálculos que más salen».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a21/c08-5857c539f4.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 268171,
+     "sha256": "5857c539f4c2ae493834450376bc973c898b9de7904d087bcfb38cf71263765a",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «estudiar temas finanzas oposiciones OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "El bloque 7 de Organización y Gestión Comercial (OGC), los temas 51 a 64, es el más largo del temario: 14 de 71. Con cuatro temas extraídos, la probabilidad de que salga al menos uno es del 59,3 %.\n\nEn el carrusel: los cuatro grupos en que conviene dividirlo, el orden (primero la matemática financiera), un plan de dos semanas, las normas y reglas de la CCI que hay que citar y los cinco cálculos que más salen en el supuesto.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #matematicafinanciera",
+   "pie_fb": "El bloque 7 de Organización y Gestión Comercial (OGC), los temas 51 a 64, es el más largo del temario: 14 de 71. Con cuatro temas extraídos, la probabilidad de que salga al menos uno es del 59,3 %.\n\nEn el carrusel: los cuatro grupos en que conviene dividirlo, el orden (primero la matemática financiera), un plan de dos semanas, las normas y reglas de la CCI que hay que citar y los cinco cálculos que más salen en el supuesto.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/como-estudiar-temas-finanzas-medios-pago-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a21&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #matematicafinanciera",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-estudiar-temas-finanzas-medios-pago-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a21&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A22",
+   "carpeta": "2026-12-25_prevision-ventas-minimos-cuadrados-ejercicio-ogc",
+   "descripcion": "A22 imagen estilo Noche (1 imagen 4:5)",
+   "fecha": "2027-01-18",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-18T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a22/imagen-b09258464b.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 214509,
+     "sha256": "b09258464b6658b1c0bdec518ad44c01cb87ff1e6c9a36a046cdd8e922441723",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Supuesto rápido · Estadística». Seis campañas de Navidad: ¿cuánto venderá la próxima?. La recta. y = 112,6 + 7,257·t: unos 7.257 € más por campaña. El ajuste. R² = 0,995: la tendencia explica el 99,5 % de la variación. La previsión. Campaña de 2027 (t = 7): 163,4 miles de euros. Fuente: Ejercicio con datos supuestos · Preparador OGC. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Seis campañas de Navidad: ¿cuánto venderá la próxima?.\n\n· La recta. y = 112,6 + 7,257·t: unos 7.257 € más por campaña.\n· El ajuste. R² = 0,995: la tendencia explica el 99,5 % de la variación.\n· La previsión. Campaña de 2027 (t = 7): 163,4 miles de euros.\n\nHoy las tiendas hacen balance de la campaña. La previsión de ventas por mínimos cuadrados es un cálculo de la parte práctica de Organización y Gestión Comercial (OGC): con seis campañas de 120 a 156 miles de euros, la de 2027 sale en 163,4.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #estadistica",
+   "pie_fb": "Seis campañas de Navidad: ¿cuánto venderá la próxima?.\n\n· La recta. y = 112,6 + 7,257·t: unos 7.257 € más por campaña.\n· El ajuste. R² = 0,995: la tendencia explica el 99,5 % de la variación.\n· La previsión. Campaña de 2027 (t = 7): 163,4 miles de euros.\n\nHoy las tiendas hacen balance de la campaña. La previsión de ventas por mínimos cuadrados es un cálculo de la parte práctica de Organización y Gestión Comercial (OGC): con seis campañas de 120 a 156 miles de euros, la de 2027 sale en 163,4.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/prevision-ventas-minimos-cuadrados-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a22&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #estadistica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/prevision-ventas-minimos-cuadrados-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a22&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A23",
+   "carpeta": "2026-12-28_como-estudiar-temas-transporte-logistica-ogc",
+   "descripcion": "A23 vídeo estilo Fichas (4:5, 12 s, con música)",
+   "fecha": "2027-01-21",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-21T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a23/video-21218649d2.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1930932,
+     "sha256": "21218649d2af48d4bdbbb50ef80cae6756a93a5ea82b0546ee7ac7edc50b6a35",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Microlección · Temas 65-71. Siete temas de transporte en dos semanas. El bloque 8 de OGC, en orden Cifra destacada: Primero, el 65 y el 70. Medios, costes y tarifas: los que más dan al supuesto. Cifra destacada: Después, rutas y organización. 66; luego 67 y 71 juntos. Cifra destacada: Al final, el 68 y el 69. Con la normativa de 2025 y 2026 al día. Recuadro «Lo que más resta»: Citar normas derogadas o cifras sin fecha. El bloque cambió mucho entre 2025 y 2026. Cierre: el desarrollo completo, en el blog; busca «estudiar temas transporte oposiciones OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Siete temas de transporte en dos semanas\n\n1) Primero, el 65 y el 70. 2) Después, rutas y organización. 3) Al final, el 68 y el 69.\n\nLo que más resta: citar normas derogadas o cifras sin fecha.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «estudiar temas transporte oposiciones OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #logistica",
+   "pie_fb": "Siete temas de transporte en dos semanas\n\n1) Primero, el 65 y el 70. 2) Después, rutas y organización. 3) Al final, el 68 y el 69.\n\nLo que más resta: citar normas derogadas o cifras sin fecha.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/como-estudiar-temas-transporte-logistica-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a23&utm_content=feed\nBusca «estudiar temas transporte oposiciones OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #logistica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-estudiar-temas-transporte-logistica-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a23&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A24",
+   "carpeta": "2026-12-31_calendario-convocatorias-oposiciones-docentes-2027",
+   "descripcion": "A24 carrusel estilo Infografía (8 diapositivas)",
+   "fecha": "2027-01-24",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-24T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a24/c01-d9e31dacdc.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 173258,
+     "sha256": "d9e31dacdccc7709cfa5e7d3fb3fc296f62b93b34d9ad057a791d8cbc10bdd1a",
+     "alt": "Portada. Convocatorias · 2027. ¿Cuándo sale tu convocatoria? Las fechas reales de 2025 y 2026. Ministerio en diciembre, un grupo en enero y otro en febrero, con plazos de 15 o 20 días hábiles",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c02-1a686d7d24.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 150193,
+     "sha256": "1a686d7d2410bf33f58f8f6fb6f02bc6ab58cc027dc6b447e33f4abefa916b7a",
+     "alt": "«Diciembre y enero».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c03-e6976909dd.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 147046,
+     "sha256": "e6976909dda0d6f58837fdc484dd6369be28fce7e58f1d1032347f58e114d0d4",
+     "alt": "«Febrero».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c04-ed86eb21db.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 129737,
+     "sha256": "ed86eb21dbb77888d73ac161a230b2f83df27de0394824087b592833b1df1958",
+     "alt": "«Plazos cortos».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c05-7a58113762.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 144878,
+     "sha256": "7a581137620365af468ddbfbffa8902e720832e77ded3be1b2bb58bf0087ee5f",
+     "alt": "«OGC en 2027 (a 19/11/2026)».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c06-b970d7e4de.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 119064,
+     "sha256": "b970d7e4de5564b8f4372eab9d58aeb4a7d52199ca2b562a682704c06bf2b233",
+     "alt": "«La carpeta para enero».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c07-72a9397f2b.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 118518,
+     "sha256": "72a9397f2bdc3cbce1978ecf33d755c84bbd0caa0cff4ae1664b6e3332f9f4c9",
+     "alt": "««Suele» no es «será»».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a24/c08-5a7f2bd5b1.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 205780,
+     "sha256": "5a7f2bd5b1ec6ab316102a15f967510b9bc7c3633c8d939ef4961de26f319ab7",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «calendario convocatorias oposiciones 2027» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Las convocatorias de Secundaria, donde está Organización y Gestión Comercial (OGC), se publican sobre todo entre finales de diciembre y marzo, con plazos de solicitud de 15 o 20 días hábiles.\n\nEn el carrusel: las fechas reales de 2025 y 2026 boletín a boletín, lo que se sabe de OGC para 2027 y la carpeta que conviene tener lista en enero.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #convocatorias",
+   "pie_fb": "Las convocatorias de Secundaria, donde está Organización y Gestión Comercial (OGC), se publican sobre todo entre finales de diciembre y marzo, con plazos de solicitud de 15 o 20 días hábiles.\n\nEn el carrusel: las fechas reales de 2025 y 2026 boletín a boletín, lo que se sabe de OGC para 2027 y la carpeta que conviene tener lista en enero.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/calendario-convocatorias-oposiciones-docentes-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a24&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #convocatorias",
+   "enlace": "https://organizacionygestioncomercial.es/blog/calendario-convocatorias-oposiciones-docentes-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a24&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "R04",
+   "carpeta": "reels_creativos/04_cosas-que-tienen-sentido",
+   "descripcion": "R04 reel «Cosas que tienen sentido» (30 s; JSON ig_render/reels/04.json)",
+   "fecha": "2027-01-26",
+   "hora": "20:00",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-26T19:00:00Z",
+   "tipo": "REELS",
+   "formato": "reel",
+   "medios": [
+    {
+     "ruta": "medios/r04/video-edfe5c37d1.mp4",
+     "tipo": "video/mp4",
+     "bytes": 10129889,
+     "sha256": "edfe5c37d1ee127a2b3a453925b934ecb34e7257d1aa4f38fba15ba330e6aad7",
+     "alt": "Vídeo animado de 30 segundos con música electrónica instrumental, con cortes al ritmo. Rótulo «Cosas que tienen sentido si preparas oposiciones de Organización y Gestión Comercial (OGC)». Cuenta atrás: 5, ver una muestra antes de pagar; 4, que la clase sea solo tuya, en directo y por videollamada, una persona por sesión; 3, elegir tú el día y la hora; 2, practicar con supuestos resueltos; 1, tener los 71 temas completos, y 6 programaciones modelo de 6 comunidades en PDF protegido. Cierre «Todo esto, en Preparador OGC», web y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1920,
+     "segundos": 30.07
+    }
+   ],
+   "pie_ig": "Cosas que tienen sentido si preparas oposiciones de Organización y Gestión Comercial (OGC)\n\n5. Ver una muestra antes de pagar.\n4. Que la clase sea solo tuya: en directo, por videollamada, una persona por sesión.\n3. Elegir tú el día y la hora, con el profesor.\n2. Practicar con supuestos resueltos.\n1. Tener los 71 temas completos. Y 6 programaciones modelo de 6 comunidades, en PDF protegido.\n\nTodo esto, en Preparador OGC. Las muestras, en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "pie_fb": "Cosas que tienen sentido si preparas oposiciones de Organización y Gestión Comercial (OGC)\n\n5. Ver una muestra antes de pagar.\n4. Que la clase sea solo tuya: en directo, por videollamada, una persona por sesión.\n3. Elegir tú el día y la hora, con el profesor.\n2. Practicar con supuestos resueltos.\n1. Tener los 71 temas completos. Y 6 programaciones modelo de 6 comunidades, en PDF protegido.\n\nTodo esto, en Preparador OGC. Las muestras, aquí: https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel04\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #opositores",
+   "enlace": "https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=reels_creativos&utm_content=reel04",
+   "retenida": ""
+  },
+  {
+   "id": "A25",
+   "carpeta": "2027-01-03_peso-tasable-transporte-aereo-ejercicio-ogc",
+   "descripcion": "A25 imagen estilo Titular (1 imagen 4:5)",
+   "fecha": "2027-01-27",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-27T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a25/imagen-767915a580.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 216282,
+     "sha256": "767915a580832af1abaf31a0ed3bbca24f7e18b28ac4d313a0eb7a51afc5db87",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Supuesto rápido · Tema 70». Cinco bultos de 55 kg que pagan como 400 kg. Volumen ÷ 6.000. 480.000 cm³ por bulto: 80 kg volumétricos frente a 55 reales. Tasable: 400 kg. A 2,75 €/kg, 1.100 € de flete; 1.535 € con recargos. Punto de ruptura: 436,4 kg. Por encima, conviene pagar como 500 kg a 2,40 €. Fuente: Fuente: IATA (relación 6.000 cm³/kg). Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Cinco bultos de 55 kg que pagan como 400 kg.\n\n· Volumen ÷ 6.000. 480.000 cm³ por bulto: 80 kg volumétricos frente a 55 reales.\n· Tasable: 400 kg. A 2,75 €/kg, 1.100 € de flete; 1.535 € con recargos.\n· Punto de ruptura: 436,4 kg. Por encima, conviene pagar como 500 kg a 2,40 €.\n\nEn carga aérea se paga por el mayor entre el peso real y el volumétrico. En este supuesto de Organización y Gestión Comercial (OGC), cinco bultos de 55 kg pagan como 400 kg: 1.535 € con recargos.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #transporte",
+   "pie_fb": "Cinco bultos de 55 kg que pagan como 400 kg.\n\n· Volumen ÷ 6.000. 480.000 cm³ por bulto: 80 kg volumétricos frente a 55 reales.\n· Tasable: 400 kg. A 2,75 €/kg, 1.100 € de flete; 1.535 € con recargos.\n· Punto de ruptura: 436,4 kg. Por encima, conviene pagar como 500 kg a 2,40 €.\n\nEn carga aérea se paga por el mayor entre el peso real y el volumétrico. En este supuesto de Organización y Gestión Comercial (OGC), cinco bultos de 55 kg pagan como 400 kg: 1.535 € con recargos.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/peso-tasable-transporte-aereo-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a25&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #transporte",
+   "enlace": "https://organizacionygestioncomercial.es/blog/peso-tasable-transporte-aereo-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a25&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A26",
+   "carpeta": "2027-01-06_iva-operaciones-intracomunitarias-ejercicio-ogc",
+   "descripcion": "A26 vídeo estilo Bloques (4:5, 12 s, con música)",
+   "fecha": "2027-01-30",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-30T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a26/video-9b9153923d.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1742348,
+     "sha256": "9b9153923d82741445f87522126299a20c65d9f8788a657b6ea4bdb79c7e33e1",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Supuesto rápido · Tema 26. Compra a Alemania, venta a Francia: ¿quién paga el IVA?. Ley 37/1992, en un supuesto de OGC Cifra destacada: La compra se autoliquida. 3.780 € devengados y 3.780 € deducidos: efecto cero. Cifra destacada: La venta está exenta. Si hay transporte, NIF-IVA comunicado y modelo 349. Cifra destacada: El trimestre. 12.180 − 5.880 = 6.300 € a ingresar. Recuadro «Lo que el tribunal quiere ver»: El artículo de cada calificación: 13, 25, 85 y 90. La cifra puntúa; la norma, más. Cierre: el desarrollo completo, en el blog; busca «IVA intracomunitario ejercicio» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Compra a Alemania, venta a Francia: ¿quién paga el IVA?\n\n1) La compra se autoliquida. 2) La venta está exenta. 3) El trimestre.\n\nLo que el tribunal quiere ver: el artículo de cada calificación: 13, 25, 85 y 90.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «IVA intracomunitario ejercicio».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #fiscalidad",
+   "pie_fb": "Compra a Alemania, venta a Francia: ¿quién paga el IVA?\n\n1) La compra se autoliquida. 2) La venta está exenta. 3) El trimestre.\n\nLo que el tribunal quiere ver: el artículo de cada calificación: 13, 25, 85 y 90.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/iva-operaciones-intracomunitarias-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a26&utm_content=feed\nBusca «IVA intracomunitario ejercicio».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #fiscalidad",
+   "enlace": "https://organizacionygestioncomercial.es/blog/iva-operaciones-intracomunitarias-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a26&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A27",
+   "carpeta": "2027-01-09_temporalizacion-programacion-didactica-ogc",
+   "descripcion": "A27 carrusel estilo Noche (8 diapositivas)",
+   "fecha": "2027-02-02",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-02T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a27/c01-953f6c0dd1.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 168952,
+     "sha256": "953f6c0dd17de99189e49a915542caa0320efcccfa524d12706eb4e496a74009",
+     "alt": "Portada. Programación · Temporalización. 195 horas que tienen que cuadrar al minuto. La temporalización de la programación de OGC, con el módulo 0930 en Castilla-La Mancha",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c02-37d468b4f2.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 175794,
+     "sha256": "37d468b4f26e2f7c81816195a72d6ed271ce7d6317b98566c103cb8260f690c0",
+     "alt": "«Los tres datos de partida».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c03-c7e0ee0b30.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 151811,
+     "sha256": "c7e0ee0b3068e45c06b1d4cec769bb4f71a40a54fc46aa9209018fcb46d40338",
+     "alt": "«Los límites de la Orden 204/2024».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c04-1c1a612ae1.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 129013,
+     "sha256": "1c1a612ae14d9167d9a0f2d932f149d6e783e9e004d886eeef3257ea60328fe8",
+     "alt": "«Las horas del 0930 en la empresa».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c05-e580881bc4.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 144656,
+     "sha256": "e580881bc419b5df1d7f3d72e8698ad889e5ecb10f16fbc8c452d207d1ef2b09",
+     "alt": "«El reparto: 175 + 20 = 195».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c06-36a2a6546e.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 189576,
+     "sha256": "36a2a6546e37c92ce61c65599a7a5a8367fe361ae22a0ad71eaa30ae8afd1669",
+     "alt": "«Cómo se construye».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c07-582955563a.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 167637,
+     "sha256": "582955563adc7cc8b9de1291801259d666878e9e1d4c7cea381237f96974f42d",
+     "alt": "«Lo que el tribunal comprueba».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a27/c08-ef233afc16.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 219335,
+     "sha256": "ef233afc168be9d6658dd5c0685d8be9eafb3543245d18206aee0ef1c7ad1cfe",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «temporalización programación didáctica FP» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "En la programación de Organización y Gestión Comercial (OGC), la temporalización es la parte que el tribunal comprueba con calculadora: las horas tienen que cuadrar con el currículo, el calendario y la empresa.\n\nEn el carrusel: los tres datos de partida, los límites de la Orden 204/2024, cómo salen las 20 horas en la empresa del 0930, el reparto de 175 sesiones y 20 horas y lo que comprueba el tribunal.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "pie_fb": "En la programación de Organización y Gestión Comercial (OGC), la temporalización es la parte que el tribunal comprueba con calculadora: las horas tienen que cuadrar con el currículo, el calendario y la empresa.\n\nEn el carrusel: los tres datos de partida, los límites de la Orden 204/2024, cómo salen las 20 horas en la empresa del 0930, el reparto de 175 sesiones y 20 horas y lo que comprueba el tribunal.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/temporalizacion-programacion-didactica-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a27&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/temporalizacion-programacion-didactica-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a27&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A28",
+   "carpeta": "2027-01-12_periodo-medio-maduracion-ejercicio-ogc",
+   "descripcion": "A28 imagen estilo Fichas (1 imagen 4:5)",
+   "fecha": "2027-02-05",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-05T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a28/imagen-bfe6221eb6.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 209660,
+     "sha256": "bfe6221eb6ee81e6b177e5b0194b4c277c16866ded681f167992e2d868ba9b22",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Supuesto rápido · Tema 29». Cifra destacada «85 días». Periodo medio de maduración: un supuesto resuelto. 85 días económicos, 25 financieros. Y cuánto cuesta financiarlos. Fuente: Fuente del límite de pago: Ley 3/2004, art. 4. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "85 días Periodo medio de maduración: un supuesto resuelto.\n\n· 85 días económicos, 25 financieros.\n· Y cuánto cuesta financiarlos.\n\nEl periodo medio de maduración mide cuántos días tarda en volver el dinero invertido en la actividad. Es un cálculo de la parte práctica de Organización y Gestión Comercial (OGC): aquí, 85 días económicos y 25 financieros.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #finanzas",
+   "pie_fb": "85 días Periodo medio de maduración: un supuesto resuelto.\n\n· 85 días económicos, 25 financieros.\n· Y cuánto cuesta financiarlos.\n\nEl periodo medio de maduración mide cuántos días tarda en volver el dinero invertido en la actividad. Es un cálculo de la parte práctica de Organización y Gestión Comercial (OGC): aquí, 85 días económicos y 25 financieros.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/periodo-medio-maduracion-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a28&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #finanzas",
+   "enlace": "https://organizacionygestioncomercial.es/blog/periodo-medio-maduracion-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a28&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A29",
+   "carpeta": "2027-01-15_preguntas-criterio-supuesto-practico-ogc",
+   "descripcion": "A29 vídeo estilo Infografía (4:5, 12 s, con música)",
+   "fecha": "2027-02-08",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-08T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a29/video-9452467b55.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1430988,
+     "sha256": "9452467b5596046f2ae06669dc301d18815e0ebba05c1370691600cf7988cc33",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. El examen · El supuesto. ¿Tu supuesto será de cálculo o de criterio?. Dos exámenes oficiales de 2023 Cifra destacada: criterio Soria. 9 actividades: DAFO, riesgos, Incoterm, formas de entrada. Cifra destacada: cálculo Madrid. 4 ejercicios de 2,5 puntos con seis decimales. Cifra destacada: Criterio en 4 pasos. Dato, concepto, decisión y argumento. Recuadro «Lo que no puntúa»: Responder «depende» o listar teoría sin aplicarla al caso. Si piden un cuadro, un cuadro. Cierre: el desarrollo completo, en el blog; busca «preguntas supuesto práctico OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "¿Tu supuesto será de cálculo o de criterio?\n\n1) Soria: criterio. 2) Madrid: cálculo. 3) Criterio en 4 pasos.\n\nLo que no puntúa: responder «depende» o listar teoría sin aplicarla al caso.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «preguntas supuesto práctico OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #supuestopractico",
+   "pie_fb": "¿Tu supuesto será de cálculo o de criterio?\n\n1) Soria: criterio. 2) Madrid: cálculo. 3) Criterio en 4 pasos.\n\nLo que no puntúa: responder «depende» o listar teoría sin aplicarla al caso.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/preguntas-criterio-supuesto-practico-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a29&utm_content=feed\nBusca «preguntas supuesto práctico OGC».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #supuestopractico",
+   "enlace": "https://organizacionygestioncomercial.es/blog/preguntas-criterio-supuesto-practico-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a29&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A30",
+   "carpeta": "2027-01-18_descuento-comercial-remesa-efectos-ejercicio-ogc",
+   "descripcion": "A30 carrusel estilo Titular (8 diapositivas)",
+   "fecha": "2027-02-11",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-11T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a30/c01-bb69da9691.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 152762,
+     "sha256": "bb69da96919bd6c861d7b2b8202c5d7803dfd6c885bf52460cd06c7c85f324a0",
+     "alt": "Portada. Supuesto rápido · Tema 52. Un tipo del 5,20 % que cuesta un 8,61 %. La factura de negociación de una remesa de efectos y su coste efectivo",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c02-3a641a5887.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 127320,
+     "sha256": "3a641a58876dfbdf3ccb3de34cbe6d1dd1156d8713374e4cf6e4e41672a47156",
+     "alt": "«El enunciado».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c03-f88d3a32e1.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 135248,
+     "sha256": "f88d3a32e1d9cea301b8104b84a75544c69bea2fccf7d4251ec953e1e69668c9",
+     "alt": "«La factura de negociación».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c04-3351eda89a.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 124002,
+     "sha256": "3351eda89a73627e748848f1a03e1d9ee4e8df78962af59d26c0ff67997139b8",
+     "alt": "«Dos trampas del enunciado».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c05-4c2acc33fb.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 128760,
+     "sha256": "4c2acc33fb6986d06753d9a3c6704f2cbd9f94006d1548793789782970da5e8b",
+     "alt": "«El coste efectivo».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c06-6e6d020f55.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 145085,
+     "sha256": "6e6d020f559d87e4bec113d756c1b5977570f142896506e8ef7747a976c7dc2b",
+     "alt": "«Del nominal al efectivo».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c07-69c0e2dc7f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 131601,
+     "sha256": "69c0e2dc7f9adc5c1698d2c378d5bebb7d738a0e3235b1f3b61be74561a25f75",
+     "alt": "«Lo que el tribunal quiere ver».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a30/c08-13fd8fa70f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 206597,
+     "sha256": "13fd8fa70f1650f01ae168f63485a39a84e29a7d0bcb5b7c56e164a1fd22845b",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «descuento comercial ejercicio» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "El descuento de efectos adelanta el cobro a cambio de intereses y comisiones. Es la factura de negociación del tema 52 de Organización y Gestión Comercial (OGC): aquí, un tipo del 5,20 % acaba costando un 8,61 % efectivo.\n\nEn el carrusel: la remesa de tres efectos, la factura de negociación con días y comisión mínimos, el líquido de 21.447,57 €, el coste efectivo y lo que quiere ver el tribunal.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #matematicafinanciera",
+   "pie_fb": "El descuento de efectos adelanta el cobro a cambio de intereses y comisiones. Es la factura de negociación del tema 52 de Organización y Gestión Comercial (OGC): aquí, un tipo del 5,20 % acaba costando un 8,61 % efectivo.\n\nEn el carrusel: la remesa de tres efectos, la factura de negociación con días y comisión mínimos, el líquido de 21.447,57 €, el coste efectivo y lo que quiere ver el tribunal.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/descuento-comercial-remesa-efectos-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a30&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #matematicafinanciera",
+   "enlace": "https://organizacionygestioncomercial.es/blog/descuento-comercial-remesa-efectos-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a30&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A31",
+   "carpeta": "2027-01-21_como-leer-bases-convocatoria-oposiciones-ogc",
+   "descripcion": "A31 imagen estilo Bloques (1 imagen 4:5)",
+   "fecha": "2027-02-14",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-14T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a31/imagen-5af1cca776.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 205775,
+     "sha256": "5af1cca77622f930b06bf1e5e4d85c7d0a09a626f169e61f2cca87bdd8512a4a",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Convocatorias · Bases». Sale tu convocatoria: ¿qué lees primero?. Plazas. Que la especialidad 110 esté en el anexo. Si no está, lo demás no importa. Plazos en días hábiles. Solicitud: 20 días hábiles. Reclamar la lista provisional: 10. Pruebas y programación. Duración, peso de cada parte y formato de la programación. Fuente: Fuente: Resolución de 29/12/2025 (BOE de 31/12/2025). Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Sale tu convocatoria: ¿qué lees primero?.\n\n· Plazas. Que la especialidad 110 esté en el anexo. Si no está, lo demás no importa.\n· Plazos en días hábiles. Solicitud: 20 días hábiles. Reclamar la lista provisional: 10.\n· Pruebas y programación. Duración, peso de cada parte y formato de la programación.\n\nCuando sale la convocatoria de Organización y Gestión Comercial (OGC), no hace falta leer cien páginas: las decisiones están en seis bases.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #convocatorias",
+   "pie_fb": "Sale tu convocatoria: ¿qué lees primero?.\n\n· Plazas. Que la especialidad 110 esté en el anexo. Si no está, lo demás no importa.\n· Plazos en días hábiles. Solicitud: 20 días hábiles. Reclamar la lista provisional: 10.\n· Pruebas y programación. Duración, peso de cada parte y formato de la programación.\n\nCuando sale la convocatoria de Organización y Gestión Comercial (OGC), no hace falta leer cien páginas: las decisiones están en seis bases.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/como-leer-bases-convocatoria-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a31&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #convocatorias",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-leer-bases-convocatoria-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a31&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A32",
+   "carpeta": "2027-01-24_justificar-meritos-baremo-oposiciones-ogc",
+   "descripcion": "A32 vídeo estilo Apuntes (4:5, 12 s, con música)",
+   "fecha": "2027-02-17",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-17T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a32/video-dc46191323.mp4",
+     "tipo": "video/mp4",
+     "bytes": 2611737,
+     "sha256": "dc46191323eb43c1802f9ca468ac3981a0f957f8c5afc9ca524005c190bc2183",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Convocatorias · Méritos. Tu mérito no puntúa si el papel no es el que piden. Qué documento acredita cada apartado del baremo Cifra destacada: Experiencia. Hoja de servicios en los públicos; certificado con el visto bueno de la Inspección en los demás. Cifra destacada: Expediente. Certificación con nota media. Sin ella, cuenta como un 5. Cifra destacada: Cursos. Certificado con horas. Sin horas, no hay puntos. Recuadro «La regla común»: Solo cuentan los méritos terminados hasta el último día del plazo de solicitudes. En el Ministerio se entregan en 3 días hábiles tras aprobar. Cierre: el desarrollo completo, en el blog; busca «justificar méritos baremo oposiciones» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Tu mérito no puntúa si el papel no es el que piden\n\n1) Experiencia. 2) Expediente. 3) Cursos.\n\nLa regla común: solo cuentan los méritos terminados hasta el último día del plazo de solicitudes.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «justificar méritos baremo oposiciones».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #baremo",
+   "pie_fb": "Tu mérito no puntúa si el papel no es el que piden\n\n1) Experiencia. 2) Expediente. 3) Cursos.\n\nLa regla común: solo cuentan los méritos terminados hasta el último día del plazo de solicitudes.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/justificar-meritos-baremo-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a32&utm_content=feed\nBusca «justificar méritos baremo oposiciones».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #baremo",
+   "enlace": "https://organizacionygestioncomercial.es/blog/justificar-meritos-baremo-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a32&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A33",
+   "carpeta": "2027-01-27_tamano-muestra-ejercicio-ogc",
+   "descripcion": "A33 carrusel estilo Fichas (8 diapositivas)",
+   "fecha": "2027-02-20",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-20T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a33/c01-9d0f9dbf8b.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 206838,
+     "sha256": "9d0f9dbf8b514002234e85bf75b94106ef216a70ed21a2bee143804c1a4cc553",
+     "alt": "Portada. Supuesto rápido · Tema 7. 12.000 clientes, error del ±4 %: ¿cuántas encuestas?. Tamaño, corrección por población finita, afijación y error real, resueltos",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c02-2d9f2e2133.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 181304,
+     "sha256": "2d9f2e213323b0ef4105622ec5651dfd7de323a28b9ab298389f3a2c071f24c6",
+     "alt": "«El enunciado».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c03-a2d227dda9.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 191986,
+     "sha256": "a2d227dda9239ca781e5e8ba5019c04563a65f2a67d9ebb377446b1a3d39b208",
+     "alt": "«a) El tamaño de la muestra».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c04-bb3f8eae1d.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 166567,
+     "sha256": "bb3f8eae1dbc4d5003e672fe736c8177ad7fb8ebadb84c5f9a6921b4cfdaa500",
+     "alt": "«b) Afijación proporcional».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c05-0f97367964.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 164736,
+     "sha256": "0f973679643dee14b40b75971b78230ddb58c9fd2477e83956d21cf1b3f3f992",
+     "alt": "«c) El error real».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c06-beb62e70fb.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 211734,
+     "sha256": "beb62e70fb9cab9bbf4953991a21a7eb6981c2d40e9f5e20a7c576d2665a42f5",
+     "alt": "«d) Y con un error del ±2 %».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c07-03ac899eda.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 173348,
+     "sha256": "03ac899eda69cb7713fd7f3f9070dc7c73ed643b0529cd0e59c9493ee9be719f",
+     "alt": "«Errores que penalizan».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a33/c08-1c1baff46c.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 240657,
+     "sha256": "1c1baff46cba23a7de1f96777402b0944d5ca7b5cc5fef44ce3d8180829576c0",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «tamaño de muestra ejercicio» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "12.000 clientes, un error del ±4 % y un 95 % de confianza: 572 encuestas. Es el cálculo de investigación comercial más previsible de la parte práctica de Organización y Gestión Comercial (OGC).\n\nEn el carrusel: el tamaño con y sin corrección por población finita, el reparto por tiendas, el error real con el resultado de la encuesta, por qué un ±2 % cuadruplica la muestra y cómo comprobarlo con una ficha técnica del CIS.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #investigaciondemercados",
+   "pie_fb": "12.000 clientes, un error del ±4 % y un 95 % de confianza: 572 encuestas. Es el cálculo de investigación comercial más previsible de la parte práctica de Organización y Gestión Comercial (OGC).\n\nEn el carrusel: el tamaño con y sin corrección por población finita, el reparto por tiendas, el error real con el resultado de la encuesta, por qué un ±2 % cuadruplica la muestra y cómo comprobarlo con una ficha técnica del CIS.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/tamano-muestra-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a33&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #investigaciondemercados",
+   "enlace": "https://organizacionygestioncomercial.es/blog/tamano-muestra-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a33&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A34",
+   "carpeta": "2027-01-30_clases-individuales-oposiciones-ogc",
+   "descripcion": "A34 imagen estilo Infografía (1 imagen 4:5)",
+   "fecha": "2027-02-23",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-23T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a34/imagen-4ec69f25f6.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 177317,
+     "sha256": "4ec69f25f69a21356337d482adb73f650477403aa15959289448e73df61384d4",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Publicidad · Clases». Una clase individual de OGC, por dentro. Antes. Resuelves un supuesto con tiempo de examen y lo envías. Durante. Planteamiento, cálculos y redacción, uno a uno. Después. Una lista de errores y, si hace falta, otro ejercicio para la siguiente sesión. Fuente: Preparador OGC · Precios desde el 11/01/2027. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Una clase individual de OGC, por dentro.\n\n· Antes. Resuelves un supuesto con tiempo de examen y lo envías.\n· Durante. Planteamiento, cálculos y redacción, uno a uno.\n· Después. Una lista de errores y, si hace falta, otro ejercicio para la siguiente sesión.\n\nPublicidad · Las clases de preparación de Organización y Gestión Comercial (OGC) de Preparador OGC son en directo e individuales: una persona por sesión, con el día y la hora que acuerdas con el profesor.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #clasesonline",
+   "pie_fb": "Una clase individual de OGC, por dentro.\n\n· Antes. Resuelves un supuesto con tiempo de examen y lo envías.\n· Durante. Planteamiento, cálculos y redacción, uno a uno.\n· Después. Una lista de errores y, si hace falta, otro ejercicio para la siguiente sesión.\n\nPublicidad · Las clases de preparación de Organización y Gestión Comercial (OGC) de Preparador OGC son en directo e individuales: una persona por sesión, con el día y la hora que acuerdas con el profesor.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/clases-individuales-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a34&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #clasesonline",
+   "enlace": "https://organizacionygestioncomercial.es/blog/clases-individuales-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a34&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A35",
+   "carpeta": "2027-02-02_gestion-lineal-merchandising-ejercicio-ogc",
+   "descripcion": "A35 vídeo estilo Titular (4:5, 12 s, con música)",
+   "fecha": "2027-02-26",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-02-26T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a35/video-d384f37dbc.mp4",
+     "tipo": "video/mp4",
+     "bytes": 1341635,
+     "sha256": "d384f37dbc2f91c5cb175a5a5026a61418e651727463b24e4dabaeebb3094473",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Supuesto rápido · Merchandising. ¿Cuántos metros de lineal le das al café?. 48 metros de lineal desarrollado y cuatro familias Cifra destacada: 48 m Lineal desarrollado. 12 metros en el suelo por 4 niveles. Cifra destacada: 375 € por metro Café. 20,8 % del lineal y 40,4 % del margen. Índice 1,94. Cifra destacada: 19,5 m Reparto por margen. Frente a los 10 que tiene ahora. Recuadro «Lo que el tribunal quiere ver»: Los límites del criterio, no solo el cálculo. Caras mínimas, rotación y familias de atracción. Cierre: el desarrollo completo, en el blog; busca «ejercicio merchandising lineal» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "¿Cuántos metros de lineal le das al café?\n\n1) Lineal desarrollado: 48 m. 2) Café: 375 € por metro. 3) Reparto por margen: 19,5 m.\n\nLo que el tribunal quiere ver: los límites del criterio, no solo el cálculo.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «ejercicio merchandising lineal».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #merchandising",
+   "pie_fb": "¿Cuántos metros de lineal le das al café?\n\n1) Lineal desarrollado: 48 m. 2) Café: 375 € por metro. 3) Reparto por margen: 19,5 m.\n\nLo que el tribunal quiere ver: los límites del criterio, no solo el cálculo.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/gestion-lineal-merchandising-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a35&utm_content=feed\nBusca «ejercicio merchandising lineal».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #merchandising",
+   "enlace": "https://organizacionygestioncomercial.es/blog/gestion-lineal-merchandising-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a35&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A36",
+   "carpeta": "2027-02-05_normativa-fp-programacion-ogc-lo-3-2022",
+   "descripcion": "A36 carrusel estilo Bloques (8 diapositivas)",
+   "fecha": "2027-03-01",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-03-01T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a36/c01-ebf2474862.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 170507,
+     "sha256": "ebf24748620e031dd8e26d94baeaaf622b13d02faa8d07476027b1bd48e2b6cc",
+     "alt": "Portada. Programación · Normativa. La normativa de FP que hay que citar en la programación de 2027. Qué artículo de cada norma sostiene una decisión, y qué normas ya están derogadas",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c02-5868dcbdf1.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 175309,
+     "sha256": "5868dcbdf17e0633db939df1282fb3f1d6b83c0e48ccabab62d2a5a02a79bac0",
+     "alt": "«La pirámide».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c03-d2b8ee168d.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 154552,
+     "sha256": "d2b8ee168d127b87ccb0c1af9ab5e09b7d70749dd3271cce2c1e2a55e6fa9b3a",
+     "alt": "«Ley Orgánica 3/2022».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c04-36a5bac2d9.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 173899,
+     "sha256": "36a5bac2d9509ada4bd0574c9c2c8331007c6ff177e31089d819dbdda757c537",
+     "alt": "«El calendario ya terminó».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c05-609d6ac982.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 160065,
+     "sha256": "609d6ac982e0d4fb107de15085b65dbc921089619f15a5e2473844d88cc1df33",
+     "alt": "«Real Decreto 659/2023: la evaluación».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c06-6677782c46.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 146057,
+     "sha256": "6677782c46e3b8a8cf28ae52d14bfd92ec1207a3bbaf2025ca774541ed977926",
+     "alt": "«Normas que ya no se citan».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c07-301fae7bee.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 146710,
+     "sha256": "301fae7beec2f05b4c2c2bb963f3e8cc4c0ee455a55134c4ecf0f22a39ddafee",
+     "alt": "«Pregunta típica del tribunal».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a36/c08-c839704fb9.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 232905,
+     "sha256": "c839704fb90fdc88694b2bb82a2b78e03908604423fe7e503da5ff46470b8400",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «normativa FP programación didáctica» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "En la programación de Organización y Gestión Comercial (OGC) de 2027 la normativa de FP tiene cinco piezas, y citar una norma derogada resta.\n\nEn el carrusel: la pirámide normativa, los cuatro artículos de la Ley Orgánica 3/2022 que sostienen la programación, el calendario de implantación, la evaluación del Real Decreto 659/2023, las normas que ya no se citan y la pregunta típica del tribunal.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "pie_fb": "En la programación de Organización y Gestión Comercial (OGC) de 2027 la normativa de FP tiene cinco piezas, y citar una norma derogada resta.\n\nEn el carrusel: la pirámide normativa, los cuatro artículos de la Ley Orgánica 3/2022 que sostienen la programación, el calendario de implantación, la evaluación del Real Decreto 659/2023, las normas que ya no se citan y la pregunta típica del tribunal.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/normativa-fp-programacion-ogc-lo-3-2022/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a36&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/normativa-fp-programacion-ogc-lo-3-2022/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a36&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A37",
+   "carpeta": "2027-02-08_devoluciones-logistica-inversa-ejercicio-ogc",
+   "descripcion": "A37 imagen estilo Apuntes (1 imagen 4:5)",
+   "fecha": "2027-03-04",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-03-04T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a37/imagen-6e665739a8.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 253464,
+     "sha256": "6e665739a8a18c6e72f9c67b409912e2154a0f8cd6e6eaa04b1284e23a872f1d",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Supuesto rápido · Logística inversa». Cifra destacada «5.950 € al mes». Devoluciones y logística inversa, resuelto. 500 devoluciones: 5.950 € al mes. Desistimiento y Ley 10/2025. Fuente: Fuentes: TRLGDCU, arts. 102-108 · Ley 10/2025. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "5.950 € al mes Devoluciones y logística inversa, resuelto.\n\n· 500 devoluciones: 5.950 € al mes.\n· Desistimiento y Ley 10/2025.\n\nUna tienda online con 500 devoluciones al mes gasta 5.950 € en logística inversa. Un supuesto de Organización y Gestión Comercial (OGC) que une comercio electrónico, consumo y logística.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #ecommerce",
+   "pie_fb": "5.950 € al mes Devoluciones y logística inversa, resuelto.\n\n· 500 devoluciones: 5.950 € al mes.\n· Desistimiento y Ley 10/2025.\n\nUna tienda online con 500 devoluciones al mes gasta 5.950 € en logística inversa. Un supuesto de Organización y Gestión Comercial (OGC) que une comercio electrónico, consumo y logística.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/devoluciones-logistica-inversa-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a37&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #ecommerce",
+   "enlace": "https://organizacionygestioncomercial.es/blog/devoluciones-logistica-inversa-ejercicio-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a37&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A38",
+   "carpeta": "2027-02-11_exposicion-unidad-didactica-tribunal-ogc",
+   "descripcion": "A38 vídeo estilo Noche (4:5, 12 s, con música)",
+   "fecha": "2027-03-07",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-03-07T12:30:00Z",
+   "tipo": "REELS",
+   "formato": "video",
+   "medios": [
+    {
+     "ruta": "medios/a38/video-acd66b2088.mp4",
+     "tipo": "video/mp4",
+     "bytes": 2845337,
+     "sha256": "acd66b20884fdf5a27079d72cd9640b5f55d24a43880ee46fae36eb671da22cd",
+     "alt": "Vídeo de unos 12 segundos sin voz, con música instrumental original y rótulos animados de Preparador OGC. Portada. Programación · Unidad didáctica. Te toca la unidad: tienes una hora. Cómo usarla y cómo ordenar treinta minutos Cifra destacada: Minutos 0-15. Elegir y fijar el resultado de aprendizaje y los criterios. Cifra destacada: Minutos 15-40. Contenidos, sesiones y una actividad en detalle. Cifra destacada: Minutos 40-60. El guion a una cara, con los minutos, y ensayar el arranque. Recuadro «Qué puntúa»: Currículo y claridad: 6,5 de los 10 puntos de la unidad. Criterios del tribunal de OGC de Ceuta, 2026. Cierre: el desarrollo completo, en el blog; busca «exposición unidad didáctica oposiciones» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350,
+     "segundos": 11.93
+    }
+   ],
+   "pie_ig": "Te toca la unidad: tienes una hora\n\n1) Minutos 0-15. 2) Minutos 15-40. 3) Minutos 40-60.\n\nQué puntúa: currículo y claridad: 6,5 de los 10 puntos de la unidad.\n\nLa explicación completa, en el blog (enlace en la biografía). Busca «exposición unidad didáctica oposiciones».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "pie_fb": "Te toca la unidad: tienes una hora\n\n1) Minutos 0-15. 2) Minutos 15-40. 3) Minutos 40-60.\n\nQué puntúa: currículo y claridad: 6,5 de los 10 puntos de la unidad.\n\nLa explicación completa, en el blog: https://organizacionygestioncomercial.es/blog/exposicion-unidad-didactica-tribunal-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a38&utm_content=feed\nBusca «exposición unidad didáctica oposiciones».\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
+   "enlace": "https://organizacionygestioncomercial.es/blog/exposicion-unidad-didactica-tribunal-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a38&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A39",
+   "carpeta": "2027-02-14_como-aprovechar-muestras-ogc",
+   "descripcion": "A39 carrusel estilo Infografía (8 diapositivas)",
+   "fecha": "2027-03-10",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-03-10T12:30:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/a39/c01-9943f8d2de.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 160113,
+     "sha256": "9943f8d2deaacdedcdc0dd16c89b0123c5dd3ee155a2a0c337c6dc77f03d7a26",
+     "alt": "Portada. Publicidad · Muestras. Cuatro muestras y una tarde: cómo usarlas para medir tu nivel. Tema 1, consumo, aduanas y programación, en formato incompleto y previo registro",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c02-fe8cf024d5.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 163288,
+     "sha256": "fe8cf024d5ff6a151e351fc266d20073d61361dfc3ba561aa95aa72511ffa296",
+     "alt": "«Las cuatro muestras».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c03-fc9e9cb8ca.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 116027,
+     "sha256": "fc9e9cb8caf2a8ccfa6499cf2eeb5f39a69b2024babce99ccbf104ed4aa22ad2",
+     "alt": "«En qué orden».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c04-73b507c7cc.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 130371,
+     "sha256": "73b507c7ccb536fc49b3e11fd68a86b12018ea6f598ef858364f2d3582f635e2",
+     "alt": "«Aduanas: resuélvelo antes de leerlo».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c05-725e1ea95e.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 119152,
+     "sha256": "725e1ea95e50278eebfde805dea2b7c9ec99781693b7bd38c13f1e5b92f9e7e2",
+     "alt": "«Consumo y Tema 1».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c06-73cc07dbfc.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 125585,
+     "sha256": "73cc07dbfc06956352dc2ee0a6af89e78e00f7fec1196fea5b36bdc1e3681c24",
+     "alt": "«Cinco comprobaciones antes de comprar».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c07-c2342e9cc4.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 142207,
+     "sha256": "c2342e9cc4b710782ba16b1b060ce712816b59dd91f3f0f3c133f6eb44c4696e",
+     "alt": "«El material completo».",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/a39/c08-1f14119a94.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 176658,
+     "sha256": "1f14119a947f4822ce155ac78f5b14f54a50182d8c03f2f635afb3ca6e892aa9",
+     "alt": "Cierre: el desarrollo completo, en el blog; busca «muestras temario OGC» en organizacionygestioncomercial.es/blog. Fuentes citadas y logo de Preparador OGC.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Publicidad · Cuatro muestras del material de Organización y Gestión Comercial (OGC), en formato incompleto y previo registro. Así se aprovechan en una tarde.\n\nEn el carrusel: qué incluye cada muestra, en qué orden trabajarlas, por qué el supuesto de aduanas se resuelve antes de leerlo, cinco comprobaciones antes de comprar y los precios del material completo desde el 11/01/2027.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #temarioOGC",
+   "pie_fb": "Publicidad · Cuatro muestras del material de Organización y Gestión Comercial (OGC), en formato incompleto y previo registro. Así se aprovechan en una tarde.\n\nEn el carrusel: qué incluye cada muestra, en qué orden trabajarlas, por qué el supuesto de aduanas se resuelve antes de leerlo, cinco comprobaciones antes de comprar y los precios del material completo desde el 11/01/2027.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/como-aprovechar-muestras-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a39&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #temarioOGC",
+   "enlace": "https://organizacionygestioncomercial.es/blog/como-aprovechar-muestras-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a39&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "A40",
+   "carpeta": "2027-02-17_simulacro-primera-prueba-oposiciones-ogc",
+   "descripcion": "A40 imagen estilo Titular (1 imagen 4:5)",
+   "fecha": "2027-03-13",
+   "hora": "13:30",
+   "zona": "Europe/Madrid",
+   "utc": "2027-03-13T12:30:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/a40/imagen-7ced084f80.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 218127,
+     "sha256": "7ced084f80bdd209528b6a3c411e74d7acd1d7d366cb117a38ed74c3cc0bfecf",
+     "alt": "Imagen de Preparador OGC con la etiqueta «El examen · Simulacros». Cinco horas de examen: ¿cómo las repartes?. Supuesto: 3 horas. Sigue el peso de la práctica, y asegura el mínimo de 2,5. Tema: 1 hora y 45 minutos. Y 15 minutos para revisar. Un simulacro completo por semana. Durante las ocho semanas finales, salvo la última. Fuente: Fuente: convocatoria del Ministerio (BOE de 31/12/2025). Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Cinco horas de examen: ¿cómo las repartes?.\n\n· Supuesto: 3 horas. Sigue el peso de la práctica, y asegura el mínimo de 2,5.\n· Tema: 1 hora y 45 minutos. Y 15 minutos para revisar.\n· Un simulacro completo por semana. Durante las ocho semanas finales, salvo la última.\n\nLa primera prueba de Organización y Gestión Comercial (OGC) dura hasta cinco horas en la convocatoria del Ministerio. La quinta hora no se parece a la primera: por eso se entrena con simulacros completos.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #simulacro",
+   "pie_fb": "Cinco horas de examen: ¿cómo las repartes?.\n\n· Supuesto: 3 horas. Sigue el peso de la práctica, y asegura el mínimo de 2,5.\n· Tema: 1 hora y 45 minutos. Y 15 minutos para revisar.\n· Un simulacro completo por semana. Durante las ocho semanas finales, salvo la última.\n\nLa primera prueba de Organización y Gestión Comercial (OGC) dura hasta cinco horas en la convocatoria del Ministerio. La quinta hora no se parece a la primera: por eso se entrena con simulacros completos.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/simulacro-primera-prueba-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a40&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #simulacro",
+   "enlace": "https://organizacionygestioncomercial.es/blog/simulacro-primera-prueba-oposiciones-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a40&utm_content=feed",
+   "retenida": ""
+  }
+ ]
+}
