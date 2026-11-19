@@ -1,14 +1,14 @@
 {
  "tipo": "ogc-paginas-plugin",
  "plugin": "ogc-paginas",
- "version": "2.1.5",
- "zip": "ogc-paginas-2.1.5.zip",
- "sha256": "cab0e8d5ce7d9a7fdd127122b5ea4f09a1dec809d8ba863669842d769be42f4b",
- "bytes": 1899480,
- "fecha_unix": 1795048113,
- "fecha": "2026-11-19T01:28:33+01:00",
+ "version": "2.1.6",
+ "zip": "ogc-paginas-2.1.6.zip",
+ "sha256": "acdeca2b6fff2e3138966c563bae927d07040b61b7b41bb8c63319329c901d4e",
+ "bytes": 1909963,
+ "fecha_unix": 1795072123,
+ "fecha": "2026-11-19T08:08:43+01:00",
  "requiere_wp": "6.0",
  "requiere_php": "7.4",
  "probado_wp": "6.8",
- "notas": "OGC Páginas: fechas del blog al día (03-10 publicadas el 19/11; 11-20 cada 2 días hasta el 09/12)"
+ "notas": "OGC Páginas 2.1.6 (19/11/2026): sirve /llms-full.txt (versión ampliada de llms.txt, texto firmado del paquete). Sin otros cambios."
 }
