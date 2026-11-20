@@ -43,6 +43,14 @@ jobs:
           echo "::add-mask::$META_ACCESS_TOKEN"
           export MEDIA_SHA=$(git rev-parse HEAD)
           if [ "$MODO" = "diagnostico" ]; then node .github/scripts/publicar-redes.mjs --diagnostico; else node .github/scripts/publicar-redes.mjs; fi
+      - name: Cifras de redes para la secretaria (una vez al día)
+        if: always() && (github.event.schedule == '40 12 * * *' || github.event_name == 'workflow_dispatch' || github.event_name == 'push')
+        continue-on-error: true
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+        run: |
+          echo "::add-mask::$META_ACCESS_TOKEN"
+          node .github/scripts/metricas-redes.mjs
       - name: Guardar el registro
         if: always()
         run: |
