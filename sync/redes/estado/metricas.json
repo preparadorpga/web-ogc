@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-11-20T21:46:20.210Z",
+  "errores": [
+    "facebook posts: 1380006258537627/posts: 10 (#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
+  ],
+  "facebook": {
+    "seguidores": 0,
+    "me_gusta_pagina": 0
+  },
+  "instagram": {
+    "usuario": "preparadorogc",
+    "seguidores": 0,
+    "publicaciones": 2,
+    "ultimas": [
+      {
+        "fecha": "2026-11-19T16:54:06+0000",
+        "tipo": "CAROUSEL_ALBUM",
+        "texto": "",
+        "me_gusta": 0,
+        "comentarios": 0,
+        "enlace": "https://www.instagram.com/p/Df7jl21kUJ6/"
+      },
+      {
+        "fecha": "2026-11-12T18:18:40+0000",
+        "tipo": "CAROUSEL_ALBUM",
+        "texto": "Navarra es la única comunidad con convocatoria de Organizaci",
+        "me_gusta": 0,
+        "comentarios": 0,
+        "enlace": "https://www.instagram.com/p/DfprtHIEZFB/"
+      }
+    ]
+  },
+  "historico": [
+    {
+      "dia": "2026-11-20",
+      "ig": 0,
+      "fb": 0
+    }
+  ]
+}
