@@ -1,9 +1,9 @@
 {
  "tipo": "ogc-redes",
  "formato": 1,
- "serie": 1795173264,
- "fecha_unix": 1795173264,
- "fecha": "2026-11-20T12:14:24+01:00",
+ "serie": 1795176009,
+ "fecha_unix": 1795176009,
+ "fecha": "2026-11-20T13:00:09+01:00",
  "cuenta_ig": "preparadorogc",
  "publicaciones": [
   {
@@ -119,6 +119,32 @@
    "pie_ig": "Las oposiciones de OGC las convocan las comunidades, que siguen su calendario.\n\n· Ceuta y Melilla dependen del Ministerio, y el Gobierno quedará en funciones tras el 29/11.\n· Las pruebas, el temario y el baremo no cambian: el RD 276/2007 y la Orden de 1996 siguen en vigor.\n\nLas elecciones generales del 29 de noviembre no paralizan las oposiciones de Organización y Gestión Comercial (OGC) de 2027: las convocan las comunidades.\n\nEl artículo completo está en el enlace de la biografía. Guárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
    "pie_fb": "Las oposiciones de OGC las convocan las comunidades, que siguen su calendario.\n\n· Ceuta y Melilla dependen del Ministerio, y el Gobierno quedará en funciones tras el 29/11.\n· Las pruebas, el temario y el baremo no cambian: el RD 276/2007 y la Orden de 1996 siguen en vigor.\n\nLas elecciones generales del 29 de noviembre no paralizan las oposiciones de Organización y Gestión Comercial (OGC) de 2027: las convocan las comunidades.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/elecciones-29-noviembre-oposiciones-docentes-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a05&utm_content=feed\nGuárdala para tenerla a mano.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
    "enlace": "https://organizacionygestioncomercial.es/blog/elecciones-29-noviembre-oposiciones-docentes-2027/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a05&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "S01",
+   "carpeta": "2026-11-27_dia-del-docente-2026",
+   "descripcion": "S01 imagen estilo Bloques (felicitación: Día del Docente)",
+   "fecha": "2026-11-27",
+   "hora": "18:00",
+   "zona": "Europe/Madrid",
+   "utc": "2026-11-27T17:00:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/s01/imagen-463621ef12.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 141728,
+     "sha256": "463621ef122b66a0e0b391898272d8399c938e284fd33ac6b4c033ed772ae9df",
+     "alt": "Imagen de Preparador OGC con la etiqueta «27 de noviembre»: Feliz Día del Docente. A quienes ya enseñáis en FP, cada día en el aula y en la empresa. Y a quienes os preparáis para hacerlo: ánimo, este oficio merece la pena. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Feliz Día del Docente 🍎\n\nA quienes ya enseñáis en Formación Profesional, en el aula y en la empresa: gracias por vuestro trabajo.\n\nY a quienes os preparáis para hacerlo con la oposición de Organización y Gestión Comercial: ánimo, este oficio merece la pena.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #DiaDelDocente",
+   "pie_fb": "Feliz Día del Docente 🍎\n\nA quienes ya enseñáis en Formación Profesional, en el aula y en la empresa: gracias por vuestro trabajo.\n\nY a quienes os preparáis para hacerlo con la oposición de Organización y Gestión Comercial: ánimo, este oficio merece la pena.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #DiaDelDocente\n\nhttps://organizacionygestioncomercial.es/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_dia_docente&utm_content=feed\n\nVicente Ruiz Gómez y el equipo de Preparador OGC",
+   "enlace": "https://organizacionygestioncomercial.es/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_dia_docente&utm_content=feed",
    "retenida": ""
   },
   {
@@ -487,6 +513,32 @@
    "retenida": ""
   },
   {
+   "id": "S02",
+   "carpeta": "2026-12-24_navidad-2026",
+   "descripcion": "S02 imagen estilo Noche (felicitación: Navidad)",
+   "fecha": "2026-12-24",
+   "hora": "18:00",
+   "zona": "Europe/Madrid",
+   "utc": "2026-12-24T17:00:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/s02/imagen-1e2f8d09f2.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 206940,
+     "sha256": "1e2f8d09f279de469e9798e7f9f6128fc380c316a814c050d0f8cdcf48d9a5c8",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Navidad 2026»: Feliz Navidad de parte del equipo de Preparador OGC. Descansa estos días: en enero se nota más la constancia que las horas sueltas. Si te apetece un rato, repasa un esquema o lee las bases de tu comunidad. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Feliz Navidad de parte de todo el equipo de Preparador OGC 🎄\n\nDescansa estos días: en enero se nota más la constancia que las horas sueltas. Y si te apetece un rato, repasa un esquema o lee las bases de tu comunidad.\n\nGracias por estar aquí. Nos vemos en 2027.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "Feliz Navidad de parte de todo el equipo de Preparador OGC 🎄\n\nDescansa estos días: en enero se nota más la constancia que las horas sueltas. Y si te apetece un rato, repasa un esquema o lee las bases de tu comunidad.\n\nGracias por estar aquí. Nos vemos en 2027.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027\n\nhttps://organizacionygestioncomercial.es/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_navidad&utm_content=feed\n\nVicente Ruiz Gómez y el equipo de Preparador OGC",
+   "enlace": "https://organizacionygestioncomercial.es/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_navidad&utm_content=feed",
+   "retenida": ""
+  },
+  {
    "id": "A12",
    "carpeta": "2026-12-16_reforma-aduanera-ue-2026-temas-ogc",
    "descripcion": "A12 carrusel estilo Noche (8 diapositivas)",
@@ -629,6 +681,77 @@
    "retenida": ""
   },
   {
+   "id": "S03",
+   "carpeta": "2027-01-01_ano-nuevo-2027",
+   "descripcion": "S03 carrusel estilo Fichas (felicitación: Año nuevo, 6 diapositivas)",
+   "fecha": "2027-01-01",
+   "hora": "18:00",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-01T17:00:00Z",
+   "tipo": "CAROUSEL",
+   "formato": "carrusel",
+   "medios": [
+    {
+     "ruta": "medios/s03/c01-13da40d06f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 220085,
+     "sha256": "13da40d06ff241fd7d2db60de07c17818f035133255a14b4cca6f76954de0a51",
+     "alt": "Portada: 2027, tres propósitos para tu oposición de OGC que sí se cumplen.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/s03/c02-e4995d440d.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 204737,
+     "sha256": "e4995d440d13172ca78af39fcb951ac693a8d161c6b4aa5015d4f17c86bacdf9",
+     "alt": "Propósito 1: un calendario que quepa en tu semana; mejor pocas horas fijas que muchas que no llegan nunca.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/s03/c03-93e8e0de41.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 180128,
+     "sha256": "93e8e0de4195bd442138431b7c5829fd1a53a76f1d50d033068f829afa819165",
+     "alt": "Propósito 2: un supuesto resuelto cada semana, con el tiempo del examen y cada cálculo justificado.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/s03/c04-9b885f337f.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 191914,
+     "sha256": "9b885f337fd23a7c58b591f3a5099ef9e3ef95ebb2e6883e249d53eef3c59944",
+     "alt": "Propósito 3: la programación didáctica empezada en enero.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/s03/c05-71139f3987.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 209703,
+     "sha256": "71139f398730f43a714695a11620908cafefdb97b5f4009cc37da97e8273c823",
+     "alt": "Lista antes de la convocatoria: requisitos, méritos justificados, bloque de temas e índice de la programación.",
+     "ancho": 1080,
+     "alto": 1350
+    },
+    {
+     "ruta": "medios/s03/c06-6ab65abf01.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 216918,
+     "sha256": "6ab65abf01613d16e22598a05d00243048796597ecabaff9acb8295ef1205610",
+     "alt": "Cierre: el desarrollo completo en el blog de organizacionygestioncomercial.es, con las fuentes.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "¡Feliz 2027! Gracias por acompañarnos en nuestro primer año: Preparador OGC nació en 2026.\n\n Tres propósitos para tu oposición de OGC que sí se cumplen: pequeños, medibles y para empezar el 1 de enero.\n\nEn el carrusel: un calendario que quepa en tu semana, un supuesto resuelto cada semana, la programación empezada en enero y la lista de lo que conviene tener listo antes de que salga tu convocatoria.\n\nEl plan de diciembre a junio, paso a paso, está en el enlace de la biografía. \n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "¡Feliz 2027! Gracias por acompañarnos en nuestro primer año: Preparador OGC nació en 2026.\n\nTres propósitos para tu oposición de OGC que sí se cumplen: pequeños, medibles y para empezar el 1 de enero.\n\nEn el carrusel: un calendario que quepa en tu semana, un supuesto resuelto cada semana, la programación empezada en enero y la lista de lo que conviene tener listo antes de que salga tu convocatoria.\n\nEl plan de diciembre a junio, paso a paso, está aquí: https://organizacionygestioncomercial.es/blog/plan-estudio-oposiciones-ogc-diciembre-junio/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_ano_nuevo&utm_content=feed \n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027\n\nVicente Ruiz Gómez y el equipo de Preparador OGC",
+   "enlace": "https://organizacionygestioncomercial.es/blog/plan-estudio-oposiciones-ogc-diciembre-junio/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_ano_nuevo&utm_content=feed",
+   "retenida": ""
+  },
+  {
    "id": "A15",
    "carpeta": "2026-12-25_formacion-en-empresa-fp-dual-programacion-ogc",
    "descripcion": "A15 carrusel estilo Bloques (8 diapositivas)",
@@ -715,6 +838,32 @@
    "pie_ig": "Desde la Ley Orgánica 3/2022 toda la FP es dual, y tu programación de Organización y Gestión Comercial (OGC) tiene que reflejarlo.\n\nEn el carrusel: el régimen general y el intensivo (duración, resultados de aprendizaje, contrato y retribución), qué cambia en la programación de un módulo, un ejemplo con el 0627 y los errores que más se ven.\n\nEl artículo completo está en el enlace de la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
    "pie_fb": "Desde la Ley Orgánica 3/2022 toda la FP es dual, y tu programación de Organización y Gestión Comercial (OGC) tiene que reflejarlo.\n\nEn el carrusel: el régimen general y el intensivo (duración, resultados de aprendizaje, contrato y retribución), qué cambia en la programación de un módulo, un ejemplo con el 0627 y los errores que más se ven.\n\nEl artículo completo: https://organizacionygestioncomercial.es/blog/formacion-en-empresa-fp-dual-programacion-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a15&utm_content=feed\n\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #programaciondidactica",
    "enlace": "https://organizacionygestioncomercial.es/blog/formacion-en-empresa-fp-dual-programacion-ogc/?utm_source=facebook&utm_medium=social&utm_campaign=blog_a15&utm_content=feed",
+   "retenida": ""
+  },
+  {
+   "id": "S04",
+   "carpeta": "2027-01-05_reyes-2027",
+   "descripcion": "S04 imagen estilo Bloques (felicitación: Reyes)",
+   "fecha": "2027-01-05",
+   "hora": "18:00",
+   "zona": "Europe/Madrid",
+   "utc": "2027-01-05T17:00:00Z",
+   "tipo": "IMAGE",
+   "formato": "imagen",
+   "medios": [
+    {
+     "ruta": "medios/s04/imagen-346ade5c61.jpg",
+     "tipo": "image/jpeg",
+     "bytes": 181317,
+     "sha256": "346ade5c6167721afdc9e27c89f9f0a667270d317804d6fd1283c4db4159674e",
+     "alt": "Imagen de Preparador OGC con la etiqueta «Reyes 2027»: el mejor regalo para tu oposición, constancia y un buen plan. Temario, supuestos y programación de OGC en PDF protegido; clases en directo e individuales; muestras gratis. Pie con organizacionygestioncomercial.es y @preparadorogc.",
+     "ancho": 1080,
+     "alto": 1350
+    }
+   ],
+   "pie_ig": "Noche de Reyes 👑 Nuestra carta para tu oposición: constancia, calma el día del sorteo de temas y un supuesto que cuadre a la primera.\n\nLo que más ayuda a preparar OGC no cabe en un paquete: constancia y un buen plan.\n\n· Temario de los 71 temas, supuestos resueltos y programación, en PDF protegido.\n· Clases en directo e individuales, con el día y la hora que elijáis tú y el preparador.\n\nMira las muestras gratis antes de decidir: el enlace está en la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027",
+   "pie_fb": "Noche de Reyes 👑 Nuestra carta para tu oposición: constancia, calma el día del sorteo de temas y un supuesto que cuadre a la primera.\n\nLo que más ayuda a preparar OGC no cabe en un paquete: constancia y un buen plan.\n\n· Temario de los 71 temas, supuestos resueltos y programación, en PDF protegido.\n· Clases en directo e individuales, con el día y la hora que elijáis tú y el preparador.\n\nMira las muestras gratis antes de decidir: el enlace está en la biografía.\n\n#oposicionesOGC #organizacionygestioncomercial #oposicionesFP #oposicionesdocentes #oposiciones2027\n\nhttps://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_reyes&utm_content=feed\n\nVicente Ruiz Gómez y el equipo de Preparador OGC",
+   "enlace": "https://organizacionygestioncomercial.es/muestras-gratis/?utm_source=facebook&utm_medium=social&utm_campaign=temporada_reyes&utm_content=feed",
    "retenida": ""
   },
   {
