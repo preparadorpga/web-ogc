@@ -51,6 +51,7 @@ jobs:
         run: |
           echo "::add-mask::$META_ACCESS_TOKEN"
           node .github/scripts/metricas-redes.mjs
+          node .github/scripts/salud-web.mjs || true
       - name: Guardar el registro
         if: always()
         run: |
