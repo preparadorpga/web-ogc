@@ -1,0 +1,31 @@
+# Comprueba que el secreto STRIPE_OGC_RESTRICTED_KEY funciona, sin mostrarlo: solo lecturas, nada se crea.
+name: Comprobar clave Stripe OGC
+on:
+  push:
+    branches: [main]
+    paths: ["sync/stripe/prueba/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Probar la clave (lectura)
+        env:
+          K: ${{ secrets.STRIPE_OGC_RESTRICTED_KEY }}
+        run: |
+          echo "::add-mask::$K"
+          tipo=$(printf '%s' "$K" | cut -c1-8)
+          p=$(curl -s -o /dev/null -w '%{http_code}' -u "$K:" "https://api.stripe.com/v1/products?limit=1")
+          l=$(curl -s -o /dev/null -w '%{http_code}' -u "$K:" "https://api.stripe.com/v1/payment_links?limit=1")
+          c=$(curl -s -o /dev/null -w '%{http_code}' -u "$K:" "https://api.stripe.com/v1/customers?limit=1")
+          printf '{"fecha":"%s","prefijo":"%s","products":%s,"payment_links":%s,"customers_debe_ser_403":%s}\n' "$(date -u +%FT%TZ)" "${tipo%%_*}_${tipo#*_}" "$p" "$l" "$c" > sync/stripe/estado.json
+          cat sync/stripe/estado.json
+      - name: Guardar
+        run: |
+          git config user.name agente-ogc; git config user.email agente-ogc@users.noreply.github.com
+          git add sync/stripe/estado.json; git commit -m "Stripe OGC: comprobación de la clave" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
