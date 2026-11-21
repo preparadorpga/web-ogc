@@ -1,11 +1,25 @@
 {
-  "fecha": "2026-11-21T09:03:11.780Z",
-  "errores": [
-    "facebook posts: 1380006258537627/posts: 10 (#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details."
-  ],
+  "fecha": "2026-11-21T10:19:15.211Z",
+  "errores": [],
   "facebook": {
     "seguidores": 0,
-    "me_gusta_pagina": 0
+    "me_gusta_pagina": 0,
+    "ultimas": [
+      {
+        "fecha": "2026-11-12T09:18:41+0000",
+        "texto": "",
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0
+      },
+      {
+        "fecha": "2026-11-12T09:10:16+0000",
+        "texto": "",
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0
+      }
+    ]
   },
   "instagram": {
     "usuario": "preparadorogc",

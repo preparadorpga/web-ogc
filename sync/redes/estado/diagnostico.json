@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-11-21T09:02:53.564Z",
+  "fecha": "2026-11-21T10:18:56.388Z",
   "version_graph": "v24.0",
-  "commit_medios": "964d487cf1fa4b155f3b8e1cd98339958dc68bde",
+  "commit_medios": "dc54120939428a0cb58025c0f10b88520e585461",
   "pasos": [
     {
       "nombre": "Token válido y página encontrada",
@@ -21,22 +21,22 @@
     {
       "nombre": "Medio accesible (image/jpeg)",
       "ok": true,
-      "detalle": "https://raw.githubusercontent.com/preparadorpga/web-ogc/964d487cf1fa4b155f3b8e1cd98339958dc68bde/sync/redes/medios/a03/c01-89e7e755d3.jpg"
+      "detalle": "https://raw.githubusercontent.com/preparadorpga/web-ogc/dc54120939428a0cb58025c0f10b88520e585461/sync/redes/medios/a03/c01-89e7e755d3.jpg"
     },
     {
       "nombre": "Medio accesible (video/mp4)",
       "ok": true,
-      "detalle": "https://cdn.jsdelivr.net/gh/preparadorpga/web-ogc@964d487cf1fa4b155f3b8e1cd98339958dc68bde/sync/redes/medios/r01/video-fd9882ab79.mp4"
+      "detalle": "https://cdn.jsdelivr.net/gh/preparadorpga/web-ogc@dc54120939428a0cb58025c0f10b88520e585461/sync/redes/medios/r01/video-fd9882ab79.mp4"
     },
     {
       "nombre": "Instagram: contenedor de prueba creado y procesado (sin publicar)",
       "ok": true,
-      "detalle": "17962941114057517"
+      "detalle": "17962951608057517"
     },
     {
       "nombre": "Facebook: foto de prueba sin publicar",
       "ok": true,
-      "detalle": "122109914055543754 (borrada)"
+      "detalle": "122109941409543754 (borrada)"
     }
   ],
   "pagina": {
