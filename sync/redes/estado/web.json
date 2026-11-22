@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-21T13:40:06.386Z",
+  "fecha": "2026-11-22T13:40:44.768Z",
   "paginas": {
     "/": 200,
     "/tienda/": 200,
@@ -9,6 +9,11 @@
   },
   "errores": [],
   "blog": [
+    {
+      "titulo": "Valor en aduana e IVA a la importación: un ejemplo con FCA resuelto y comentado",
+      "enlace": "https://organizacionygestioncomercial.es/blog/supuesto-resuelto-incoterms-valor-en-aduana/",
+      "fecha": "2026-11-22T08:00:00.000Z"
+    },
     {
       "titulo": "Incoterms 2020 en los supuestos de OGC: los nueve errores que más puntos quitan",
       "enlace": "https://organizacionygestioncomercial.es/blog/errores-incoterms-2020-supuestos-ogc/",
@@ -28,11 +33,6 @@
       "titulo": "Qué temas de OGC preparar: cómo elegir los 31 a 37 que vas a llevar",
       "enlace": "https://organizacionygestioncomercial.es/blog/que-temas-preparar-ogc/",
       "fecha": "2026-11-18T23:50:00.000Z"
-    },
-    {
-      "titulo": "Cómo elegir preparador de OGC: siete criterios que puedes comprobar antes de pagar",
-      "enlace": "https://organizacionygestioncomercial.es/blog/como-elegir-preparador-ogc/",
-      "fecha": "2026-11-18T23:40:00.000Z"
     }
   ]
 }
