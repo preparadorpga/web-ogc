@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-24T13:56:12.479Z",
+  "fecha": "2026-11-25T13:57:16.065Z",
   "paginas": {
     "/": 200,
     "/tienda/": 200,
@@ -9,6 +9,11 @@
   },
   "errores": [],
   "blog": [
+    {
+      "titulo": "Reforma aduanera de la UE y derecho de 3 euros: qué actualizar en los temas de OGC",
+      "enlace": "https://organizacionygestioncomercial.es/blog/reforma-aduanera-ue-2026-temas-ogc/",
+      "fecha": "2026-11-25T08:00:00.000Z"
+    },
     {
       "titulo": "Valor en aduana e IVA a la importación: un ejemplo con FCA resuelto y comentado",
       "enlace": "https://organizacionygestioncomercial.es/blog/supuesto-resuelto-incoterms-valor-en-aduana/",
@@ -28,11 +33,6 @@
       "titulo": "Plan de estudio para OGC de diciembre a junio: siete meses hasta la primera prueba",
       "enlace": "https://organizacionygestioncomercial.es/blog/plan-estudio-oposiciones-ogc-diciembre-junio/",
       "fecha": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "titulo": "Qué temas de OGC preparar: cómo elegir los 31 a 37 que vas a llevar",
-      "enlace": "https://organizacionygestioncomercial.es/blog/que-temas-preparar-ogc/",
-      "fecha": "2026-11-18T23:50:00.000Z"
     }
   ]
 }
