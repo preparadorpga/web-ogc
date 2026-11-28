@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-28T08:01:45.198Z",
+  "fecha": "2026-11-28T13:45:41.448Z",
   "errores": [],
   "facebook": {
     "seguidores": 0,
@@ -45,8 +45,16 @@
   "instagram": {
     "usuario": "preparadorogc",
     "seguidores": 0,
-    "publicaciones": 5,
+    "publicaciones": 6,
     "ultimas": [
+      {
+        "fecha": "2026-11-28T13:45:31+0000",
+        "tipo": "VIDEO",
+        "texto": "POV: prepara Organización y Gestión Comercial con clases en ",
+        "me_gusta": 0,
+        "comentarios": 0,
+        "enlace": "https://www.instagram.com/reel/DgSZHN_h39i/"
+      },
       {
         "fecha": "2026-11-27T17:53:02+0000",
         "tipo": "IMAGE",
@@ -78,14 +86,6 @@
         "me_gusta": 0,
         "comentarios": 0,
         "enlace": "https://www.instagram.com/p/Df7jl21kUJ6/"
-      },
-      {
-        "fecha": "2026-11-12T18:18:40+0000",
-        "tipo": "CAROUSEL_ALBUM",
-        "texto": "Navarra es la única comunidad con convocatoria de Organizaci",
-        "me_gusta": 0,
-        "comentarios": 0,
-        "enlace": "https://www.instagram.com/p/DfprtHIEZFB/"
       }
     ]
   },
