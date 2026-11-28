@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-11-27T08:01:49.456Z",
+  "fecha": "2026-11-28T08:01:23.458Z",
   "version_graph": "v24.0",
-  "commit_medios": "c76d48c0b765326c7ed8063f2d1fba388704fb38",
+  "commit_medios": "d9e308829172b1e70106dad6271162bdabfbe6ed",
   "pasos": [
     {
       "nombre": "Token válido y página encontrada",
@@ -16,27 +16,27 @@
     {
       "nombre": "Cupo de publicación de Instagram",
       "ok": true,
-      "detalle": "{\"quota_usage\":0,\"config\":{\"quota_total\":100,\"quota_duration\":86400}}"
+      "detalle": "{\"quota_usage\":1,\"config\":{\"quota_total\":100,\"quota_duration\":86400}}"
     },
     {
       "nombre": "Medio accesible (image/jpeg)",
       "ok": true,
-      "detalle": "https://raw.githubusercontent.com/preparadorpga/web-ogc/c76d48c0b765326c7ed8063f2d1fba388704fb38/sync/redes/medios/a03/c01-89e7e755d3.jpg"
+      "detalle": "https://raw.githubusercontent.com/preparadorpga/web-ogc/d9e308829172b1e70106dad6271162bdabfbe6ed/sync/redes/medios/a03/c01-89e7e755d3.jpg"
     },
     {
       "nombre": "Medio accesible (video/mp4)",
       "ok": true,
-      "detalle": "https://cdn.jsdelivr.net/gh/preparadorpga/web-ogc@c76d48c0b765326c7ed8063f2d1fba388704fb38/sync/redes/medios/r01/video-fd9882ab79.mp4"
+      "detalle": "https://cdn.jsdelivr.net/gh/preparadorpga/web-ogc@d9e308829172b1e70106dad6271162bdabfbe6ed/sync/redes/medios/r01/video-fd9882ab79.mp4"
     },
     {
       "nombre": "Instagram: contenedor de prueba creado y procesado (sin publicar)",
       "ok": true,
-      "detalle": "17964297537057517"
+      "detalle": "17964500175057517"
     },
     {
       "nombre": "Facebook: foto de prueba sin publicar",
       "ok": true,
-      "detalle": "122112696999543754 (borrada)"
+      "detalle": "122113116549543754 (borrada)"
     }
   ],
   "pagina": {
@@ -51,9 +51,9 @@
     "usuario": "preparadorogc"
   },
   "proxima": {
-    "id": "S01",
-    "utc": "2026-11-27T17:00:00Z",
-    "tipo": "IMAGE"
+    "id": "R01",
+    "utc": "2026-11-28T12:30:00Z",
+    "tipo": "REELS"
   },
   "resultado": "OK"
 }

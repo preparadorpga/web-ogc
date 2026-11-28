@@ -1,10 +1,17 @@
 {
-  "fecha": "2026-11-27T13:56:17.120Z",
+  "fecha": "2026-11-28T08:01:45.198Z",
   "errores": [],
   "facebook": {
     "seguidores": 0,
     "me_gusta_pagina": 0,
     "ultimas": [
+      {
+        "fecha": "2026-11-27T17:53:05+0000",
+        "texto": "Feliz Día del Docente 🍎\n\nA quienes ya enseñáis en Formación",
+        "reacciones": 0,
+        "comentarios": 0,
+        "compartidos": 0
+      },
       {
         "fecha": "2026-11-25T13:57:06+0000",
         "texto": "Las oposiciones de OGC las convocan las comunidades, que sig",
@@ -38,8 +45,16 @@
   "instagram": {
     "usuario": "preparadorogc",
     "seguidores": 0,
-    "publicaciones": 4,
+    "publicaciones": 5,
     "ultimas": [
+      {
+        "fecha": "2026-11-27T17:53:02+0000",
+        "tipo": "IMAGE",
+        "texto": "Feliz Día del Docente 🍎\n\nA quienes ya enseñáis en Formación",
+        "me_gusta": 0,
+        "comentarios": 0,
+        "enlace": "https://www.instagram.com/p/DgQQrLRju02/"
+      },
       {
         "fecha": "2026-11-25T13:57:03+0000",
         "tipo": "IMAGE",
@@ -112,6 +127,11 @@
     },
     {
       "dia": "2026-11-27",
+      "ig": 0,
+      "fb": 0
+    },
+    {
+      "dia": "2026-11-28",
       "ig": 0,
       "fb": 0
     }
