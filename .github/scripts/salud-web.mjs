@@ -7,8 +7,9 @@ const UA = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi
 const out = { fecha: new Date().toISOString(), paginas: {}, antibot: false, estado: "ok", errores: [] };
 async function pedir(url) {
   for (let i = 0; i < 3; i++) {
-    const r = await fetch(url, { redirect: "follow", headers: UA });
-    const t = await r.text();
+    let r, t;
+    try { r = await fetch(url, { redirect: "follow", headers: UA, signal: AbortSignal.timeout(30000) }); t = await r.text(); }
+    catch (e) { if (i === 2) throw e; await new Promise((s) => setTimeout(s, 15000)); continue; }
     const reto = r.status === 202 || /sgcaptcha|sg-captcha|\.well-known\/sgcaptcha/i.test(t);
     if (!reto) return { status: r.status, texto: t };
     await new Promise((s) => setTimeout(s, 4000));
